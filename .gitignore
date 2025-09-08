@@ -131,3 +131,7 @@ dmypy.json
 
 # Ignore DataSpell
 .idea/
+
+
+# ignore raw data files
+raw_data/

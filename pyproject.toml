@@ -4,4 +4,8 @@ version = "0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "bblocks-data-importers>=0.4.1",
+    "bblocks-places>=0.0.3",
+    "pandas>=2.3.2",
+]

@@ -1,0 +1,93 @@
+year,income_level,actual_spending,expected_spending,units
+2000,High income,3970635394121.671,,Constant 2022 US$
+2000,Low income,7377465792.335657,,Constant 2022 US$
+2000,Lower middle income,89290075397.8711,,Constant 2022 US$
+2000,Upper middle income,432496905811.83826,,Constant 2022 US$
+2001,High income,4195016025393.319,,Constant 2022 US$
+2001,Low income,8138968245.515351,,Constant 2022 US$
+2001,Lower middle income,98468639052.62442,,Constant 2022 US$
+2001,Upper middle income,449824037042.74457,,Constant 2022 US$
+2002,High income,4458899656260.38,,Constant 2022 US$
+2002,Low income,9304811077.005884,,Constant 2022 US$
+2002,Lower middle income,99912621175.03447,,Constant 2022 US$
+2002,Upper middle income,474211441065.5784,,Constant 2022 US$
+2003,High income,4694698616760.254,,Constant 2022 US$
+2003,Low income,10502396987.796503,,Constant 2022 US$
+2003,Lower middle income,108649554138.98126,,Constant 2022 US$
+2003,Upper middle income,508878417275.13934,,Constant 2022 US$
+2004,High income,4864945822815.975,,Constant 2022 US$
+2004,Low income,11392625767.1679,,Constant 2022 US$
+2004,Lower middle income,114999013102.84088,,Constant 2022 US$
+2004,Upper middle income,543756666436.61444,,Constant 2022 US$
+2005,High income,5030368680751.38,,Constant 2022 US$
+2005,Low income,12129621462.55155,,Constant 2022 US$
+2005,Lower middle income,122164335587.04123,,Constant 2022 US$
+2005,Upper middle income,576335906383.896,,Constant 2022 US$
+2006,High income,5213037304178.502,,Constant 2022 US$
+2006,Low income,13562006838.012024,,Constant 2022 US$
+2006,Lower middle income,129324255472.13857,,Constant 2022 US$
+2006,Upper middle income,611522125852.188,,Constant 2022 US$
+2007,High income,5384521646917.874,,Constant 2022 US$
+2007,Low income,14770373662.291471,,Constant 2022 US$
+2007,Lower middle income,135353039701.60373,,Constant 2022 US$
+2007,Upper middle income,650985673522.3716,,Constant 2022 US$
+2008,High income,5537407207028.13,,Constant 2022 US$
+2008,Low income,15061409759.44307,,Constant 2022 US$
+2008,Lower middle income,141319391063.21494,,Constant 2022 US$
+2008,Upper middle income,703252127124.7319,,Constant 2022 US$
+2009,High income,5775786609162.142,,Constant 2022 US$
+2009,Low income,16910316060.170807,,Constant 2022 US$
+2009,Lower middle income,151095436711.42844,,Constant 2022 US$
+2009,Upper middle income,787874706850.0088,,Constant 2022 US$
+2010,High income,5909601417838.527,,Constant 2022 US$
+2010,Low income,17224636528.861725,,Constant 2022 US$
+2010,Lower middle income,157899454108.13306,,Constant 2022 US$
+2010,Upper middle income,826907727928.1018,,Constant 2022 US$
+2011,High income,6043090630642.082,,Constant 2022 US$
+2011,Low income,16605541664.067558,,Constant 2022 US$
+2011,Lower middle income,164037672421.2559,,Constant 2022 US$
+2011,Upper middle income,885183915199.027,,Constant 2022 US$
+2012,High income,6168440133193.486,,Constant 2022 US$
+2012,Low income,16723596661.917738,,Constant 2022 US$
+2012,Lower middle income,173533891415.78046,,Constant 2022 US$
+2012,Upper middle income,957182608780.4686,,Constant 2022 US$
+2013,High income,6258753788857.315,,Constant 2022 US$
+2013,Low income,18375940714.96865,,Constant 2022 US$
+2013,Lower middle income,192562043218.99603,,Constant 2022 US$
+2013,Upper middle income,1027296680768.2854,,Constant 2022 US$
+2014,High income,6471362825665.259,,Constant 2022 US$
+2014,Low income,19310202170.298134,,Constant 2022 US$
+2014,Lower middle income,200043429947.21368,,Constant 2022 US$
+2014,Upper middle income,1089815889987.2134,,Constant 2022 US$
+2015,High income,6725511243060.166,,Constant 2022 US$
+2015,Low income,19298838222.68251,,Constant 2022 US$
+2015,Lower middle income,214035372621.27527,,Constant 2022 US$
+2015,Upper middle income,1176340054505.4614,,Constant 2022 US$
+2016,High income,6923929428696.807,,Constant 2022 US$
+2016,Low income,20425098247.100254,,Constant 2022 US$
+2016,Lower middle income,224624199633.21124,,Constant 2022 US$
+2016,Upper middle income,1234409027761.6497,,Constant 2022 US$
+2017,High income,7072976954028.551,,Constant 2022 US$
+2017,Low income,22127972461.116055,,Constant 2022 US$
+2017,Lower middle income,220399699784.7138,,Constant 2022 US$
+2017,Upper middle income,1305901229445.0906,,Constant 2022 US$
+2018,High income,7221546332006.151,,Constant 2022 US$
+2018,Low income,21517367954.331497,,Constant 2022 US$
+2018,Lower middle income,225133138957.02838,,Constant 2022 US$
+2018,Upper middle income,1378142838250.2524,,Constant 2022 US$
+2019,High income,7434236692295.348,7434236692295.348,Constant 2022 US$
+2019,Low income,22526639796.28177,22526639796.28177,Constant 2022 US$
+2019,Lower middle income,237629881793.62515,237629881793.62515,Constant 2022 US$
+2019,Upper middle income,1459103638604.7405,1459103638604.7405,Constant 2022 US$
+2020,High income,8014332844954.399,7683728001931.511,Constant 2022 US$
+2020,Low income,24079126064.969658,23889751720.503174,Constant 2022 US$
+2020,Lower middle income,246911606221.94882,250192694102.59436,Constant 2022 US$
+2020,Upper middle income,1527175232781.8567,1555539495253.2349,Constant 2022 US$
+2021,High income,8094747247784.081,7941592183748.1455,Constant 2022 US$
+2021,Low income,25026869656.680336,25335347057.020332,Constant 2022 US$
+2021,Lower middle income,273199912882.17798,263419666372.92505,Constant 2022 US$
+2021,Upper middle income,1610650095811.7305,1658349042023.167,Constant 2022 US$
+2022,High income,7917989119783.777,8208110229450.547,Constant 2022 US$
+2022,Low income,25444073008.487858,26868416968.468575,Constant 2022 US$
+2022,Lower middle income,283779036089.4657,277345910842.50055,Constant 2022 US$
+2022,Upper middle income,1592237349238.6255,1767953532244.7393,Constant 2022 US$

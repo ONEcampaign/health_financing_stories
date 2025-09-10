@@ -53,11 +53,11 @@ def fetch_ghed_data():
     ghed_data.to_csv(Paths.raw_data / "ghed_data.csv", index=False)
 
 
-def fetch_add():
+def fetch_all():
     """Pipeline to fetch all the raw data"""
 
     fetch_ghed_data()
 
 
 if __name__ == "__main__":
-    fetch_add()
+    fetch_all()

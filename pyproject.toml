@@ -8,4 +8,5 @@ dependencies = [
     "bblocks-data-importers>=0.4.1",
     "bblocks-places>=0.0.3",
     "pandas>=2.3.2",
+    "pydeflate>=2.1.3",
 ]

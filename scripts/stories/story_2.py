@@ -3,6 +3,7 @@
 import pandas as pd
 from bblocks import places
 from pydeflate import imf_gdp_deflate, set_pydeflate_path
+import random
 
 from scripts.config import Paths
 from scripts.logger import logger
@@ -15,78 +16,142 @@ set_pydeflate_path(Paths.raw_data)
 def chart_1():
     """bubble chart"""
 
-    return (GHED_DATA
-     .loc[lambda d: (d.year == 2022)]
-     .loc[lambda d: d.indicator_code.isin(["gghed_gdp", "pop", "gghed_ncu_pc"])]
-     .pivot(index=["country_name", "iso3_code", "year"],
-            columns="indicator_code", values="value")
-     .reset_index()
-     .pipe(imf_gdp_deflate,
-           base_year=2015,
-           source_currency="LCU",
-           target_currency="USA",
-           id_column="iso3_code",
-           value_column="gghed_ncu_pc",
-           target_value_column="gghed_usd2015"
+    # Preprocess the data
+    data = (GHED_DATA
+            .loc[lambda d: (d.year == 2022)]
+            .loc[lambda d: d.indicator_code.isin(["gghed_gdp", "pop", "gghed_ncu_pc", "gghed_usd2022_pc"])]
+            .pivot(index=["country_name", "iso3_code", "year"],
+                   columns="indicator_code", values="value")
+            .reset_index()
+            .pipe(imf_gdp_deflate,
+                  base_year=2015,
+                  source_currency="LCU",
+                  target_currency="USA",
+                  id_column="iso3_code",
+                  value_column="gghed_ncu_pc",
+                  target_value_column="gghed_usd2015_pc"
 
-           )
-     .drop(columns=["gghed_ncu_pc"])
-     .dropna(subset=["gghed_gdp", "pop", "gghed_usd2015"])
-     .assign(income_level=lambda d: places.resolve_places(d.iso3_code, to_type="income_level", from_type="iso3_code",
-                                                          not_found="ignore"),
-             region=lambda d: places.resolve_places(d.iso3_code, to_type="region", from_type="iso3_code",
-                                                    not_found="ignore")
-             )
-     .dropna(subset=["income_level", "region"])
+                  )
+            .drop(columns=["gghed_ncu_pc"])
+            .dropna(subset=["gghed_gdp", "pop", "gghed_usd2015_pc"])  # remove any countries with missing data
+            .assign(
+        income_level=lambda d: places.resolve_places(d.iso3_code, to_type="income_level", from_type="iso3_code",
+                                                     not_found="Not classified"),
+        region=lambda d: places.resolve_places(d.iso3_code, to_type="region", from_type="iso3_code",
+                                               not_found="Other region")
+        )
+            )
 
+    # export downloadable data
+    rename_cols = {"gghed_gdp": "Domestic general government health expenditure (percent of GDP)",
+            "pop": "Population",
+            "gghed_usd2015_pc": "Domestic general government health expenditure per capita (constant 2015 US$)",
+            "gghed_usd2022_pc": "Domestic general government health expenditure per capita (constant 2022 US$)",
+            "income_level": "Income level",
+            "region": "Region",
+            "country_name": "Country",
+            "year": "Year",
+            "iso3_code": "ISO3 code"
 
+            }
+
+    (data
+     .rename(columns=rename_cols)
+     .to_csv(Paths.output / "story_2" / "chart_1_data.csv", index=False)
+     )
+
+    # export chart data
+    (data
+     .loc[:, ["country_name", "year", "gghed_gdp", "gghed_usd2015_pc", "gghed_usd2022_pc", "pop", "region"]]
+     # create annotation for pop with "millions" at the end of the string
+     .assign(pop_annotation=lambda d: d["pop"].apply(lambda x: f"{round(x / 1e6, 2)} million"))
+     # for china and india, show in billions
+     .assign(pop_annotation=lambda d: d.apply(
+        lambda x: f"{round(x["pop"] / 1e9, 2)} billion" if x["country_name"] in ["China", "India"] else x[
+            "pop_annotation"], axis=1))
+
+     .assign(gghed_usd2022_pc=lambda d: d.gghed_usd2022_pc.round(2))
+
+     .assign(africa_annotation=lambda d: d.apply(lambda x: True if x["region"] == "Africa" else None, axis=1))
+     .assign(other_annotation=lambda d: d.apply(lambda x: True if x["region"] != "Africa" else None, axis=1))
+
+     .to_csv(Paths.output / "story_2" / "chart_1.csv", index=False)
      )
 
 
 
-countries = ['Benin',
- 'Cabo Verde',
- 'Cameroon',
- 'Congo',
- 'Equatorial Guinea',
- 'Eritrea',
- 'Liberia',
- 'Madagascar',
- 'Namibia',
- 'Sao Tome and Principe',
- 'South Africa',
- 'South Sudan',
- 'Zimbabwe',
- 'Sudan']
 
 
-afr_ghed = (df
- .loc[lambda d: d.indicator_code.isin(["gghed_gge"])]
-    # .assign(region = lambda d: places.resolve_places(d.iso3_code, to_type="region", from_type="iso3_code", not_found="ignore"))
- .loc[lambda d: d.country_name.isin(countries)]
-    .pivot(index=["year"], columns="country_name", values="value")
-.reset_index()
- # .to_clipboard(index=False)
+MANDATORY_COUNTRIES = ['Benin',
+                 'Cabo Verde',
+                 'Cameroon',
+                 'Congo',
+                 'Equatorial Guinea',
+                 'Eritrea',
+                 'Liberia',
+                 'Madagascar',
+                 'Namibia',
+                 'South Africa',
+                 'Sudan',
+                       "Nigeria"
+                       ]
+
+def get_afr_countries_list(afr_df, rand_num = 5):
+
+    other_list = (
+        afr_df.loc[~afr_df.country_name.isin(MANDATORY_COUNTRIES)]
+        .loc[lambda d: ~ d.country_name.isin(["Zimbabwe", "South Sudan"])]
+        .loc[:, "country_name"]
+          .drop_duplicates()
+          .dropna()
+          .tolist()
+    )
+
+    return MANDATORY_COUNTRIES + random.sample(other_list, rand_num)
 
 
+def chart_2():
+    """ """
 
-)
+    # preprocess the data
+    data = (GHED_DATA
+            .loc[lambda d: d.indicator_code.isin(["gghed_gge"])]
+            .assign(region=lambda d: places.resolve_places(
+                d.iso3_code,
+                to_type="region",
+                from_type="iso3_code",
+                not_found="ignore"
+            ))
+            .loc[lambda d: (d.region == "Africa") & (d.year >= 2001)]
+        .drop(columns=["region", "indicator_code"])
+            )
+
+    # Africa median
+    afr_median = (data
+     .groupby("year")
+     .agg({"value": "median"})
+     .assign(country_name = "Africa (median)")
+     .reset_index()
+     )
+
+    # export downloadable data
+
+    df = (pd.merge(data, afr_median, how="outer")
+          .assign(indicator_name = "Domestic general government health expenditure (percent general government expenditure)")
+          )
+    df.to_csv(Paths.output / "story_2" / "chart_2_data.csv", index=False)
 
 
-(df
- .loc[lambda d: d.indicator_code.isin(["gghed_gge"])]
-.assign(region = lambda d: places.resolve_places(d.iso3_code, to_type="region", from_type="iso3_code", not_found="ignore"))
- .loc[lambda d: d.region =="Africa"]
+    # export chart data
+    countries = get_afr_countries_list(df)
 
-    .groupby("year")
-    .agg({"value": "median"})
- .rename(columns={"value": "Africa (median)"})
- .reset_index()
+    (df
+    .loc[lambda d: d.country_name.isin(countries + ["Africa (median)"])]
+     .pivot(index=["year"], columns="country_name", values="value")
+     .reset_index()
+     .to_csv(Paths.output / "story_2" / "chart_2.csv", index=False)
+     )
 
- .merge(afr_ghed, how="right")
-
-
- .to_clipboard(index=False)
- )
-
-
+if __name__ == "__main__":
+    chart_1()
+    chart_2()

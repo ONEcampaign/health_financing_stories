@@ -3,6 +3,7 @@
 import pandas as pd
 from bblocks import places
 from typing import Literal
+import numpy as np
 
 from scripts.config import Paths
 from scripts.logger import logger
@@ -12,11 +13,11 @@ from scripts.common import read_ghed_data
 GHED_DATA = read_ghed_data()
 
 
-def calc_cagr(start: float, end: float, periods: int) -> float:
+def calc_cagr(start: float, end: float , periods: int) -> float:
     """ Calculate Compound annual growth rate (CAGR)."""
     return (end / start) ** (1 / periods) - 1
 
-def calc_aagr(start: float, end: float, periods: int) -> float:
+def calc_aagr(start: float | int, end: float | int, periods: int) -> float:
     """Calculate Average annual growth rate (AAGR, linear)."""
     return ((end - start) / periods) / start
 
@@ -42,10 +43,15 @@ def apply_growth(
     end_vals = df.loc[df[year_col] == end_year].set_index(group_col)[value_col]
 
     # Choose the correct growth function
-    fn = calc_cagr if rate_type == "cagr" else calc_aagr
+    # fn = calc_cagr if rate_type == "cagr" else calc_aagr
+    #
+    # # Compute growth rate per group
+    # rates = {grp: fn(start_vals[grp], end_vals[grp], periods) for grp in end_vals.index}
 
-    # Compute growth rate per group
-    rates = {grp: fn(start_vals[grp], end_vals[grp], periods) for grp in end_vals.index}
+    if rate_type == "cagr":
+        rates = {grp: calc_cagr(start_vals[grp], end_vals[grp], periods) for grp in list(end_vals.index)}
+    else:  # linear AAGR
+        rates = {grp: calc_aagr(start_vals[grp], end_vals[grp], periods) for grp in list(end_vals.index)}
 
     # Build projection years (end_year..proj_to)
     years = list(range(end_year, proj_to + 1))
@@ -82,7 +88,7 @@ def chart_1():
      .agg({"value": "sum"})
      .reset_index()
      .assign(entity="World")
-     .pipe(apply_growth, group_col="entity", rate_type="cagr")
+     .pipe(apply_growth, group_col="entity")
      )
 
     # export downloadable data
@@ -94,7 +100,17 @@ def chart_1():
 
     # export chart data
     (df
-     # TODO: Fix and customise annotations and popups as needed
+    .rename(columns={"value": "actual_spending"})
+    .melt(id_vars = ["year"], value_vars = ["actual_spending", "expected_spending"])
+    # assign an annotate column with values of True where "variable" is "actual spending"
+    .assign(annotate = lambda d: np.where(d.variable == "actual_spending", True, None))
+    .pivot(index=["year", "annotate"], columns="variable", values="value")
+    .dropna(subset=["actual_spending", "expected_spending"], how="all")
+    # create an annotation column with actual spending in trillions rounded to 2 decimal places and as a string with "T" at the end
+    .assign(value_annotation = lambda d: round((d.actual_spending/1000000000000), 2).astype(str) + " trillion")
+    .reset_index()
+
+
     .to_csv(Paths.output / "story_1" / "chart_1.csv", index=False)
      )
 
@@ -133,8 +149,19 @@ def chart_2():
 
     # export chart data
     (df
-     .pipe(add_covid_column, entity_col="income_level")
-     #TODO: Fix and customise annotations and popups as needed
+     # .pipe(add_covid_column, entity_col="income_level")
+     .rename(columns={"value": "actual_spending"})
+     .melt(id_vars=["year", "income_level"], value_vars=["actual_spending", "expected_spending"])
+     # assign an annotate column with values of True where "variable" is "actual spending"
+     .assign(annotate=lambda d: np.where(d.variable == "actual_spending", True, None))
+     .pivot(index=["year", "annotate", "income_level"], columns="variable", values="value")
+    .reset_index()
+     .assign(value_annotation=lambda d: round((d.actual_spending / 1000000000), 2).astype(str) + " billion")
+        # sort by income level
+    .assign(income_level=lambda d: pd.Categorical(d.income_level, categories=["Low income", "Lower middle income", "Upper middle income", "High income"], ordered=True))
+    .sort_values(["income_level", "year"])
+
+
      .to_csv(Paths.output / "story_1" / "chart_2.csv", index=False)
      )
 

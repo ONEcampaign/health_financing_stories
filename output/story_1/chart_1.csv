@@ -1,14 +1,4 @@
 year,annotate,actual_spending,expected_spending,value_annotation
-2000,True,4499808239198.792,,4.5 trillion
-2001,True,4751463236701.992,,4.75 trillion
-2002,True,5042339067449.217,,5.04 trillion
-2003,True,5322739152149.477,,5.32 trillion
-2004,True,5535106729540.89,,5.54 trillion
-2005,True,5741011297083.533,,5.74 trillion
-2006,True,5967474624173.929,,5.97 trillion
-2007,True,6185646040305.746,,6.19 trillion
-2008,True,6397056027517.706,,6.4 trillion
-2009,True,6731683499617.296,,6.73 trillion
 2010,True,6911645518951.403,,6.91 trillion
 2011,True,7108931616517.932,,7.11 trillion
 2012,True,7315890456270.417,,7.32 trillion
@@ -25,4 +15,4 @@ year,annotate,actual_spending,expected_spending,value_annotation
 2021,,,9868342629114.154,nan trillion
 2021,True,10008555589431.955,,10.01 trillion
 2022,,,10244357037462.375,nan trillion
-2022,True,9825354765831.621,,9.83 trillion
+2022,True,9843924068865.97,,9.84 trillion

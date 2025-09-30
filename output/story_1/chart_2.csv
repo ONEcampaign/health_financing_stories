@@ -1,185 +1,105 @@
 year,annotate,income_level,actual_spending,expected_spending,value_annotation
-2000,,Low income,,,nan billion
-2000,True,Low income,6533369585.769926,,6.53 billion
-2001,,Low income,,,nan billion
-2001,True,Low income,7158044916.418081,,7.16 billion
-2002,,Low income,,,nan billion
-2002,True,Low income,8310410827.686506,,8.31 billion
-2003,,Low income,,,nan billion
-2003,True,Low income,9490210609.27713,,9.49 billion
-2004,,Low income,,,nan billion
-2004,True,Low income,10397437431.694817,,10.4 billion
-2005,,Low income,,,nan billion
-2005,True,Low income,11064121824.894676,,11.06 billion
-2006,,Low income,,,nan billion
-2006,True,Low income,12270632818.259253,,12.27 billion
-2007,,Low income,,,nan billion
-2007,True,Low income,13150540836.21109,,13.15 billion
-2008,,Low income,,,nan billion
-2008,True,Low income,13519684154.197784,,13.52 billion
-2009,,Low income,,,nan billion
-2009,True,Low income,15068223622.479773,,15.07 billion
 2010,,Low income,,,nan billion
-2010,True,Low income,14829412905.588669,,14.83 billion
+2010,True,Low income,17563684357.39577,,17.56 billion
 2011,,Low income,,,nan billion
-2011,True,Low income,14424136207.572903,,14.42 billion
+2011,True,Low income,17001411624.771593,,17.0 billion
 2012,,Low income,,,nan billion
-2012,True,Low income,14314942337.610071,,14.31 billion
+2012,True,Low income,17111280345.381826,,17.11 billion
 2013,,Low income,,,nan billion
-2013,True,Low income,15999690376.088366,,16.0 billion
+2013,True,Low income,18773987379.51671,,18.77 billion
 2014,,Low income,,,nan billion
-2014,True,Low income,16715843438.717045,,16.72 billion
+2014,True,Low income,19881207707.209198,,19.88 billion
 2015,,Low income,,,nan billion
-2015,True,Low income,16584123136.951777,,16.58 billion
+2015,True,Low income,20018134834.14096,,20.02 billion
 2016,,Low income,,,nan billion
-2016,True,Low income,17664097189.688988,,17.66 billion
+2016,True,Low income,21165656356.860226,,21.17 billion
 2017,,Low income,,,nan billion
-2017,True,Low income,19209276869.343002,,19.21 billion
+2017,True,Low income,22720534133.80297,,22.72 billion
 2018,,Low income,,,nan billion
-2018,True,Low income,18510085666.74947,,18.51 billion
-2019,,Low income,,19307969278.4187,nan billion
-2019,True,Low income,19307969278.4187,,19.31 billion
-2020,,Low income,,20441134091.63601,nan billion
-2020,True,Low income,20414870741.37443,,20.41 billion
-2021,,Low income,,21640803179.611465,nan billion
-2021,True,Low income,21438910906.582855,,21.44 billion
-2022,,Low income,,22910879609.67431,nan billion
-2022,True,Low income,22050105614.46221,,22.05 billion
-2000,,Lower middle income,,,nan billion
-2000,True,Lower middle income,89839701233.52802,,89.84 billion
-2001,,Lower middle income,,,nan billion
-2001,True,Lower middle income,99055729373.31387,,99.06 billion
-2002,,Lower middle income,,,nan billion
-2002,True,Lower middle income,100538183550.9076,,100.54 billion
-2003,,Lower middle income,,,nan billion
-2003,True,Lower middle income,109312762730.37213,,109.31 billion
-2004,,Lower middle income,,,nan billion
-2004,True,Lower middle income,115724201846.32848,,115.72 billion
-2005,,Lower middle income,,,nan billion
-2005,True,Lower middle income,122921351624.66754,,122.92 billion
-2006,,Lower middle income,,,nan billion
-2006,True,Lower middle income,130140325378.68755,,130.14 billion
-2007,,Lower middle income,,,nan billion
-2007,True,Lower middle income,136205513250.05174,,136.21 billion
-2008,,Lower middle income,,,nan billion
-2008,True,Lower middle income,142131617925.80508,,142.13 billion
-2009,,Lower middle income,,,nan billion
-2009,True,Lower middle income,151832655782.77145,,151.83 billion
+2018,True,Low income,22119165246.335617,,22.12 billion
+2019,,Low income,,23221798906.778057,nan billion
+2019,True,Low income,23221798906.778057,,23.22 billion
+2020,,Low income,,24607056743.585926,nan billion
+2020,True,Low income,24773556801.379864,,24.77 billion
+2021,,Low income,,26074949835.40315,nan billion
+2021,True,Low income,25725605495.610382,,25.73 billion
+2022,,Low income,,27630407651.090343,nan billion
+2022,True,Low income,26217637554.685745,,26.22 billion
 2010,,Lower middle income,,,nan billion
-2010,True,Lower middle income,158750404380.69214,,158.75 billion
+2010,True,Lower middle income,218924484307.93457,,218.92 billion
 2011,,Lower middle income,,,nan billion
-2011,True,Lower middle income,164945062288.2044,,164.95 billion
+2011,True,Lower middle income,228874574977.76236,,228.87 billion
 2012,,Lower middle income,,,nan billion
-2012,True,Lower middle income,174421509604.14676,,174.42 billion
+2012,True,Lower middle income,241679987005.51138,,241.68 billion
 2013,,Lower middle income,,,nan billion
-2013,True,Lower middle income,193470028938.37457,,193.47 billion
+2013,True,Lower middle income,259646219792.276,,259.65 billion
 2014,,Lower middle income,,,nan billion
-2014,True,Lower middle income,200933112477.40015,,200.93 billion
+2014,True,Lower middle income,272922750512.09717,,272.92 billion
 2015,,Lower middle income,,,nan billion
-2015,True,Lower middle income,215175876476.44247,,215.18 billion
+2015,True,Lower middle income,291999628178.05536,,292.0 billion
 2016,,Lower middle income,,,nan billion
-2016,True,Lower middle income,225679217879.7141,,225.68 billion
+2016,True,Lower middle income,308519316959.66223,,308.52 billion
 2017,,Lower middle income,,,nan billion
-2017,True,Lower middle income,221358888222.95114,,221.36 billion
+2017,True,Lower middle income,305054250456.3745,,305.05 billion
 2018,,Lower middle income,,,nan billion
-2018,True,Lower middle income,226047733115.6223,,226.05 billion
-2019,,Lower middle income,,238539262248.6848,nan billion
-2019,True,Lower middle income,238539262248.6848,,238.54 billion
-2020,,Lower middle income,,251119524779.97223,nan billion
-2020,True,Lower middle income,247770547309.1055,,247.77 billion
-2021,,Lower middle income,,264363254632.5894,nan billion
-2021,True,Lower middle income,274128646455.00748,,274.13 billion
-2022,,Lower middle income,,278305442243.76904,nan billion
-2022,True,Lower middle income,284751585301.36237,,284.75 billion
-2000,,Upper middle income,,,nan billion
-2000,True,Upper middle income,429958675912.4169,,429.96 billion
-2001,,Upper middle income,,,nan billion
-2001,True,Upper middle income,447207409520.51385,,447.21 billion
-2002,,Upper middle income,,,nan billion
-2002,True,Upper middle income,471358940273.36005,,471.36 billion
-2003,,Upper middle income,,,nan billion
-2003,True,Upper middle income,505858274605.21387,,505.86 billion
-2004,,Upper middle income,,,nan billion
-2004,True,Upper middle income,540690025302.75385,,540.69 billion
-2005,,Upper middle income,,,nan billion
-2005,True,Upper middle income,573131754863.7313,,573.13 billion
-2006,,Upper middle income,,,nan billion
-2006,True,Upper middle income,607972819384.05,,607.97 billion
-2007,,Upper middle income,,,nan billion
-2007,True,Upper middle income,647149358921.9979,,647.15 billion
-2008,,Upper middle income,,,nan billion
-2008,True,Upper middle income,699103788115.0939,,699.1 billion
-2009,,Upper middle income,,,nan billion
-2009,True,Upper middle income,783657100734.5785,,783.66 billion
+2018,True,Lower middle income,311058914951.55066,,311.06 billion
+2019,,Lower middle income,,317906476904.13776,nan billion
+2019,True,Lower middle income,317906476904.13776,,317.91 billion
+2020,,Lower middle income,,335290408189.76605,nan billion
+2020,True,Lower middle income,332479026024.67004,,332.48 billion
+2021,,Lower middle income,,353624936864.5585,nan billion
+2021,True,Lower middle income,369666909062.4887,,369.67 billion
+2022,,Lower middle income,,372962044001.23315,nan billion
+2022,True,Lower middle income,365782608515.0775,,365.78 billion
 2010,,Upper middle income,,,nan billion
-2010,True,Upper middle income,822310901259.381,,822.31 billion
+2010,True,Upper middle income,880029492753.4448,,880.03 billion
 2011,,Upper middle income,,,nan billion
-2011,True,Upper middle income,880320609951.2643,,880.32 billion
+2011,True,Upper middle income,932965925104.005,,932.97 billion
 2012,,Upper middle income,,,nan billion
-2012,True,Upper middle income,952317340161.134,,952.32 billion
+2012,True,Upper middle income,1009155087888.0999,,1009.16 billion
 2013,,Upper middle income,,,nan billion
-2013,True,Upper middle income,1022366332502.8613,,1022.37 billion
+2013,True,Upper middle income,1086647919806.8787,,1086.65 billion
 2014,,Upper middle income,,,nan billion
-2014,True,Upper middle income,1084771415120.9196,,1084.77 billion
+2014,True,Upper middle income,1147003390477.402,,1147.0 billion
 2015,,Upper middle income,,,nan billion
-2015,True,Upper middle income,1170933368795.878,,1170.93 billion
+2015,True,Upper middle income,1228872804706.4226,,1228.87 billion
 2016,,Upper middle income,,,nan billion
-2016,True,Upper middle income,1229069327268.412,,1229.07 billion
+2016,True,Upper middle income,1282253812969.374,,1282.25 billion
 2017,,Upper middle income,,,nan billion
-2017,True,Upper middle income,1300645117133.0557,,1300.65 billion
+2017,True,Upper middle income,1358381979498.9924,,1358.38 billion
 2018,,Upper middle income,,,nan billion
-2018,True,Upper middle income,1372668305306.9233,,1372.67 billion
-2019,,Upper middle income,,1453565508471.1216,nan billion
-2019,True,Upper middle income,1453565508471.1216,,1453.57 billion
-2020,,Upper middle income,,1549805257110.8499,nan billion
-2020,True,Upper middle income,1521514603518.106,,1521.51 billion
-2021,,Upper middle income,,1652416984972.8835,nan billion
-2021,True,Upper middle income,1604680455445.1694,,1604.68 billion
-2022,,Upper middle income,,1761822577190.7917,nan billion
-2022,True,Upper middle income,1586290557782.7007,,1586.29 billion
-2000,,High income,,,nan billion
-2000,True,High income,3972623998185.435,,3972.62 billion
-2001,,High income,,,nan billion
-2001,True,High income,4197045562594.8604,,4197.05 billion
-2002,,High income,,,nan billion
-2002,True,High income,4461126594676.725,,4461.13 billion
-2003,,High income,,,nan billion
-2003,True,High income,4697055550838.789,,4697.06 billion
-2004,,High income,,,nan billion
-2004,True,High income,4867287275206.348,,4867.29 billion
-2005,,High income,,,nan billion
-2005,True,High income,5032815816233.919,,5032.82 billion
-2006,,High income,,,nan billion
-2006,True,High income,5215770540740.091,,5215.77 billion
-2007,,High income,,,nan billion
-2007,True,High income,5387505487969.8,,5387.51 billion
-2008,,High income,,,nan billion
-2008,True,High income,5540743319175.178,,5540.74 billion
-2009,,High income,,,nan billion
-2009,True,High income,5779266996206.229,,5779.27 billion
+2018,True,Upper middle income,1434685884530.3848,,1434.69 billion
+2019,,Upper middle income,,1531613595499.2546,nan billion
+2019,True,Upper middle income,1531613595499.2546,,1531.61 billion
+2020,,Upper middle income,,1628848842395.2014,nan billion
+2020,True,Upper middle income,1644214704200.4053,,1644.21 billion
+2021,,Upper middle income,,1732257117048.7363,nan billion
+2021,True,Upper middle income,1706446160178.849,,1706.45 billion
+2022,,Upper middle income,,1842230317181.2344,nan billion
+2022,True,Upper middle income,1716009991382.6157,,1716.01 billion
 2010,,High income,,,nan billion
-2010,True,High income,5913347294234.689,,5913.35 billion
+2010,True,High income,5795115574984.849,,5795.12 billion
 2011,,High income,,,nan billion
-2011,True,High income,6047046546022.896,,6047.05 billion
+2011,True,High income,5930075848219.894,,5930.08 billion
 2012,,High income,,,nan billion
-2012,True,High income,6172417783624.454,,6172.42 billion
+2012,True,High income,6047933874812.659,,6047.93 billion
 2013,,High income,,,nan billion
-2013,True,High income,6262776151403.361,,6262.78 billion
+2013,True,High income,6131920326580.895,,6131.92 billion
 2014,,High income,,,nan billion
-2014,True,High income,6475517618001.366,,6475.52 billion
+2014,True,High income,6340724999073.275,,6340.72 billion
 2015,,High income,,,nan billion
-2015,True,High income,6729777424914.583,,6729.78 billion
+2015,True,High income,6594294940690.967,,6594.29 billion
 2016,,High income,,,nan billion
-2016,True,High income,6928214110943.542,,6928.21 billion
+2016,True,High income,6791448968052.872,,6791.45 billion
 2017,,High income,,,nan billion
-2017,True,High income,7077273877902.349,,7077.27 billion
+2017,True,High income,6935249091630.302,,6935.25 billion
 2018,,High income,,,nan billion
-2018,True,High income,7226106270790.887,,7226.11 billion
-2019,,High income,,7438865441973.907,nan billion
-2019,True,High income,7438865441973.907,,7438.87 billion
-2020,,High income,,7688561350663.049,nan billion
-2020,True,High income,8019134533130.993,,8019.13 billion
-2021,,High income,,7946638651286.544,nan billion
-2021,True,High income,8099788154577.8125,,8099.79 billion
-2022,,High income,,8213378676971.257,nan billion
-2022,True,High income,7922963362027.806,,7922.96 billion
+2018,True,High income,7078475712439.493,,7078.48 billion
+2019,,High income,,7280754981179.824,nan billion
+2019,True,High income,7280754981179.824,,7280.75 billion
+2020,,High income,,7523854911185.363,nan billion
+2020,True,High income,7811031522996.72,,7811.03 billion
+2021,,High income,,7775071798308.874,nan billion
+2021,True,High income,7901785451397.721,,7901.79 billion
+2022,,High income,,8034676662755.314,nan billion
+2022,True,High income,7730008643702.327,,7730.01 billion

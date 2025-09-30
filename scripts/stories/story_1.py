@@ -7,7 +7,7 @@ import numpy as np
 
 from scripts.config import Paths
 from scripts.logger import logger
-from scripts.common import read_ghed_data
+from scripts.common import read_ghed_data, add_income_fy22
 
 
 GHED_DATA = read_ghed_data()
@@ -77,6 +77,40 @@ def apply_growth(
     return df.merge(exp, on=[group_col, year_col], how="left")
 
 
+def forward_fill(df, value_col = "value", country_col="iso3_code", year_col="year", limit=2):
+    """Forward fill missing values in `value_col` for each `country_col` up to `limit` years
+    making sure the dataframe has continuous years for each country between min and max year.
+
+    """
+
+    d = df[[country_col, year_col, value_col]].copy()
+    d = d.sort_values([country_col, year_col])
+
+    filled_parts = []
+    for key, g in d.groupby(country_col, sort=False):
+        years = range(int(g[year_col].min()), int(g[year_col].max()) + 1)
+        gg = (g.set_index(year_col)
+              .reindex(years))  # may introduce completely missing years
+        gg[value_col] = gg[value_col].ffill(limit=limit)
+        gg[country_col] = key
+        gg = gg.reset_index().rename(columns={"index": year_col})
+        filled_parts.append(gg)
+
+    filled = pd.concat(filled_parts, ignore_index=True)
+
+    # keep only original (country, year) rows, preserving other columns from df
+    out = df.merge(
+        filled[[country_col, year_col, value_col]],
+        on=[country_col, year_col],
+        how="left",
+        suffixes=("", "_filled"),
+    )
+    out[value_col] = out[f"{value_col}"].where(out[f"{value_col}"].notna(),
+                                               out[f"{value_col}_filled"])
+    out = out.drop(columns=[f"{value_col}_filled"])
+    return out
+
+
 def chart_1():
     """Chart 1 showing global health spending (2000-2022), and expected spending using CAGR for years 2019-2022
     """
@@ -84,11 +118,14 @@ def chart_1():
     # create base dataframe for the chart
     df = (GHED_DATA
      .loc[lambda d: (d.indicator_code.isin(["che_usd2022"])) & (d.year != 2023)]
+    # forward fill missing values up to 2 years
+    .pipe(forward_fill, value_col="value", country_col="iso3_code", year_col="year", limit=2)
      .groupby(["year"])
      .agg({"value": "sum"})
      .reset_index()
      .assign(entity="World")
      .pipe(apply_growth, group_col="entity")
+          .loc[lambda d: d.year>=2010]
      )
 
     # export downloadable data
@@ -117,27 +154,24 @@ def chart_1():
     logger.info("Chart 1 complete")
 
 
-def add_covid_column(df: pd.DataFrame, entity_col: str) -> pd.DataFrame:
-    """Create a column with 2019 values for each entity"""
-
-    covid = df[df.year == 2019][[entity_col, "value"]].rename(columns={"value": "covid"})
-    return df.merge(covid, on=entity_col, how="left")
-
 def chart_2():
     """Chart 2 showing health spending by income group (2000-2022), and expected spending using CAGR for years 2019-2022
     """
 
     df = (GHED_DATA
      .loc[lambda d: d.indicator_code.isin(["che_usd2022"])]
-     .assign(income_level=lambda d: places.resolve_places(d.iso3_code,
-                                                          not_found="ignore",
-                                                          from_type="iso3_code",
-                                                          to_type="income_level"))
-     .loc[lambda d: (d.year != 2023) & (d.income_level != "Not classified")]
+
+    .pipe(add_income_fy22, iso3_col="iso3_code", income_level_col="income_level")
+    .dropna(subset=["income_level"])
+    .loc[lambda d: (d.year != 2023)]
+    # group by year and country and forward fill missing values up to 2 year
+    .pipe(forward_fill, value_col="value", country_col="iso3_code", year_col="year", limit=2)
+
      .groupby(["year", "income_level"])
      .agg({"value": "sum"})
      .reset_index()
      .pipe(apply_growth, group_col="income_level")
+    .loc[lambda d: d.year >= 2010]
      )
 
     # export downloadable data

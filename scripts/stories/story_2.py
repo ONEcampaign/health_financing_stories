@@ -54,7 +54,6 @@ def chart_1():
             "iso3_code": "ISO3 code"
 
             }
-
     (data
      .rename(columns=rename_cols)
      .to_csv(Paths.output / "story_2" / "chart_1_data.csv", index=False)
@@ -62,7 +61,7 @@ def chart_1():
 
     # export chart data
     (data
-     .loc[:, ["country_name", "year", "gghed_gdp", "gghed_usd2015_pc", "gghed_usd2022_pc", "pop", "region"]]
+     .loc[:, ["country_name", "year", "gghed_gdp", "gghed_usd2015_pc", "gghed_usd2022_pc", "pop", "region", "income_level"]]
      # create annotation for pop with "millions" at the end of the string
      .assign(pop_annotation=lambda d: d["pop"].apply(lambda x: f"{round(x / 1e6, 2)} million"))
      # for china and india, show in billions
@@ -154,7 +153,7 @@ def chart_2():
     countries = get_afr_countries_list(df) # get list of African countries to include
 
     (pd.merge(data, afr_median, how="outer")
-    .loc[lambda d: d.country_name.isin(get_afr_countries_list(d) + ["Africa (median)"])]
+    # .loc[lambda d: d.country_name.isin(get_afr_countries_list(d) + ["Africa (median)"])]
      .pivot(index=["year"], columns="country_name", values="value")
      .reset_index()
      .to_csv(Paths.output / "story_2" / "chart_2.csv", index=False)

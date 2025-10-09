@@ -5,7 +5,7 @@ from bblocks import places
 
 from scripts.config import Paths
 from scripts.logger import logger
-from scripts.common import read_ghed_data
+from scripts.common import read_ghed_data, add_income_fy22
 
 GHED_DATA = read_ghed_data()
 
@@ -17,8 +17,9 @@ def preprocess_data() -> pd.DataFrame:
 
     return (GHED_DATA
     .loc[lambda d: (d.indicator_code == indicator) & (d.year <= 2022)]
-    .assign(income_level=lambda d: places.resolve_places(d.iso3_code, to_type="income_level", from_type="iso3_code",
-                                                         not_found="ignore"))
+    # .assign(income_level=lambda d: places.resolve_places(d.iso3_code, to_type="income_level", from_type="iso3_code",
+    #                                                      not_found="ignore"))
+    .pipe(add_income_fy22)
 
     .dropna(subset=["income_level"])
     # .loc[lambda d: d.income_level != "Not classified"]
@@ -83,6 +84,33 @@ def export_chart(preprocessed_df, medians_df) -> None:
      .to_csv(Paths.output / "story_3" / "chart_1.csv", index=False)
 
      )
+
+
+def calculations_hf3_reliance() -> dict:
+    """Calculations of reliance on OOP used in story 3 text
+    1. # of countries where OOP is the primary health financing mechanism (hf3_che highest among hf1, hf2, hf3, hf4, hfnec)
+    2. # of countries where OOP > 50% of current health expenditure (hf3_che > 50)
+    3. List of African countries where OOP > 67% of current health expenditure
+    """
+
+    hf_vars = ["hf1_che", "hf2_che", "hf3_che", "hf4_che", "hfnec_che"]
+    calc_dict = {}
+
+    df = (GHED_DATA
+    .loc[lambda d: d.indicator_code.isin(hf_vars)]
+    .loc[lambda d: d.year == 2022]
+    .sort_values(["country_name", "value"], ascending=[True, False])
+    .drop_duplicates(subset=["country_name"], keep="first")
+
+    .loc[lambda d: d.indicator_code == "hf3_che"]
+    )
+
+    calc_dict["oop_primary_mechanism"] = len(df)
+    calc_dict["oop_gt_50"] = len(df.loc[lambda d: d.value > 50])
+    calc_dict["oop_afr_gt_67"] =list(places.filter_african_countries(df.loc[lambda d: d.value >= 67].country_name))
+
+    return calc_dict
+
 
 
 def chart_1():

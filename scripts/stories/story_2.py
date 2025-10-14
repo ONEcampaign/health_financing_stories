@@ -81,42 +81,6 @@ def chart_1():
 
 
 
-
-# # List of mandatory African countries to include in chart 2
-MANDATORY_COUNTRIES = ['Benin',
-                 'Cabo Verde',
-                 'Cameroon',
-                 'Congo',
-                 'Equatorial Guinea',
-                 'Eritrea',
-                 'Liberia',
-                 'Madagascar',
-                 'Namibia',
-                 'South Africa',
-                 'Sudan',
-                       "Nigeria"
-                       ]
-
-def get_afr_countries_list(afr_df: pd.DataFrame, rand_num: int = 5):
-    """Get a list of African countries including mandatory countries and random selection of other countries
-
-    Args:
-        afr_df: DataFrame containing African countries
-        rand_num: Number of random countries to select in addition to mandatory countries. Default is 5.
-    """
-
-    other_list = (afr_df
-                  .loc[lambda d: ~d.country_name.isin(MANDATORY_COUNTRIES)] # exclude mandatory countries
-                  .loc[lambda d: ~ d.country_name.isin(["Zimbabwe", "South Sudan"])] # exclude Zim and South Sudan due to missing data
-                  ["country_name"]
-                  .drop_duplicates()
-                  .dropna()
-                  .tolist()
-                  )
-
-    return MANDATORY_COUNTRIES + random.sample(other_list, rand_num)
-
-
 def chart_2():
     """Chart 2 showing government health spending as percent of government expenditure for African countries
     (2001-2022), and Africa median"""
@@ -150,11 +114,10 @@ def chart_2():
 
 
     # export chart data
-    countries = get_afr_countries_list(df) # get list of African countries to include
-
-    (pd.merge(data, afr_median, how="outer")
+    (
+    pd.concat([data.assign(country_cat = True), afr_median.assign(afr_category = True)])
     # .loc[lambda d: d.country_name.isin(get_afr_countries_list(d) + ["Africa (median)"])]
-     .pivot(index=["year"], columns="country_name", values="value")
+     .pivot(index=["year", "country_cat", "afr_category"], columns="country_name", values="value")
      .reset_index()
      .to_csv(Paths.output / "story_2" / "chart_2.csv", index=False)
      )

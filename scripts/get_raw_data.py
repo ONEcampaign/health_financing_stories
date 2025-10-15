@@ -38,7 +38,6 @@ def _convert_ghed_units(
     return out
 
 
-
 def fetch_ghed_data():
     """Fetch Global Health Expenditure Database (GHED) data."""
 
@@ -47,7 +46,9 @@ def fetch_ghed_data():
 
     # Convert units
     ghed_data = _convert_ghed_units(ghed_data)
-    ghed_data = ghed_data.loc[:, ["country_name", "iso3_code", "year", "indicator_code", "value"]]
+    ghed_data = ghed_data.loc[
+        :, ["country_name", "iso3_code", "year", "indicator_code", "value"]
+    ]
 
     # Save to csv
     ghed_data.to_csv(Paths.raw_data / "ghed_data.csv", index=False)

@@ -63,13 +63,13 @@ def chart_1():
     (data
      .loc[:, ["country_name", "year", "gghed_gdp", "gghed_usd2015_pc", "gghed_usd2022_pc", "pop", "region", "income_level"]]
      # create annotation for pop with "millions" at the end of the string
-     .assign(pop_annotation=lambda d: d["pop"].apply(lambda x: f"{round(x / 1e6, 2)} million"))
+     .assign(pop_annotation=lambda d: d["pop"].apply(lambda x: f"{round(x / 1e6, 1)} million"))
      # for china and india, show in billions
      .assign(pop_annotation=lambda d: d.apply(
-        lambda x: f"{round(x["pop"] / 1e9, 2)} billion" if x["country_name"] in ["China", "India"] else x[
+        lambda x: f"{round(x["pop"] / 1e9, 1)} billion" if x["country_name"] in ["China", "India"] else x[
             "pop_annotation"], axis=1))
 
-     .assign(gghed_usd2022_pc=lambda d: d.gghed_usd2022_pc.round(2))
+     .assign(gghed_usd2022_pc=lambda d: d.gghed_usd2022_pc.round(1))
 
      .assign(africa_annotation=lambda d: d.apply(lambda x: True if x["region"] == "Africa" else None, axis=1))
      .assign(other_annotation=lambda d: d.apply(lambda x: True if x["region"] != "Africa" else None, axis=1))
@@ -113,12 +113,21 @@ def chart_2():
     df.to_csv(Paths.output / "story_2" / "chart_2_data.csv", index=False)
 
 
-    # export chart data
-    (
-    pd.concat([data.assign(country_cat = True), afr_median.assign(afr_category = True)])
-    # .loc[lambda d: d.country_name.isin(get_afr_countries_list(d) + ["Africa (median)"])]
-     .pivot(index=["year", "country_cat", "afr_category"], columns="country_name", values="value")
-     .reset_index()
+    country_list = ["South Africa", "Cabo Verde", "Namibia", "Madagascar", "Sudan", "Benin", "Equatorial Guinea",
+                    "Cameroon"]
+
+    df_chart = (pd.concat([data.assign(country_cat=True), afr_median.assign(afr_category=True)])
+          .loc[lambda d: d.country_name.isin(country_list + ["Africa (median)"])]
+          .pivot(index=["year", "country_cat", "afr_category"], columns="country_name", values="value")
+          .reset_index()
+          )
+
+    (pd.concat([(data
+                 .groupby("year", as_index=False)
+                 .agg(max_val=("value", "max"), min_val=("value", "min"))
+                 .assign(val_range=True))
+                   , df_chart
+                ])
      .to_csv(Paths.output / "story_2" / "chart_2.csv", index=False)
      )
 

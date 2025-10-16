@@ -1,187 +1,187 @@
 country_name,year,gghed_gdp,gghed_usd2015_pc,gghed_usd2022_pc,pop,region,income_level,pop_annotation,africa_annotation,other_annotation
-Afghanistan,2022,0.18147056,0.77384,0.63,40578842.00000001,Asia,Low income,40.58 million,,True
-Angola,2022,1.51054609,48.025037,52.25,35635028.99999999,Africa,Lower middle income,35.64 million,True,
-Albania,2022,2.7990038399999997,142.729352,187.25,2827607.9999999995,Europe,Upper middle income,2.83 million,,True
-Andorra,2022,5.536981580000001,2201.519512,2345.27,79705.0,Europe,High income,0.08 million,,True
-United Arab Emirates,2022,2.7693340799999997,1172.898717,1371.04,10242086.500000002,Asia,High income,10.24 million,,True
-Argentina,2022,5.7569623,817.669051,800.17,45407904.0,Americas,Upper middle income,45.41 million,,True
-Armenia,2022,1.7153586100000002,84.793202,116.19,2880874.5000000005,Asia,Upper middle income,2.88 million,,True
-Antigua and Barbuda,2022,3.2893459799999993,540.594849,622.79,92840.0,Americas,High income,0.09 million,,True
-Australia,2022,7.35998535,4239.701034,4990.49,26200984.500000004,Oceania,High income,26.2 million,,True
-Austria,2022,8.643328669999999,4104.161428,4533.4,8978929.0,Europe,High income,8.98 million,,True
-Azerbaijan,2022,1.20668018,66.369462,92.27,10295304.0,Asia,Upper middle income,10.3 million,,True
-Burundi,2022,1.58699203,4.02271,4.67,13321097.5,Africa,Low income,13.32 million,True,
-Belgium,2022,8.091326709999999,3566.057328,4063.45,11617623.000000002,Europe,High income,11.62 million,,True
-Benin,2022,0.5155008999999999,6.281856,6.52,13759500.5,Africa,Lower middle income,13.76 million,True,
-Burkina Faso,2022,2.72350121,19.437058,22.83,22509038.500000004,Africa,Low income,22.51 million,True,
-Bangladesh,2022,0.1549107999999999,3.347156,3.96,169384897.50000003,Asia,Lower middle income,169.38 million,,True
-Bulgaria,2022,4.7934579799999995,433.660026,632.43,6838937.0,Europe,High income,6.84 million,,True
-Bahrain,2022,2.4909150600000003,597.03976,720.95,1533459.0,Asia,High income,1.53 million,,True
-Bahamas,2022,4.06823969,1214.20442,1319.82,397538.5,Americas,High income,0.4 million,,True
-Bosnia and Herzegovina,2022,5.734533789999999,362.823099,439.01,3204802.0,Europe,Upper middle income,3.2 million,,True
-Belarus,2022,4.49853516,276.828219,357.37,9173237.0,Europe,Upper middle income,9.17 million,,True
-Belize,2022,2.6371080900000003,164.389167,185.34,402733.00000000006,Americas,Upper middle income,0.4 million,,True
-Bolivia (Plurinational State of),2022,5.887031079999999,188.094099,214.45,12077153.999999998,Americas,Lower middle income,12.08 million,,True
-Brazil,2022,4.104905130000001,370.313185,380.99,210306414.5,Americas,Upper middle income,210.31 million,,True
-Barbados,2022,2.8346071199999994,501.620078,586.41,282318.0,Americas,High income,0.28 million,,True
-Brunei Darussalam,2022,1.67847669,479.241988,614.87,455369.49999999994,Asia,High income,0.46 million,,True
-Bhutan,2022,2.14716125,72.362966,75.64,780914.5,Asia,Lower middle income,0.78 million,,True
-Botswana,2022,4.30165005,308.449559,358.82,2439891.5,Africa,Upper middle income,2.44 million,True,
-Central African Republic,2022,1.59287274,6.350317,7.67,5098039.500000001,Africa,Low income,5.1 million,True,
-Canada,2022,8.0003376,3616.749475,4454.41,38821259.0,Americas,High income,38.82 million,,True
-Switzerland,2022,4.09193945,3678.604161,3832.19,8739000.0,Europe,High income,8.74 million,,True
-Chile,2022,5.07403803,723.621377,780.28,19553036.5,Americas,High income,19.55 million,,True
-China,2022,2.9464595300000007,337.391086,369.0,1425179569.0000002,Asia,Upper middle income,1.43 billion,,True
-Côte d'Ivoire,2022,1.3386573800000003,30.220463,31.66,30395002.0,Africa,Lower middle income,30.4 million,True,
-Cameroon,2022,0.6712339499999999,9.800915,10.79,27632771.499999996,Africa,Lower middle income,27.63 million,True,
-Democratic Republic of the Congo,2022,0.6958921599999999,3.657984,4.48,102396968.0,Africa,Low income,102.4 million,True,
-Congo,2022,0.8055375799999999,13.555193,18.59,6035104.0,Africa,Lower middle income,6.04 million,True,
-Colombia,2022,5.33477688,365.470723,356.07,51737943.49999999,Americas,Upper middle income,51.74 million,,True
-Comoros,2022,0.8658953300000001,11.860133,12.7,834188.0000000001,Africa,Lower middle income,0.83 million,True,
-Cabo Verde,2022,4.28369522,168.899746,183.54,519741.0,Africa,Upper middle income,0.52 million,True,
-Costa Rica,2022,4.953631879999999,677.965402,674.98,5081764.5,Americas,High income,5.08 million,,True
+Afghanistan,2022,0.18147056,0.77384,0.6,40578842.00000001,Asia,Low income,40.6 million,,True
+Angola,2022,1.51054609,48.025037,52.2,35635028.99999999,Africa,Lower middle income,35.6 million,True,
+Albania,2022,2.7990038399999997,142.729352,187.3,2827607.9999999995,Europe,Upper middle income,2.8 million,,True
+Andorra,2022,5.536981580000001,2201.519512,2345.3,79705.0,Europe,High income,0.1 million,,True
+United Arab Emirates,2022,2.7693340799999997,1172.898717,1371.0,10242086.500000002,Asia,High income,10.2 million,,True
+Argentina,2022,5.7569623,817.669051,800.2,45407904.0,Americas,Upper middle income,45.4 million,,True
+Armenia,2022,1.7153586100000002,84.793202,116.2,2880874.5000000005,Asia,Upper middle income,2.9 million,,True
+Antigua and Barbuda,2022,3.2893459799999993,540.594849,622.8,92840.0,Americas,High income,0.1 million,,True
+Australia,2022,7.35998535,4239.701034,4990.5,26200984.500000004,Oceania,High income,26.2 million,,True
+Austria,2022,8.643328669999999,4104.161428,4533.4,8978929.0,Europe,High income,9.0 million,,True
+Azerbaijan,2022,1.20668018,66.369462,92.3,10295304.0,Asia,Upper middle income,10.3 million,,True
+Burundi,2022,1.58699203,4.02271,4.7,13321097.5,Africa,Low income,13.3 million,True,
+Belgium,2022,8.091326709999999,3566.057328,4063.5,11617623.000000002,Europe,High income,11.6 million,,True
+Benin,2022,0.5155008999999999,6.281856,6.5,13759500.5,Africa,Lower middle income,13.8 million,True,
+Burkina Faso,2022,2.72350121,19.437058,22.8,22509038.500000004,Africa,Low income,22.5 million,True,
+Bangladesh,2022,0.1549107999999999,3.347156,4.0,169384897.50000003,Asia,Lower middle income,169.4 million,,True
+Bulgaria,2022,4.7934579799999995,433.660026,632.4,6838937.0,Europe,High income,6.8 million,,True
+Bahrain,2022,2.4909150600000003,597.03976,720.9,1533459.0,Asia,High income,1.5 million,,True
+Bahamas,2022,4.06823969,1214.20442,1319.8,397538.5,Americas,High income,0.4 million,,True
+Bosnia and Herzegovina,2022,5.734533789999999,362.823099,439.0,3204802.0,Europe,Upper middle income,3.2 million,,True
+Belarus,2022,4.49853516,276.828219,357.4,9173237.0,Europe,Upper middle income,9.2 million,,True
+Belize,2022,2.6371080900000003,164.389167,185.3,402733.00000000006,Americas,Upper middle income,0.4 million,,True
+Bolivia (Plurinational State of),2022,5.887031079999999,188.094099,214.5,12077153.999999998,Americas,Lower middle income,12.1 million,,True
+Brazil,2022,4.104905130000001,370.313185,381.0,210306414.5,Americas,Upper middle income,210.3 million,,True
+Barbados,2022,2.8346071199999994,501.620078,586.4,282318.0,Americas,High income,0.3 million,,True
+Brunei Darussalam,2022,1.67847669,479.241988,614.9,455369.49999999994,Asia,High income,0.5 million,,True
+Bhutan,2022,2.14716125,72.362966,75.6,780914.5,Asia,Lower middle income,0.8 million,,True
+Botswana,2022,4.30165005,308.449559,358.8,2439891.5,Africa,Upper middle income,2.4 million,True,
+Central African Republic,2022,1.59287274,6.350317,7.7,5098039.500000001,Africa,Low income,5.1 million,True,
+Canada,2022,8.0003376,3616.749475,4454.4,38821259.0,Americas,High income,38.8 million,,True
+Switzerland,2022,4.09193945,3678.604161,3832.2,8739000.0,Europe,High income,8.7 million,,True
+Chile,2022,5.07403803,723.621377,780.3,19553036.5,Americas,High income,19.6 million,,True
+China,2022,2.9464595300000007,337.391086,369.0,1425179569.0000002,Asia,Upper middle income,1.4 billion,,True
+Côte d'Ivoire,2022,1.3386573800000003,30.220463,31.7,30395002.0,Africa,Lower middle income,30.4 million,True,
+Cameroon,2022,0.6712339499999999,9.800915,10.8,27632771.499999996,Africa,Lower middle income,27.6 million,True,
+Democratic Republic of the Congo,2022,0.6958921599999999,3.657984,4.5,102396968.0,Africa,Low income,102.4 million,True,
+Congo,2022,0.8055375799999999,13.555193,18.6,6035104.0,Africa,Lower middle income,6.0 million,True,
+Colombia,2022,5.33477688,365.470723,356.1,51737943.49999999,Americas,Upper middle income,51.7 million,,True
+Comoros,2022,0.8658953300000001,11.860133,12.7,834188.0000000001,Africa,Lower middle income,0.8 million,True,
+Cabo Verde,2022,4.28369522,168.899746,183.5,519741.0,Africa,Upper middle income,0.5 million,True,
+Costa Rica,2022,4.953631879999999,677.965402,675.0,5081764.5,Americas,High income,5.1 million,,True
 Cyprus,2022,7.10785913,2168.047157,2295.0,904705.0,Asia,High income,0.9 million,,True
-Czechia,2022,7.459114070000001,1503.077967,2060.88,10516706.999999998,Europe,High income,10.52 million,,True
-Germany,2022,10.12543774,4415.856011,4966.15,83237124.0,Europe,High income,83.24 million,,True
-Djibouti,2022,1.03265727,31.9581,33.84,1137096.0,Africa,Lower middle income,1.14 million,True,
-Dominica,2022,4.506669520000001,360.129696,409.63,66826.5,Americas,Upper middle income,0.07 million,,True
-Denmark,2022,7.955379009999999,4795.86508,5420.15,5873420.0,Europe,High income,5.87 million,,True
-Dominican Republic,2022,2.67142582,232.78917,270.07,11230733.5,Americas,Upper middle income,11.23 million,,True
-Algeria,2022,1.71722472,78.089662,85.17,45477389.50000001,Africa,Upper middle income,45.48 million,True,
-Ecuador,2022,4.598728660000001,281.96393,300.8,17823897.0,Americas,Upper middle income,17.82 million,,True
-Egypt,2022,1.7829283500000002,76.407115,64.8,112618249.5,Africa,Lower middle income,112.62 million,True,
-Spain,2022,7.20880365,2004.223052,2154.76,47432893.0,Europe,High income,47.43 million,,True
-Estonia,2022,5.224678519999999,1107.590739,1494.71,1331796.0,Europe,High income,1.33 million,,True
-Ethiopia,2022,0.7207686299999999,6.076437,6.84,125384286.5,Africa,Not classified,125.38 million,True,
-Finland,2022,7.894019129999999,3655.289127,4006.33,5569299.000000001,Europe,High income,5.57 million,,True
-Fiji,2022,2.7877862500000004,149.805273,151.0,919422.0,Oceania,Upper middle income,0.92 million,,True
-France,2022,8.9622221,3471.419023,3669.68,67871925.0,Europe,High income,67.87 million,,True
-Micronesia (Federated States of),2022,1.12128794,33.989694,43.01,112113.5,Oceania,Lower middle income,0.11 million,,True
-Gabon,2022,1.83213091,123.061826,158.52,2430747.0000000005,Africa,Upper middle income,2.43 million,True,
-United Kingdom of Great Britain and Northern Ireland,2022,9.179559709999998,4330.927731,4182.9,67791000.0,Europe,High income,67.79 million,,True
-Georgia,2022,3.06025243,171.73181,201.48,3794783.5,Asia,Upper middle income,3.79 million,,True
-Ghana,2022,2.0508227299999997,42.116083,45.64,33149152.0,Africa,Lower middle income,33.15 million,True,
-Guinea,2022,0.7289885900000002,7.19533,10.14,14055136.999999998,Africa,Lower middle income,14.06 million,True,
-Gambia,2022,1.52435625,10.78065,12.9,2636470.0000000005,Africa,Low income,2.64 million,True,
-Guinea-Bissau,2022,1.09963667,8.10805,8.95,2105529.0,Africa,Low income,2.11 million,True,
-Equatorial Guinea,2022,0.7646970200000001,36.321601,49.89,1803545.0,Africa,Upper middle income,1.8 million,True,
-Greece,2022,4.5971598600000005,939.223488,956.29,10459782.0,Europe,High income,10.46 million,,True
-Grenada,2022,1.99874532,188.003488,210.53,116913.0,Americas,Upper middle income,0.12 million,,True
-Guatemala,2022,2.42621732,105.692728,129.15,17847877.0,Americas,Upper middle income,17.85 million,,True
-Guyana,2022,2.15520215,369.467799,381.11,821637.0,Americas,High income,0.82 million,,True
-Honduras,2022,3.3738544000000004,83.936547,102.27,10463872.0,Americas,Lower middle income,10.46 million,,True
-Croatia,2022,6.09427309,7702.825139,1135.32,3862305.000000001,Europe,High income,3.86 million,,True
-Haiti,2022,0.34204665,4.293195,5.58,11503606.000000002,Americas,Lower middle income,11.5 million,,True
-Hungary,2022,4.839203360000001,790.974328,885.72,9689010.0,Europe,High income,9.69 million,,True
-Indonesia,2022,1.3944067999999998,56.122594,65.97,278830528.5,Asia,Upper middle income,278.83 million,,True
-India,2022,1.2928915,27.187261,31.1,1425423212.5,Asia,Lower middle income,1.43 billion,,True
-Ireland,2022,4.73404694,4682.316391,4987.96,5060004.0,Europe,High income,5.06 million,,True
-Iran (Islamic Republic of),2022,2.62993145,143.295629,116.93,89524246.50000001,Asia,Upper middle income,89.52 million,,True
-Iraq,2022,2.1849322300000003,94.814921,129.58,44070550.99999999,Asia,Upper middle income,44.07 million,,True
-Iceland,2022,7.86343193,4464.532127,5802.03,380355.5,Europe,High income,0.38 million,,True
-Israel,2022,4.87933254,2172.026178,2807.24,9103151.0,Asia,High income,9.1 million,,True
-Italy,2022,6.720133779999999,2218.383148,2333.47,59030132.99999999,Europe,High income,59.03 million,,True
-Jamaica,2022,5.927616120000001,307.820833,356.97,2839144.0,Americas,Upper middle income,2.84 million,,True
-Jordan,2022,2.49221253,97.370492,107.72,11256263.5,Asia,Lower middle income,11.26 million,,True
-Japan,2022,9.824341769999998,3558.747119,3345.38,124997578.0,Asia,High income,125.0 million,,True
-Kazakhstan,2022,2.30152369,252.772666,259.04,20034609.0,Asia,Upper middle income,20.03 million,,True
-Kenya,2022,2.02182531,35.139021,42.27,54252460.5,Africa,Lower middle income,54.25 million,True,
-Kyrgyzstan,2022,2.6434192700000003,32.039132,46.12,6955788.0,Asia,Lower middle income,6.96 million,,True
-Cambodia,2022,1.17248797,23.617627,27.26,17201723.5,Asia,Lower middle income,17.2 million,,True
-Kiribati,2022,8.488914489999999,166.05011,176.01,130468.5,Oceania,Lower middle income,0.13 million,,True
-Saint Kitts and Nevis,2022,2.93025994,610.080417,610.61,46709.5,Americas,High income,0.05 million,,True
-Republic of Korea,2022,5.920369629999999,1968.040157,1913.81,51782511.50000001,Asia,High income,51.78 million,,True
-Kuwait,2022,3.7239341700000006,981.294216,1483.31,4589510.499999999,Asia,High income,4.59 million,,True
-Lao People's Democratic Republic,2022,0.6265041799999999,15.794211,12.84,7559007.5,Asia,Lower middle income,7.56 million,,True
-Lebanon,2022,1.96468723,103.386108,134.42,5744488.499999999,Asia,Lower middle income,5.74 million,,True
-Liberia,2022,1.29002357,1205.957208,9.54,5373294.0,Africa,Low income,5.37 million,True,
-Libya,2022,3.1484828,220.653165,188.49,7223804.5,Africa,Upper middle income,7.22 million,True,
-Saint Lucia,2022,2.133026839999999,235.597034,274.01,178781.0,Americas,Upper middle income,0.18 million,,True
-Sri Lanka,2022,1.75683677,69.069157,58.62,22834965.0,Asia,Lower middle income,22.83 million,,True
-Lesotho,2022,6.40886402,58.886913,67.73,2286110.5,Africa,Lower middle income,2.29 million,True,
-Lithuania,2022,4.73151922,900.8262,1195.18,2805998.0,Europe,High income,2.81 million,,True
-Luxembourg,2022,4.83443642,5312.862211,6115.49,645396.9999999999,Europe,High income,0.65 million,,True
-Latvia,2022,4.933448790000001,862.349827,1063.16,1875757.0,Europe,High income,1.88 million,,True
-Morocco,2022,2.3239212,78.437483,81.5,37329064.0,Africa,Lower middle income,37.33 million,True,
-Republic of Moldova,2022,4.515145299999999,161.877585,258.1,2541000.0,Europe,Upper middle income,2.54 million,,True
-Madagascar,2022,0.9365723699999998,4.095997,4.7,30437260.499999996,Africa,Low income,30.44 million,True,
-Maldives,2022,7.543621540000001,837.456903,899.26,524106.5000000001,Asia,Upper middle income,0.52 million,,True
-Mexico,2022,2.9689946199999997,296.661611,337.8,128613117.5,Americas,Upper middle income,128.61 million,,True
-Marshall Islands,2022,4.4169340099999985,249.076785,285.45,40077.0,Oceania,Upper middle income,0.04 million,,True
-North Macedonia,2022,4.33453941,262.712241,319.49,1840233.0,Europe,Upper middle income,1.84 million,,True
-Mali,2022,1.4302290699999998,10.143202,11.58,23072640.0,Africa,Low income,23.07 million,True,
-Malta,2022,6.381880279999999,1986.402257,2246.7,520971.0,Europe,High income,0.52 million,,True
-Myanmar,2022,0.57522529,5.657951,6.41,53756787.5,Asia,Lower middle income,53.76 million,,True
-Montenegro,2022,6.8782925599999984,544.871222,697.16,614647.5,Europe,Upper middle income,0.61 million,,True
-Mongolia,2022,3.11989594,133.070205,157.99,3386015.0000000005,Asia,Upper middle income,3.39 million,,True
-Mozambique,2022,2.7056972999999997,15.720407,15.25,32656246.000000004,Africa,Low income,32.66 million,True,
-Mauritania,2022,1.75979567,28.479337,35.49,4875637.5,Africa,Lower middle income,4.88 million,True,
-Mauritius,2022,2.7463455200000007,287.633213,278.67,1276129.5,Africa,Upper middle income,1.28 million,True,
-Malawi,2022,0.8776150900000002,4.796299,5.35,20568728.0,Africa,Low income,20.57 million,True,
-Malaysia,2022,1.97598696,220.487033,231.81,34695493.0,Asia,Upper middle income,34.7 million,,True
-Namibia,2022,4.2423048,167.868783,185.09,2889662.5,Africa,Lower middle income,2.89 million,True,
-Niger,2022,1.53595936,8.695148,9.35,25311973.0,Africa,Low income,25.31 million,True,
-Nigeria,2022,0.6193938900000001,14.897801,13.19,223150895.5,Africa,Lower middle income,223.15 million,True,
-Nicaragua,2022,5.159249310000002,112.520349,120.13,6730653.5,Americas,Lower middle income,6.73 million,,True
-Netherlands (Kingdom of the),2022,6.922546389999999,3478.969591,3972.34,17590672.0,Europe,High income,17.59 million,,True
-Norway,2022,6.809732440000002,5426.761399,7447.64,5425269.999999999,Europe,High income,5.43 million,,True
-Nepal,2022,2.10599875,23.249628,27.93,29715435.999999996,Asia,Lower middle income,29.72 million,,True
-Nauru,2022,15.790369990000002,1209.233131,1967.64,11800.999999999998,Oceania,High income,0.01 million,,True
-New Zealand,2022,8.146823880000001,3461.543401,3902.89,5131734.500000001,Oceania,High income,5.13 million,,True
-Oman,2022,2.4607405699999996,482.698403,596.51,4730226.0,Asia,High income,4.73 million,,True
-Pakistan,2022,1.10801363,18.064366,14.79,243700667.0,Asia,Lower middle income,243.7 million,,True
+Czechia,2022,7.459114070000001,1503.077967,2060.9,10516706.999999998,Europe,High income,10.5 million,,True
+Germany,2022,10.12543774,4415.856011,4966.1,83237124.0,Europe,High income,83.2 million,,True
+Djibouti,2022,1.03265727,31.9581,33.8,1137096.0,Africa,Lower middle income,1.1 million,True,
+Dominica,2022,4.506669520000001,360.129696,409.6,66826.5,Americas,Upper middle income,0.1 million,,True
+Denmark,2022,7.955379009999999,4795.86508,5420.1,5873420.0,Europe,High income,5.9 million,,True
+Dominican Republic,2022,2.67142582,232.78917,270.1,11230733.5,Americas,Upper middle income,11.2 million,,True
+Algeria,2022,1.71722472,78.089662,85.2,45477389.50000001,Africa,Upper middle income,45.5 million,True,
+Ecuador,2022,4.598728660000001,281.96393,300.8,17823897.0,Americas,Upper middle income,17.8 million,,True
+Egypt,2022,1.7829283500000002,76.407115,64.8,112618249.5,Africa,Lower middle income,112.6 million,True,
+Spain,2022,7.20880365,2004.223052,2154.8,47432893.0,Europe,High income,47.4 million,,True
+Estonia,2022,5.224678519999999,1107.590739,1494.7,1331796.0,Europe,High income,1.3 million,,True
+Ethiopia,2022,0.7207686299999999,6.076437,6.8,125384286.5,Africa,Not classified,125.4 million,True,
+Finland,2022,7.894019129999999,3655.289127,4006.3,5569299.000000001,Europe,High income,5.6 million,,True
+Fiji,2022,2.7877862500000004,149.805273,151.0,919422.0,Oceania,Upper middle income,0.9 million,,True
+France,2022,8.9622221,3471.419023,3669.7,67871925.0,Europe,High income,67.9 million,,True
+Micronesia (Federated States of),2022,1.12128794,33.989694,43.0,112113.5,Oceania,Lower middle income,0.1 million,,True
+Gabon,2022,1.83213091,123.061826,158.5,2430747.0000000005,Africa,Upper middle income,2.4 million,True,
+United Kingdom of Great Britain and Northern Ireland,2022,9.179559709999998,4330.927731,4182.9,67791000.0,Europe,High income,67.8 million,,True
+Georgia,2022,3.06025243,171.73181,201.5,3794783.5,Asia,Upper middle income,3.8 million,,True
+Ghana,2022,2.0508227299999997,42.116083,45.6,33149152.0,Africa,Lower middle income,33.1 million,True,
+Guinea,2022,0.7289885900000002,7.19533,10.1,14055136.999999998,Africa,Lower middle income,14.1 million,True,
+Gambia,2022,1.52435625,10.78065,12.9,2636470.0000000005,Africa,Low income,2.6 million,True,
+Guinea-Bissau,2022,1.09963667,8.10805,9.0,2105529.0,Africa,Low income,2.1 million,True,
+Equatorial Guinea,2022,0.7646970200000001,36.321601,49.9,1803545.0,Africa,Upper middle income,1.8 million,True,
+Greece,2022,4.5971598600000005,939.223488,956.3,10459782.0,Europe,High income,10.5 million,,True
+Grenada,2022,1.99874532,188.003488,210.5,116913.0,Americas,Upper middle income,0.1 million,,True
+Guatemala,2022,2.42621732,105.692728,129.1,17847877.0,Americas,Upper middle income,17.8 million,,True
+Guyana,2022,2.15520215,369.467799,381.1,821637.0,Americas,High income,0.8 million,,True
+Honduras,2022,3.3738544000000004,83.936547,102.3,10463872.0,Americas,Lower middle income,10.5 million,,True
+Croatia,2022,6.09427309,7702.825139,1135.3,3862305.000000001,Europe,High income,3.9 million,,True
+Haiti,2022,0.34204665,4.293195,5.6,11503606.000000002,Americas,Lower middle income,11.5 million,,True
+Hungary,2022,4.839203360000001,790.974328,885.7,9689010.0,Europe,High income,9.7 million,,True
+Indonesia,2022,1.3944067999999998,56.122594,66.0,278830528.5,Asia,Upper middle income,278.8 million,,True
+India,2022,1.2928915,27.187261,31.1,1425423212.5,Asia,Lower middle income,1.4 billion,,True
+Ireland,2022,4.73404694,4682.316391,4988.0,5060004.0,Europe,High income,5.1 million,,True
+Iran (Islamic Republic of),2022,2.62993145,143.295629,116.9,89524246.50000001,Asia,Upper middle income,89.5 million,,True
+Iraq,2022,2.1849322300000003,94.814921,129.6,44070550.99999999,Asia,Upper middle income,44.1 million,,True
+Iceland,2022,7.86343193,4464.532127,5802.0,380355.5,Europe,High income,0.4 million,,True
+Israel,2022,4.87933254,2172.026178,2807.2,9103151.0,Asia,High income,9.1 million,,True
+Italy,2022,6.720133779999999,2218.383148,2333.5,59030132.99999999,Europe,High income,59.0 million,,True
+Jamaica,2022,5.927616120000001,307.820833,357.0,2839144.0,Americas,Upper middle income,2.8 million,,True
+Jordan,2022,2.49221253,97.370492,107.7,11256263.5,Asia,Lower middle income,11.3 million,,True
+Japan,2022,9.824341769999998,3558.747119,3345.4,124997578.0,Asia,High income,125.0 million,,True
+Kazakhstan,2022,2.30152369,252.772666,259.0,20034609.0,Asia,Upper middle income,20.0 million,,True
+Kenya,2022,2.02182531,35.139021,42.3,54252460.5,Africa,Lower middle income,54.3 million,True,
+Kyrgyzstan,2022,2.6434192700000003,32.039132,46.1,6955788.0,Asia,Lower middle income,7.0 million,,True
+Cambodia,2022,1.17248797,23.617627,27.3,17201723.5,Asia,Lower middle income,17.2 million,,True
+Kiribati,2022,8.488914489999999,166.05011,176.0,130468.5,Oceania,Lower middle income,0.1 million,,True
+Saint Kitts and Nevis,2022,2.93025994,610.080417,610.6,46709.5,Americas,High income,0.0 million,,True
+Republic of Korea,2022,5.920369629999999,1968.040157,1913.8,51782511.50000001,Asia,High income,51.8 million,,True
+Kuwait,2022,3.7239341700000006,981.294216,1483.3,4589510.499999999,Asia,High income,4.6 million,,True
+Lao People's Democratic Republic,2022,0.6265041799999999,15.794211,12.8,7559007.5,Asia,Lower middle income,7.6 million,,True
+Lebanon,2022,1.96468723,103.386108,134.4,5744488.499999999,Asia,Lower middle income,5.7 million,,True
+Liberia,2022,1.29002357,1205.957208,9.5,5373294.0,Africa,Low income,5.4 million,True,
+Libya,2022,3.1484828,220.653165,188.5,7223804.5,Africa,Upper middle income,7.2 million,True,
+Saint Lucia,2022,2.133026839999999,235.597034,274.0,178781.0,Americas,Upper middle income,0.2 million,,True
+Sri Lanka,2022,1.75683677,69.069157,58.6,22834965.0,Asia,Lower middle income,22.8 million,,True
+Lesotho,2022,6.40886402,58.886913,67.7,2286110.5,Africa,Lower middle income,2.3 million,True,
+Lithuania,2022,4.73151922,900.8262,1195.2,2805998.0,Europe,High income,2.8 million,,True
+Luxembourg,2022,4.83443642,5312.862211,6115.5,645396.9999999999,Europe,High income,0.6 million,,True
+Latvia,2022,4.933448790000001,862.349827,1063.2,1875757.0,Europe,High income,1.9 million,,True
+Morocco,2022,2.3239212,78.437483,81.5,37329064.0,Africa,Lower middle income,37.3 million,True,
+Republic of Moldova,2022,4.515145299999999,161.877585,258.1,2541000.0,Europe,Upper middle income,2.5 million,,True
+Madagascar,2022,0.9365723699999998,4.095997,4.7,30437260.499999996,Africa,Low income,30.4 million,True,
+Maldives,2022,7.543621540000001,837.456903,899.3,524106.5000000001,Asia,Upper middle income,0.5 million,,True
+Mexico,2022,2.9689946199999997,296.661611,337.8,128613117.5,Americas,Upper middle income,128.6 million,,True
+Marshall Islands,2022,4.4169340099999985,249.076785,285.4,40077.0,Oceania,Upper middle income,0.0 million,,True
+North Macedonia,2022,4.33453941,262.712241,319.5,1840233.0,Europe,Upper middle income,1.8 million,,True
+Mali,2022,1.4302290699999998,10.143202,11.6,23072640.0,Africa,Low income,23.1 million,True,
+Malta,2022,6.381880279999999,1986.402257,2246.7,520971.0,Europe,High income,0.5 million,,True
+Myanmar,2022,0.57522529,5.657951,6.4,53756787.5,Asia,Lower middle income,53.8 million,,True
+Montenegro,2022,6.8782925599999984,544.871222,697.2,614647.5,Europe,Upper middle income,0.6 million,,True
+Mongolia,2022,3.11989594,133.070205,158.0,3386015.0000000005,Asia,Upper middle income,3.4 million,,True
+Mozambique,2022,2.7056972999999997,15.720407,15.3,32656246.000000004,Africa,Low income,32.7 million,True,
+Mauritania,2022,1.75979567,28.479337,35.5,4875637.5,Africa,Lower middle income,4.9 million,True,
+Mauritius,2022,2.7463455200000007,287.633213,278.7,1276129.5,Africa,Upper middle income,1.3 million,True,
+Malawi,2022,0.8776150900000002,4.796299,5.4,20568728.0,Africa,Low income,20.6 million,True,
+Malaysia,2022,1.97598696,220.487033,231.8,34695493.0,Asia,Upper middle income,34.7 million,,True
+Namibia,2022,4.2423048,167.868783,185.1,2889662.5,Africa,Lower middle income,2.9 million,True,
+Niger,2022,1.53595936,8.695148,9.4,25311973.0,Africa,Low income,25.3 million,True,
+Nigeria,2022,0.6193938900000001,14.897801,13.2,223150895.5,Africa,Lower middle income,223.2 million,True,
+Nicaragua,2022,5.159249310000002,112.520349,120.1,6730653.5,Americas,Lower middle income,6.7 million,,True
+Netherlands (Kingdom of the),2022,6.922546389999999,3478.969591,3972.3,17590672.0,Europe,High income,17.6 million,,True
+Norway,2022,6.809732440000002,5426.761399,7447.6,5425269.999999999,Europe,High income,5.4 million,,True
+Nepal,2022,2.10599875,23.249628,27.9,29715435.999999996,Asia,Lower middle income,29.7 million,,True
+Nauru,2022,15.790369990000002,1209.233131,1967.6,11800.999999999998,Oceania,High income,0.0 million,,True
+New Zealand,2022,8.146823880000001,3461.543401,3902.9,5131734.500000001,Oceania,High income,5.1 million,,True
+Oman,2022,2.4607405699999996,482.698403,596.5,4730226.0,Asia,High income,4.7 million,,True
+Pakistan,2022,1.10801363,18.064366,14.8,243700667.0,Asia,Lower middle income,243.7 million,,True
 Panama,2022,4.757729529999999,760.136585,827.3,4400772.999999999,Americas,High income,4.4 million,,True
-Peru,2022,3.91110182,265.783644,286.19,33475438.000000004,Americas,Upper middle income,33.48 million,,True
-Philippines,2022,2.32400513,83.13122,82.44,113964338.5,Asia,Lower middle income,113.96 million,,True
-Palau,2022,5.796433929999999,739.388186,802.93,17759.0,Oceania,High income,0.02 million,,True
-Papua New Guinea,2022,1.53210604,37.748826,47.46,10203169.5,Oceania,Lower middle income,10.2 million,,True
-Poland,2022,4.684138299999999,799.784481,873.76,36889761.0,Europe,High income,36.89 million,,True
-Portugal,2022,6.530534270000001,1441.483294,1609.9,10352042.0,Europe,High income,10.35 million,,True
-Paraguay,2022,4.08453465,253.981886,253.47,6760464.0,Americas,Upper middle income,6.76 million,,True
-"occupied Palestinian territory, including east Jerusalem",2022,3.9269774,34.350431,141.47,5305269.999999999,Asia,Lower middle income,5.31 million,,True
-Qatar,2022,1.7926851499999998,1061.717701,1464.28,2892455.0,Asia,High income,2.89 million,,True
-Romania,2022,4.464989189999999,545.711148,700.75,19042454.999999996,Europe,High income,19.04 million,,True
-Russian Federation,2022,4.88805008,490.968195,761.64,145579899.0,Europe,High income,145.58 million,,True
-Rwanda,2022,2.8098130200000004,26.649632,27.4,13651029.999999998,Africa,Low income,13.65 million,True,
-Saudi Arabia,2022,3.618283270000001,879.42253,1246.65,32175351.5,Asia,High income,32.18 million,,True
-Sudan,2022,1.18913412,14.890172,8.13,49383000.0,Africa,Low income,49.38 million,True,
-Senegal,2022,0.8960161199999999,12.858263,14.05,17651103.0,Africa,Lower middle income,17.65 million,True,
-Singapore,2022,2.77292442,1848.255108,2446.48,5649884.499999999,Asia,High income,5.65 million,,True
-Solomon Islands,2022,3.32158995,64.206493,66.61,781066.0,Oceania,Lower middle income,0.78 million,,True
-Sierra Leone,2022,1.51291788,9.276056,7.48,8276806.500000001,Africa,Low income,8.28 million,True,
-El Salvador,2022,6.12128019,266.260197,311.79,6280319.0,Americas,Upper middle income,6.28 million,,True
-San Marino,2022,6.5595202399999994,3254.579269,3431.86,34089.99999999999,Europe,High income,0.03 million,,True
-Somalia,2022,0.17265649,0.789363,1.01,17801897.0,Africa,Low income,17.8 million,True,
-Serbia,2022,5.95365191,436.460571,556.76,6797105.000000001,Europe,Upper middle income,6.8 million,,True
-South Sudan,2022,0.58035421,6.074815,4.24,11021177.5,Africa,Low income,11.02 million,True,
-Sao Tome and Principe,2022,4.124695780000001,58.526346,99.65,226305.0,Africa,Lower middle income,0.23 million,True,
-Suriname,2022,3.8760845700000006,274.461447,225.23,623164.0,Americas,Upper middle income,0.62 million,,True
-Slovakia,2022,6.175155640000001,1165.564497,1311.93,5434712.0,Europe,High income,5.43 million,,True
-Slovenia,2022,7.05512381,1791.694555,2011.01,2107180.0,Europe,High income,2.11 million,,True
-Sweden,2022,9.02388191,5069.879248,5108.52,10452326.0,Europe,High income,10.45 million,,True
-Eswatini,2022,3.243932719999999,128.265105,127.5,1218916.4999999998,Africa,Lower middle income,1.22 million,True,
-Seychelles,2022,3.1301093099999995,483.582759,513.19,125522.5,Africa,High income,0.13 million,True,
-Chad,2022,1.00766718,7.983818,8.94,18455315.5,Africa,Low income,18.46 million,True,
-Togo,2022,0.66535133,5.826538,5.95,9089738.5,Africa,Low income,9.09 million,True,
-Thailand,2022,3.89329267,244.540231,269.0,71735329.0,Asia,Upper middle income,71.74 million,,True
-Tajikistan,2022,1.78677893,22.499021,18.41,10182222.0,Asia,Lower middle income,10.18 million,,True
-Turkmenistan,2022,0.7987930799999999,50.831292,86.13,7230193.000000001,Asia,Upper middle income,7.23 million,,True
-Timor-Leste,2022,10.30766392,119.230566,125.86,1369295.4999999998,Asia,Lower middle income,1.37 million,,True
-Tonga,2022,3.97319055,176.547478,184.74,105042.0,Oceania,Upper middle income,0.11 million,,True
+Peru,2022,3.91110182,265.783644,286.2,33475438.000000004,Americas,Upper middle income,33.5 million,,True
+Philippines,2022,2.32400513,83.13122,82.4,113964338.5,Asia,Lower middle income,114.0 million,,True
+Palau,2022,5.796433929999999,739.388186,802.9,17759.0,Oceania,High income,0.0 million,,True
+Papua New Guinea,2022,1.53210604,37.748826,47.5,10203169.5,Oceania,Lower middle income,10.2 million,,True
+Poland,2022,4.684138299999999,799.784481,873.8,36889761.0,Europe,High income,36.9 million,,True
+Portugal,2022,6.530534270000001,1441.483294,1609.9,10352042.0,Europe,High income,10.4 million,,True
+Paraguay,2022,4.08453465,253.981886,253.5,6760464.0,Americas,Upper middle income,6.8 million,,True
+"occupied Palestinian territory, including east Jerusalem",2022,3.9269774,34.350431,141.5,5305269.999999999,Asia,Lower middle income,5.3 million,,True
+Qatar,2022,1.7926851499999998,1061.717701,1464.3,2892455.0,Asia,High income,2.9 million,,True
+Romania,2022,4.464989189999999,545.711148,700.7,19042454.999999996,Europe,High income,19.0 million,,True
+Russian Federation,2022,4.88805008,490.968195,761.6,145579899.0,Europe,High income,145.6 million,,True
+Rwanda,2022,2.8098130200000004,26.649632,27.4,13651029.999999998,Africa,Low income,13.7 million,True,
+Saudi Arabia,2022,3.618283270000001,879.42253,1246.6,32175351.5,Asia,High income,32.2 million,,True
+Sudan,2022,1.18913412,14.890172,8.1,49383000.0,Africa,Low income,49.4 million,True,
+Senegal,2022,0.8960161199999999,12.858263,14.1,17651103.0,Africa,Lower middle income,17.7 million,True,
+Singapore,2022,2.77292442,1848.255108,2446.5,5649884.499999999,Asia,High income,5.6 million,,True
+Solomon Islands,2022,3.32158995,64.206493,66.6,781066.0,Oceania,Lower middle income,0.8 million,,True
+Sierra Leone,2022,1.51291788,9.276056,7.5,8276806.500000001,Africa,Low income,8.3 million,True,
+El Salvador,2022,6.12128019,266.260197,311.8,6280319.0,Americas,Upper middle income,6.3 million,,True
+San Marino,2022,6.5595202399999994,3254.579269,3431.9,34089.99999999999,Europe,High income,0.0 million,,True
+Somalia,2022,0.17265649,0.789363,1.0,17801897.0,Africa,Low income,17.8 million,True,
+Serbia,2022,5.95365191,436.460571,556.8,6797105.000000001,Europe,Upper middle income,6.8 million,,True
+South Sudan,2022,0.58035421,6.074815,4.2,11021177.5,Africa,Low income,11.0 million,True,
+Sao Tome and Principe,2022,4.124695780000001,58.526346,99.7,226305.0,Africa,Lower middle income,0.2 million,True,
+Suriname,2022,3.8760845700000006,274.461447,225.2,623164.0,Americas,Upper middle income,0.6 million,,True
+Slovakia,2022,6.175155640000001,1165.564497,1311.9,5434712.0,Europe,High income,5.4 million,,True
+Slovenia,2022,7.05512381,1791.694555,2011.0,2107180.0,Europe,High income,2.1 million,,True
+Sweden,2022,9.02388191,5069.879248,5108.5,10452326.0,Europe,High income,10.5 million,,True
+Eswatini,2022,3.243932719999999,128.265105,127.5,1218916.4999999998,Africa,Lower middle income,1.2 million,True,
+Seychelles,2022,3.1301093099999995,483.582759,513.2,125522.5,Africa,High income,0.1 million,True,
+Chad,2022,1.00766718,7.983818,8.9,18455315.5,Africa,Low income,18.5 million,True,
+Togo,2022,0.66535133,5.826538,5.9,9089738.5,Africa,Low income,9.1 million,True,
+Thailand,2022,3.89329267,244.540231,269.0,71735329.0,Asia,Upper middle income,71.7 million,,True
+Tajikistan,2022,1.78677893,22.499021,18.4,10182222.0,Asia,Lower middle income,10.2 million,,True
+Turkmenistan,2022,0.7987930799999999,50.831292,86.1,7230193.000000001,Asia,Upper middle income,7.2 million,,True
+Timor-Leste,2022,10.30766392,119.230566,125.9,1369295.4999999998,Asia,Lower middle income,1.4 million,,True
+Tonga,2022,3.97319055,176.547478,184.7,105042.0,Oceania,Upper middle income,0.1 million,,True
 Trinidad and Tobago,2022,2.86555815,433.594269,575.7,1495921.5,Americas,High income,1.5 million,,True
-Tunisia,2022,3.9432156100000006,162.955436,150.54,12119333.5,Africa,Lower middle income,12.12 million,True,
-Türkiye,2022,2.78341818,383.082071,290.02,87058472.5,Asia,Upper middle income,87.06 million,,True
-Tuvalu,2022,13.32408428,554.56138,786.21,9992.0,Oceania,Upper middle income,0.01 million,,True
-United Republic of Tanzania,2022,0.98245382,10.772191,11.25,64711821.0,Africa,Lower middle income,64.71 million,True,
-Uganda,2022,0.977534,8.429178,9.83,47312719.5,Africa,Low income,47.31 million,True,
-Uruguay,2022,6.32145834,1155.86503,1307.92,3390912.9999999995,Americas,High income,3.39 million,,True
-United States of America,2022,9.10163784,5656.787161,6860.62,341534045.49999994,Americas,High income,341.53 million,,True
-Uzbekistan,2022,2.5039238899999994,79.416723,57.62,34938955.5,Asia,Lower middle income,34.94 million,,True
-Saint Vincent and the Grenadines,2022,3.23636723,272.975368,300.23,102046.0,Americas,Upper middle income,0.1 million,,True
-Viet Nam,2022,2.00186634,71.134154,82.4,99680655.0,Asia,Lower middle income,99.68 million,,True
-Vanuatu,2022,1.67315841,45.260074,54.64,313046.50000000006,Oceania,Lower middle income,0.31 million,,True
-Samoa,2022,5.0203704799999995,186.224549,188.21,215260.5,Oceania,Upper middle income,0.22 million,,True
-Yemen,2022,0.30541709,2.759514,1.88,38222875.5,Asia,Low income,38.22 million,,True
-South Africa,2022,5.405023570000001,311.309689,351.16,62378409.99999999,Africa,Upper middle income,62.38 million,True,
-Zambia,2022,2.50694346,32.55204,36.28,20152938.000000004,Africa,Lower middle income,20.15 million,True,
-Zimbabwe,2022,1.17876518,102.188343,22.95,16069055.499999998,Africa,Lower middle income,16.07 million,True,
+Tunisia,2022,3.9432156100000006,162.955436,150.5,12119333.5,Africa,Lower middle income,12.1 million,True,
+Türkiye,2022,2.78341818,383.082071,290.0,87058472.5,Asia,Upper middle income,87.1 million,,True
+Tuvalu,2022,13.32408428,554.56138,786.2,9992.0,Oceania,Upper middle income,0.0 million,,True
+United Republic of Tanzania,2022,0.98245382,10.772191,11.3,64711821.0,Africa,Lower middle income,64.7 million,True,
+Uganda,2022,0.977534,8.429178,9.8,47312719.5,Africa,Low income,47.3 million,True,
+Uruguay,2022,6.32145834,1155.86503,1307.9,3390912.9999999995,Americas,High income,3.4 million,,True
+United States of America,2022,9.10163784,5656.787161,6860.6,341534045.49999994,Americas,High income,341.5 million,,True
+Uzbekistan,2022,2.5039238899999994,79.416723,57.6,34938955.5,Asia,Lower middle income,34.9 million,,True
+Saint Vincent and the Grenadines,2022,3.23636723,272.975368,300.2,102046.0,Americas,Upper middle income,0.1 million,,True
+Viet Nam,2022,2.00186634,71.134154,82.4,99680655.0,Asia,Lower middle income,99.7 million,,True
+Vanuatu,2022,1.67315841,45.260074,54.6,313046.50000000006,Oceania,Lower middle income,0.3 million,,True
+Samoa,2022,5.0203704799999995,186.224549,188.2,215260.5,Oceania,Upper middle income,0.2 million,,True
+Yemen,2022,0.30541709,2.759514,1.9,38222875.5,Asia,Low income,38.2 million,,True
+South Africa,2022,5.405023570000001,311.309689,351.2,62378409.99999999,Africa,Upper middle income,62.4 million,True,
+Zambia,2022,2.50694346,32.55204,36.3,20152938.000000004,Africa,Lower middle income,20.2 million,True,
+Zimbabwe,2022,1.17876518,102.188343,23.0,16069055.499999998,Africa,Lower middle income,16.1 million,True,

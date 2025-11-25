@@ -1,0 +1,349 @@
+country_name,iso3_code,gdp_usd2022_pc,year,indicator_code,value,connet,color,size,popup,indicator_name
+Burundi,BDI,295.6786373273473,2020,hc6_ext_che,40.07583918149077,,ext,1,True,External expenditure on preventive care
+Afghanistan,AFG,349.3199955888189,2022,hc6_ext_che,6.068352130361792,,ext,1,True,External expenditure on preventive care
+Central African Republic,CAF,484.4513318551329,2019,hc6_ext_che,20.22956414479892,,ext,1,True,External expenditure on preventive care
+Sierra Leone,SLE,488.933289989506,2021,hc6_ext_che,9.302355750470628,,ext,1,True,External expenditure on preventive care
+Madagascar,MDG,494.9850875214201,2021,hc6_ext_che,26.739075824269715,,ext,1,True,External expenditure on preventive care
+Mozambique,MOZ,587.4130430600209,2018,hc6_ext_che,26.628388565053942,,ext,1,True,External expenditure on preventive care
+Niger,NER,608.988502891053,2022,hc6_ext_che,13.5256226624346,,ext,1,True,External expenditure on preventive care
+Malawi,MWI,620.1391267509562,2019,hc6_ext_che,5.307232884952704,,ext,1,True,External expenditure on preventive care
+Democratic Republic of the Congo,COD,644.0889923802301,2022,hc6_ext_che,19.163140017355325,,ext,1,True,External expenditure on preventive care
+Sudan,SDN,736.3998743616515,2020,hc6_ext_che,2.5493473750684608,,ext,1,True,External expenditure on preventive care
+Guinea-Bissau,GNB,799.0310882536863,2021,hc6_ext_che,18.867983292266192,,ext,1,True,External expenditure on preventive care
+Gambia,GMB,817.7587894534383,2019,hc6_ext_che,13.936903515180717,,ext,1,True,External expenditure on preventive care
+South Sudan,SSD,827.4961247762102,2019,hc6_ext_che,19.575454093433805,,ext,1,True,External expenditure on preventive care
+Burkina Faso,BFA,838.1363452853268,2022,hc6_ext_che,13.234655275735632,,ext,1,True,External expenditure on preventive care
+Mali,MLI,842.1461472074532,2019,hc6_ext_che,9.600157167362228,,ext,1,True,External expenditure on preventive care
+Togo,TGO,865.0380106314924,2021,hc6_ext_che,13.050434625869064,,ext,1,True,External expenditure on preventive care
+Liberia,LBR,878.1154007290856,2020,hc6_ext_che,10.873047016799292,,ext,1,True,External expenditure on preventive care
+Ethiopia,ETH,885.1970120120711,2020,hc6_ext_che,13.665731322528885,,ext,1,True,External expenditure on preventive care
+Chad,TCD,887.6387422892386,2022,hc6_ext_che,10.016381660166006,,ext,1,True,External expenditure on preventive care
+Tajikistan,TJK,892.5459333837222,2019,hc6_ext_che,0.3526008405654713,,ext,1,True,External expenditure on preventive care
+Uganda,UGA,997.9400393082342,2019,hc6_ext_che,18.07685098090493,,ext,1,True,External expenditure on preventive care
+United Republic of Tanzania,TZA,1091.9346993210518,2019,hc6_ext_che,12.811518366923814,,ext,1,True,External expenditure on preventive care
+Myanmar,MMR,1113.7636390428363,2022,hc6_ext_che,9.62123729648005,,ext,1,True,External expenditure on preventive care
+Nepal,NPL,1265.892736888656,2021,hc6_ext_che,6.005380387697775,,ext,1,True,External expenditure on preventive care
+Timor-Leste,TLS,1310.0266354062414,2018,hc6_ext_che,7.788654475686457,,ext,1,True,External expenditure on preventive care
+Pakistan,PAK,1334.761673347452,2022,hc6_ext_che,0.3494290454433429,,ext,1,True,External expenditure on preventive care
+Guinea,GIN,1370.876445847163,2021,hc6_ext_che,14.71797623610569,,ext,1,True,External expenditure on preventive care
+Comoros,COM,1489.4467208406688,2019,hc6_ext_che,11.4356522379635,,ext,1,True,External expenditure on preventive care
+Senegal,SEN,1545.7746938496416,2021,hc6_ext_che,10.426707760554,,ext,1,True,External expenditure on preventive care
+Cameroon,CMR,1612.9486038552045,2019,hc6_ext_che,5.691929847471961,,ext,1,True,External expenditure on preventive care
+Kyrgyzstan,KGZ,1750.2338488189823,2019,hc6_ext_che,1.5125149860705012,,ext,1,True,External expenditure on preventive care
+Haiti,HTI,1809.3439926150215,2019,hc6_ext_che,5.2066641356288965,,ext,1,True,External expenditure on preventive care
+Zimbabwe,ZWE,1918.64653891671,2020,hc6_ext_che,20.84950201147092,,ext,1,True,External expenditure on preventive care
+Mauritania,MRT,1952.163896572111,2021,hc6_ext_che,3.993335851687847,,ext,1,True,External expenditure on preventive care
+Kenya,KEN,1969.0312544948133,2019,hc6_ext_che,11.067396814214415,,ext,1,True,External expenditure on preventive care
+Lao People's Democratic Republic,LAO,2059.2126687405507,2019,hc6_ext_che,7.230705301685449,,ext,1,True,External expenditure on preventive care
+Nigeria,NGA,2105.4313815530245,2021,hc6_ext_che,6.55404111818164,,ext,1,True,External expenditure on preventive care
+Uzbekistan,UZB,2106.8839239108147,2019,hc6_ext_che,0.0530640602418517,,ext,1,True,External expenditure on preventive care
+Ghana,GHA,2225.276143328211,2022,hc6_ext_che,7.8931594491861,,ext,1,True,External expenditure on preventive care
+India,IND,2232.259355762569,2019,hc6_ext_che,0.3327596040308676,,ext,1,True,External expenditure on preventive care
+Côte d'Ivoire,CIV,2269.762717427056,2021,hc6_ext_che,10.58964765780875,,ext,1,True,External expenditure on preventive care
+Bangladesh,BGD,2272.915897480655,2020,hc6_ext_che,3.573765636263131,,ext,1,True,External expenditure on preventive care
+Cambodia,KHM,2322.2126473482263,2019,hc6_ext_che,4.850695443100305,,ext,1,True,External expenditure on preventive care
+Congo,COG,2355.146406337041,2020,hc6_ext_che,9.917544183983182,,ext,1,True,External expenditure on preventive care
+Sao Tome and Principe,STP,2461.703269830504,2021,hc6_ext_che,16.136744173762516,,ext,1,True,External expenditure on preventive care
+Egypt,EGY,3400.08189131473,2020,hc6_ext_che,0.051602414203883,,ext,1,True,External expenditure on preventive care
+Morocco,MAR,3560.8541798747706,2019,hc6_ext_che,0.0705944566595929,,ext,1,True,External expenditure on preventive care
+"occupied Palestinian territory, including east Jerusalem",PSE,3602.4368222540993,2022,hc6_ext_che,0.1913741849126183,,ext,1,True,External expenditure on preventive care
+Eswatini,SWZ,3709.071678930837,2019,hc6_ext_che,15.542809275187112,,ext,1,True,External expenditure on preventive care
+Sri Lanka,LKA,3770.529300069591,2018,hc6_ext_che,0.3439740769122978,,ext,1,True,External expenditure on preventive care
+Tunisia,TUN,3971.3822905537263,2019,hc6_ext_che,0.0,,ext,1,True,External expenditure on preventive care
+Iran (Islamic Republic of),IRN,4071.951895180976,2019,hc6_ext_che,0.0077579670813531,,ext,1,True,External expenditure on preventive care
+Jordan,JOR,4341.824534601933,2019,hc6_ext_che,0.00682960449826,,ext,1,True,External expenditure on preventive care
+Cabo Verde,CPV,4421.789762267305,2019,hc6_ext_che,4.161792216194556,,ext,1,True,External expenditure on preventive care
+Namibia,NAM,4781.680621228851,2019,hc6_ext_che,2.922050427180844,,ext,1,True,External expenditure on preventive care
+Mongolia,MNG,4888.164944596249,2021,hc6_ext_che,0.3042164881029645,,ext,1,True,External expenditure on preventive care
+Ukraine,UKR,4897.909985036439,2020,hc6_ext_che,0.0,,ext,1,True,External expenditure on preventive care
+El Salvador,SLV,5093.531077004209,2022,hc6_ext_che,0.0987271989108268,,ext,1,True,External expenditure on preventive care
+Georgia,GEO,5795.483822922803,2019,hc6_ext_che,0.2833189488226558,,ext,1,True,External expenditure on preventive care
+Republic of Moldova,MDA,5932.25545531029,2021,hc6_ext_che,2.668880738639998,,ext,1,True,External expenditure on preventive care
+Paraguay,PRY,6205.625973945806,2022,hc6_ext_che,1.6072809179827755e-05,,ext,1,True,External expenditure on preventive care
+Guyana,GUY,6434.903207997396,2019,hc6_ext_che,0.6664713286333309,,ext,1,True,External expenditure on preventive care
+North Macedonia,MKD,6723.298926609337,2020,hc6_ext_che,0.0,,ext,1,True,External expenditure on preventive care
+Armenia,ARM,6773.514379094577,2022,hc6_ext_che,0.0966691577263087,,ext,1,True,External expenditure on preventive care
+South Africa,ZAF,6778.157243614212,2019,hc6_ext_che,0.7801023790948737,,ext,1,True,External expenditure on preventive care
+Thailand,THA,6951.30488158535,2018,hc6_ext_che,0.0894727606353203,,ext,1,True,External expenditure on preventive care
+Suriname,SUR,7118.231230613029,2019,hc6_ext_che,0.5291352189677643,,ext,1,True,External expenditure on preventive care
+Belarus,BLR,7944.179719965559,2022,hc6_ext_che,0.1173012307311098,,ext,1,True,External expenditure on preventive care
+Botswana,BWA,8080.04371202932,2019,hc6_ext_che,6.941000807695268,,ext,1,True,External expenditure on preventive care
+Montenegro,MNE,8520.329706623219,2020,hc6_ext_che,0.0,,ext,1,True,External expenditure on preventive care
+Gabon,GAB,9034.546789742915,2019,hc6_ext_che,0.4746702975529655,,ext,1,True,External expenditure on preventive care
+Dominican Republic,DOM,9490.46401076917,2019,hc6_ext_che,0.6047562587769151,,ext,1,True,External expenditure on preventive care
+Mauritius,MUS,10463.576358930426,2019,hc6_ext_che,0.1125368162108771,,ext,1,True,External expenditure on preventive care
+Mexico,MEX,10499.487017974525,2020,hc6_ext_che,0.0012143134748062,,ext,1,True,External expenditure on preventive care
+Lebanon,LBN,10581.092711561296,2018,hc6_ext_che,8.61674184443589e-06,,ext,1,True,External expenditure on preventive care
+Kazakhstan,KAZ,10860.289445727456,2018,hc6_ext_che,0.006238986312556,,ext,1,True,External expenditure on preventive care
+Malaysia,MYS,10927.487333058716,2021,hc6_ext_che,0.0023845336087144,,ext,1,True,External expenditure on preventive care
+China,CHN,10979.65965307673,2019,hc6_ext_che,0.0006696115753227,,ext,1,True,External expenditure on preventive care
+Costa Rica,CRI,13625.902500911285,2022,hc6_ext_che,0.0022716271807614,,ext,1,True,External expenditure on preventive care
+Chile,CHL,15266.09345901415,2021,hc6_ext_che,0.0,,ext,1,True,External expenditure on preventive care
+Seychelles,SYC,16615.25630221964,2018,hc6_ext_che,0.3095852766123807,,ext,1,True,External expenditure on preventive care
+Trinidad and Tobago,TTO,22301.01850937032,2018,hc6_ext_che,0.0029581866685728,,ext,1,True,External expenditure on preventive care
+Slovenia,SVN,25843.30092496315,2020,hc6_ext_che,0.0189404753414193,,ext,1,True,External expenditure on preventive care
+Saudi Arabia,SAU,33407.0634061018,2019,hc6_ext_che,0.0,,ext,1,True,External expenditure on preventive care
+United Arab Emirates,ARE,48028.56282348628,2021,hc6_ext_che,0.0,,ext,1,True,External expenditure on preventive care
+Canada,CAN,54141.36212165505,2021,hc6_ext_che,0.0,,ext,1,True,External expenditure on preventive care
+United States of America,USA,69459.28968540588,2020,hc6_ext_che,0.0,,ext,1,True,External expenditure on preventive care
+Burundi,BDI,295.6786373273473,2020,hc6_gghed_che,0.5763175601694719,,gghed,1,True,Domestic government expenditure on preventive care
+Afghanistan,AFG,349.3199955888189,2022,hc6_gghed_che,0.0072209415789632,,gghed,1,True,Domestic government expenditure on preventive care
+Central African Republic,CAF,484.4513318551329,2019,hc6_gghed_che,0.3132867155045352,,gghed,1,True,Domestic government expenditure on preventive care
+Sierra Leone,SLE,488.933289989506,2021,hc6_gghed_che,5.326185525328626,,gghed,1,True,Domestic government expenditure on preventive care
+Madagascar,MDG,494.9850875214201,2021,hc6_gghed_che,1.7631866903400786,,gghed,1,True,Domestic government expenditure on preventive care
+Mozambique,MOZ,587.4130430600209,2018,hc6_gghed_che,1.7107737018091012,,gghed,1,True,Domestic government expenditure on preventive care
+Niger,NER,608.988502891053,2022,hc6_gghed_che,5.079162591637116,,gghed,1,True,Domestic government expenditure on preventive care
+Malawi,MWI,620.1391267509562,2019,hc6_gghed_che,1.8851846831095296,,gghed,1,True,Domestic government expenditure on preventive care
+Democratic Republic of the Congo,COD,644.0889923802301,2022,hc6_gghed_che,0.1134343839988346,,gghed,1,True,Domestic government expenditure on preventive care
+Sudan,SDN,736.3998743616515,2020,hc6_gghed_che,3.4892857109115183,,gghed,1,True,Domestic government expenditure on preventive care
+Guinea-Bissau,GNB,799.0310882536863,2021,hc6_gghed_che,2.248368060636121,,gghed,1,True,Domestic government expenditure on preventive care
+Gambia,GMB,817.7587894534383,2019,hc6_gghed_che,0.8217080149015147,,gghed,1,True,Domestic government expenditure on preventive care
+South Sudan,SSD,827.4961247762102,2019,hc6_gghed_che,1.655512712789278,,gghed,1,True,Domestic government expenditure on preventive care
+Burkina Faso,BFA,838.1363452853268,2022,hc6_gghed_che,7.956902360067939,,gghed,1,True,Domestic government expenditure on preventive care
+Mali,MLI,842.1461472074532,2019,hc6_gghed_che,1.0025147682316886,,gghed,1,True,Domestic government expenditure on preventive care
+Togo,TGO,865.0380106314924,2021,hc6_gghed_che,2.306425873120367,,gghed,1,True,Domestic government expenditure on preventive care
+Liberia,LBR,878.1154007290856,2020,hc6_gghed_che,1.0618980381696643,,gghed,1,True,Domestic government expenditure on preventive care
+Ethiopia,ETH,885.1970120120711,2020,hc6_gghed_che,4.95456752149862,,gghed,1,True,Domestic government expenditure on preventive care
+Chad,TCD,887.6387422892386,2022,hc6_gghed_che,3.2787635485168023,,gghed,1,True,Domestic government expenditure on preventive care
+Tajikistan,TJK,892.5459333837222,2019,hc6_gghed_che,1.6320069865182032,,gghed,1,True,Domestic government expenditure on preventive care
+Uganda,UGA,997.9400393082342,2019,hc6_gghed_che,2.033373181651332,,gghed,1,True,Domestic government expenditure on preventive care
+United Republic of Tanzania,TZA,1091.9346993210518,2019,hc6_gghed_che,0.5484806637066103,,gghed,1,True,Domestic government expenditure on preventive care
+Myanmar,MMR,1113.7636390428363,2022,hc6_gghed_che,3.028335916430333,,gghed,1,True,Domestic government expenditure on preventive care
+Nepal,NPL,1265.892736888656,2021,hc6_gghed_che,8.519644572135787,,gghed,1,True,Domestic government expenditure on preventive care
+Timor-Leste,TLS,1310.0266354062414,2018,hc6_gghed_che,0.0641320938035466,,gghed,1,True,Domestic government expenditure on preventive care
+Pakistan,PAK,1334.761673347452,2022,hc6_gghed_che,0.920254432706104,,gghed,1,True,Domestic government expenditure on preventive care
+Guinea,GIN,1370.876445847163,2021,hc6_gghed_che,0.368283547312521,,gghed,1,True,Domestic government expenditure on preventive care
+Comoros,COM,1489.4467208406688,2019,hc6_gghed_che,1.160092725490225,,gghed,1,True,Domestic government expenditure on preventive care
+Senegal,SEN,1545.7746938496416,2021,hc6_gghed_che,2.464162822545044,,gghed,1,True,Domestic government expenditure on preventive care
+Cameroon,CMR,1612.9486038552045,2019,hc6_gghed_che,0.7551886026710907,,gghed,1,True,Domestic government expenditure on preventive care
+Kyrgyzstan,KGZ,1750.2338488189823,2019,hc6_gghed_che,1.883249526339546,,gghed,1,True,Domestic government expenditure on preventive care
+Haiti,HTI,1809.3439926150215,2019,hc6_gghed_che,0.0428568921223714,,gghed,1,True,Domestic government expenditure on preventive care
+Zimbabwe,ZWE,1918.64653891671,2020,hc6_gghed_che,5.572406570464573,,gghed,1,True,Domestic government expenditure on preventive care
+Mauritania,MRT,1952.163896572111,2021,hc6_gghed_che,3.9814770018697776,,gghed,1,True,Domestic government expenditure on preventive care
+Kenya,KEN,1969.0312544948133,2019,hc6_gghed_che,4.736493092729553,,gghed,1,True,Domestic government expenditure on preventive care
+Lao People's Democratic Republic,LAO,2059.2126687405507,2019,hc6_gghed_che,2.725655239811326,,gghed,1,True,Domestic government expenditure on preventive care
+Nigeria,NGA,2105.4313815530245,2021,hc6_gghed_che,1.907655153928968,,gghed,1,True,Domestic government expenditure on preventive care
+Uzbekistan,UZB,2106.8839239108147,2019,hc6_gghed_che,2.5668509924108505,,gghed,1,True,Domestic government expenditure on preventive care
+Ghana,GHA,2225.276143328211,2022,hc6_gghed_che,8.554645510687513,,gghed,1,True,Domestic government expenditure on preventive care
+India,IND,2232.259355762569,2019,hc6_gghed_che,7.211564381318032,,gghed,1,True,Domestic government expenditure on preventive care
+Côte d'Ivoire,CIV,2269.762717427056,2021,hc6_gghed_che,12.750095588772474,,gghed,1,True,Domestic government expenditure on preventive care
+Bangladesh,BGD,2272.915897480655,2020,hc6_gghed_che,3.782319431657647,,gghed,1,True,Domestic government expenditure on preventive care
+Cambodia,KHM,2322.2126473482263,2019,hc6_gghed_che,0.8652002432230628,,gghed,1,True,Domestic government expenditure on preventive care
+Congo,COG,2355.146406337041,2020,hc6_gghed_che,5.118633785402047,,gghed,1,True,Domestic government expenditure on preventive care
+Sao Tome and Principe,STP,2461.703269830504,2021,hc6_gghed_che,1.9782250629334732,,gghed,1,True,Domestic government expenditure on preventive care
+Egypt,EGY,3400.08189131473,2020,hc6_gghed_che,1.4716463452825268,,gghed,1,True,Domestic government expenditure on preventive care
+Morocco,MAR,3560.8541798747706,2019,hc6_gghed_che,4.95524414749773,,gghed,1,True,Domestic government expenditure on preventive care
+"occupied Palestinian territory, including east Jerusalem",PSE,3602.4368222540993,2022,hc6_gghed_che,0.9676222832660476,,gghed,1,True,Domestic government expenditure on preventive care
+Eswatini,SWZ,3709.071678930837,2019,hc6_gghed_che,18.99393337514059,,gghed,1,True,Domestic government expenditure on preventive care
+Sri Lanka,LKA,3770.529300069591,2018,hc6_gghed_che,1.7061050956065382,,gghed,1,True,Domestic government expenditure on preventive care
+Tunisia,TUN,3971.3822905537263,2019,hc6_gghed_che,0.7242077435458477,,gghed,1,True,Domestic government expenditure on preventive care
+Iran (Islamic Republic of),IRN,4071.951895180976,2019,hc6_gghed_che,1.626978261089324,,gghed,1,True,Domestic government expenditure on preventive care
+Jordan,JOR,4341.824534601933,2019,hc6_gghed_che,0.30650840159759,,gghed,1,True,Domestic government expenditure on preventive care
+Cabo Verde,CPV,4421.789762267305,2019,hc6_gghed_che,4.766016431419392,,gghed,1,True,Domestic government expenditure on preventive care
+Namibia,NAM,4781.680621228851,2019,hc6_gghed_che,3.5163746464378143,,gghed,1,True,Domestic government expenditure on preventive care
+Mongolia,MNG,4888.164944596249,2021,hc6_gghed_che,0.9164392625839682,,gghed,1,True,Domestic government expenditure on preventive care
+Ukraine,UKR,4897.909985036439,2020,hc6_gghed_che,0.6239729914607013,,gghed,1,True,Domestic government expenditure on preventive care
+El Salvador,SLV,5093.531077004209,2022,hc6_gghed_che,12.87827379573071,,gghed,1,True,Domestic government expenditure on preventive care
+Georgia,GEO,5795.483822922803,2019,hc6_gghed_che,2.062220378836166,,gghed,1,True,Domestic government expenditure on preventive care
+Republic of Moldova,MDA,5932.25545531029,2021,hc6_gghed_che,3.248768577947417,,gghed,1,True,Domestic government expenditure on preventive care
+Paraguay,PRY,6205.625973945806,2022,hc6_gghed_che,4.934905950828734,,gghed,1,True,Domestic government expenditure on preventive care
+Guyana,GUY,6434.903207997396,2019,hc6_gghed_che,12.178673016990292,,gghed,1,True,Domestic government expenditure on preventive care
+North Macedonia,MKD,6723.298926609337,2020,hc6_gghed_che,1.9007446633362683,,gghed,1,True,Domestic government expenditure on preventive care
+Armenia,ARM,6773.514379094577,2022,hc6_gghed_che,1.8556503130835795,,gghed,1,True,Domestic government expenditure on preventive care
+South Africa,ZAF,6778.157243614212,2019,hc6_gghed_che,5.7765147081453865,,gghed,1,True,Domestic government expenditure on preventive care
+Thailand,THA,6951.30488158535,2018,hc6_gghed_che,7.192003905051504,,gghed,1,True,Domestic government expenditure on preventive care
+Suriname,SUR,7118.231230613029,2019,hc6_gghed_che,4.645159921301375,,gghed,1,True,Domestic government expenditure on preventive care
+Belarus,BLR,7944.179719965559,2022,hc6_gghed_che,2.1474030763215355,,gghed,1,True,Domestic government expenditure on preventive care
+Botswana,BWA,8080.04371202932,2019,hc6_gghed_che,14.527900227786722,,gghed,1,True,Domestic government expenditure on preventive care
+Montenegro,MNE,8520.329706623219,2020,hc6_gghed_che,3.734538726768847,,gghed,1,True,Domestic government expenditure on preventive care
+Gabon,GAB,9034.546789742915,2019,hc6_gghed_che,6.428946951201512,,gghed,1,True,Domestic government expenditure on preventive care
+Dominican Republic,DOM,9490.46401076917,2019,hc6_gghed_che,1.7937870616483238,,gghed,1,True,Domestic government expenditure on preventive care
+Mauritius,MUS,10463.576358930426,2019,hc6_gghed_che,3.83608789652604,,gghed,1,True,Domestic government expenditure on preventive care
+Mexico,MEX,10499.487017974525,2020,hc6_gghed_che,3.0659984911035822,,gghed,1,True,Domestic government expenditure on preventive care
+Lebanon,LBN,10581.092711561296,2018,hc6_gghed_che,0.019329659714236,,gghed,1,True,Domestic government expenditure on preventive care
+Kazakhstan,KAZ,10860.289445727456,2018,hc6_gghed_che,3.7993993597910087,,gghed,1,True,Domestic government expenditure on preventive care
+Malaysia,MYS,10927.487333058716,2021,hc6_gghed_che,14.153372916412042,,gghed,1,True,Domestic government expenditure on preventive care
+China,CHN,10979.65965307673,2019,hc6_gghed_che,3.7673643620658583,,gghed,1,True,Domestic government expenditure on preventive care
+Costa Rica,CRI,13625.902500911285,2022,hc6_gghed_che,2.1035193379081023,,gghed,1,True,Domestic government expenditure on preventive care
+Chile,CHL,15266.09345901415,2021,hc6_gghed_che,3.285912246294199,,gghed,1,True,Domestic government expenditure on preventive care
+Seychelles,SYC,16615.25630221964,2018,hc6_gghed_che,19.15127171753194,,gghed,1,True,Domestic government expenditure on preventive care
+Trinidad and Tobago,TTO,22301.01850937032,2018,hc6_gghed_che,12.015641117873782,,gghed,1,True,Domestic government expenditure on preventive care
+Slovenia,SVN,25843.30092496315,2020,hc6_gghed_che,2.2952196402316805,,gghed,1,True,Domestic government expenditure on preventive care
+Saudi Arabia,SAU,33407.0634061018,2019,hc6_gghed_che,1.7707533872431256,,gghed,1,True,Domestic government expenditure on preventive care
+United Arab Emirates,ARE,48028.56282348628,2021,hc6_gghed_che,9.11556560824412,,gghed,1,True,Domestic government expenditure on preventive care
+Canada,CAN,54141.36212165505,2021,hc6_gghed_che,5.679550295232436,,gghed,1,True,Domestic government expenditure on preventive care
+United States of America,USA,69459.28968540588,2020,hc6_gghed_che,6.290735467118752,,gghed,1,True,Domestic government expenditure on preventive care
+Burundi,BDI,295.6786373273473,2020,hc6_gghed_loess,1.8835060986941716,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Afghanistan,AFG,349.3199955888189,2022,hc6_gghed_loess,1.8941169777460996,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Central African Republic,CAF,484.4513318551329,2019,hc6_gghed_loess,1.9150964975071303,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Sierra Leone,SLE,488.933289989506,2021,hc6_gghed_loess,1.9156896396815228,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Madagascar,MDG,494.9850875214201,2021,hc6_gghed_loess,1.9164834001503597,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Mozambique,MOZ,587.4130430600209,2018,hc6_gghed_loess,1.9278727122737522,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Niger,NER,608.988502891053,2022,hc6_gghed_loess,1.9304253889518743,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Malawi,MWI,620.1391267509562,2019,hc6_gghed_loess,1.931743679699358,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Democratic Republic of the Congo,COD,644.0889923802301,2022,hc6_gghed_loess,1.9345830626385245,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Sudan,SDN,736.3998743616515,2020,hc6_gghed_loess,1.9459515589493597,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Guinea-Bissau,GNB,799.0310882536863,2021,hc6_gghed_loess,1.9545135663697168,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Gambia,GMB,817.7587894534383,2019,hc6_gghed_loess,1.9572608387135852,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+South Sudan,SSD,827.4961247762102,2019,hc6_gghed_loess,1.9587267380668847,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Burkina Faso,BFA,838.1363452853268,2022,hc6_gghed_loess,1.9603591931324056,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Mali,MLI,842.1461472074532,2019,hc6_gghed_loess,1.9609829465524666,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Togo,TGO,865.0380106314924,2021,hc6_gghed_loess,1.9646361148920877,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Liberia,LBR,878.1154007290856,2020,hc6_gghed_loess,1.9667952084168812,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Ethiopia,ETH,885.1970120120711,2020,hc6_gghed_loess,1.967986722618031,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Chad,TCD,887.6387422892386,2022,hc6_gghed_loess,1.9684012351674067,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Tajikistan,TJK,892.5459333837222,2019,hc6_gghed_loess,1.9692399775405074,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Uganda,UGA,997.9400393082342,2019,hc6_gghed_loess,1.9887750433580635,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+United Republic of Tanzania,TZA,1091.9346993210518,2019,hc6_gghed_loess,2.0071091985692613,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Myanmar,MMR,1113.7636390428363,2022,hc6_gghed_loess,2.0111633980091557,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Nepal,NPL,1265.892736888656,2021,hc6_gghed_loess,2.0326036170831876,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Timor-Leste,TLS,1310.0266354062414,2018,hc6_gghed_loess,2.0380614920826527,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Pakistan,PAK,1334.761673347452,2022,hc6_gghed_loess,2.0736803698217177,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Guinea,GIN,1370.876445847163,2021,hc6_gghed_loess,2.1200935358175768,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Comoros,COM,1489.4467208406688,2019,hc6_gghed_loess,2.255964729307864,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Senegal,SEN,1545.7746938496416,2021,hc6_gghed_loess,2.3758257566693635,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Cameroon,CMR,1612.9486038552045,2019,hc6_gghed_loess,2.4918432226179124,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Kyrgyzstan,KGZ,1750.2338488189823,2019,hc6_gghed_loess,2.6928203486396347,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Haiti,HTI,1809.3439926150215,2019,hc6_gghed_loess,2.776957180485358,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Zimbabwe,ZWE,1918.64653891671,2020,hc6_gghed_loess,2.938006672349275,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Mauritania,MRT,1952.163896572111,2021,hc6_gghed_loess,2.989381238327136,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Kenya,KEN,1969.0312544948133,2019,hc6_gghed_loess,3.015517455469555,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Lao People's Democratic Republic,LAO,2059.2126687405507,2019,hc6_gghed_loess,3.1433044419018077,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Nigeria,NGA,2105.4313815530245,2021,hc6_gghed_loess,3.2274512745021022,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Uzbekistan,UZB,2106.8839239108147,2019,hc6_gghed_loess,3.2289206088047955,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Ghana,GHA,2225.276143328211,2022,hc6_gghed_loess,3.276120121959758,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+India,IND,2232.259355762569,2019,hc6_gghed_loess,3.2709662543727522,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Côte d'Ivoire,CIV,2269.762717427056,2021,hc6_gghed_loess,3.2345916556612853,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Bangladesh,BGD,2272.915897480655,2020,hc6_gghed_loess,3.2310442777434485,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Cambodia,KHM,2322.2126473482263,2019,hc6_gghed_loess,3.198087281547339,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Congo,COG,2355.146406337041,2020,hc6_gghed_loess,3.1536588865016486,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Sao Tome and Principe,STP,2461.703269830504,2021,hc6_gghed_loess,3.0853656839423005,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Egypt,EGY,3400.08189131473,2020,hc6_gghed_loess,2.4409451321395754,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Morocco,MAR,3560.8541798747706,2019,hc6_gghed_loess,2.3745322590949898,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+"occupied Palestinian territory, including east Jerusalem",PSE,3602.4368222540993,2022,hc6_gghed_loess,2.361966596947508,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Eswatini,SWZ,3709.071678930837,2019,hc6_gghed_loess,2.3445390398441606,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Sri Lanka,LKA,3770.529300069591,2018,hc6_gghed_loess,2.3436857475369974,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Tunisia,TUN,3971.3822905537263,2019,hc6_gghed_loess,2.313984207782571,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Iran (Islamic Republic of),IRN,4071.951895180976,2019,hc6_gghed_loess,2.310850464638713,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Jordan,JOR,4341.824534601933,2019,hc6_gghed_loess,2.385776819328305,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Cabo Verde,CPV,4421.789762267305,2019,hc6_gghed_loess,2.438443449395872,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Namibia,NAM,4781.680621228851,2019,hc6_gghed_loess,2.6339565991495197,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Mongolia,MNG,4888.164944596249,2021,hc6_gghed_loess,2.689062768917188,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Ukraine,UKR,4897.909985036439,2020,hc6_gghed_loess,2.6937914685058955,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+El Salvador,SLV,5093.531077004209,2022,hc6_gghed_loess,2.7487460700122024,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Georgia,GEO,5795.483822922803,2019,hc6_gghed_loess,3.0203364294660475,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Republic of Moldova,MDA,5932.25545531029,2021,hc6_gghed_loess,3.071057041943808,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Paraguay,PRY,6205.625973945806,2022,hc6_gghed_loess,3.1672513174976076,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Guyana,GUY,6434.903207997396,2019,hc6_gghed_loess,3.237681781812302,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+North Macedonia,MKD,6723.298926609337,2020,hc6_gghed_loess,3.2665828192499653,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Armenia,ARM,6773.514379094577,2022,hc6_gghed_loess,3.2619888720333723,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+South Africa,ZAF,6778.157243614212,2019,hc6_gghed_loess,3.2615248074414445,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Thailand,THA,6951.30488158535,2018,hc6_gghed_loess,3.243803571569374,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Suriname,SUR,7118.231230613029,2019,hc6_gghed_loess,3.2323351116569468,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Belarus,BLR,7944.179719965559,2022,hc6_gghed_loess,3.2647791936972883,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Botswana,BWA,8080.04371202932,2019,hc6_gghed_loess,3.273718818963939,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Montenegro,MNE,8520.329706623219,2020,hc6_gghed_loess,3.2866316425522832,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Gabon,GAB,9034.546789742915,2019,hc6_gghed_loess,3.2760281736266936,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Dominican Republic,DOM,9490.46401076917,2019,hc6_gghed_loess,3.2583833006351606,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Mauritius,MUS,10463.576358930426,2019,hc6_gghed_loess,3.208480145184249,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Mexico,MEX,10499.487017974525,2020,hc6_gghed_loess,3.206797535888686,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Lebanon,LBN,10581.092711561296,2018,hc6_gghed_loess,3.202982523967545,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Kazakhstan,KAZ,10860.289445727456,2018,hc6_gghed_loess,3.1899240928977615,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Malaysia,MYS,10927.487333058716,2021,hc6_gghed_loess,3.186765740045847,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+China,CHN,10979.65965307673,2019,hc6_gghed_loess,3.1843059790209063,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Costa Rica,CRI,13625.902500911285,2022,hc6_gghed_loess,3.02971362426405,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Chile,CHL,15266.09345901415,2021,hc6_gghed_loess,2.8944514975111644,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Seychelles,SYC,16615.25630221964,2018,hc6_gghed_loess,2.8018630258774397,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Trinidad and Tobago,TTO,22301.01850937032,2018,hc6_gghed_loess,2.4559524160590804,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Slovenia,SVN,25843.30092496315,2020,hc6_gghed_loess,2.2636897879164963,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Saudi Arabia,SAU,33407.0634061018,2019,hc6_gghed_loess,4.284060684300285,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+United Arab Emirates,ARE,48028.56282348628,2021,hc6_gghed_loess,5.399668514058212,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Canada,CAN,54141.36212165505,2021,hc6_gghed_loess,5.86975381238657,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+United States of America,USA,69459.28968540588,2020,hc6_gghed_loess,7.104858009430001,hc6_gghed_loess,gghed,0,,Domestic government expenditure on preventive care (loess smoothed)
+Burundi,BDI,295.6786373273473,2020,hc6_ext_loess,18.58800176856819,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Afghanistan,AFG,349.3199955888189,2022,hc6_ext_loess,18.120714344892335,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Central African Republic,CAF,484.4513318551329,2019,hc6_ext_loess,16.953606596740084,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Sierra Leone,SLE,488.933289989506,2021,hc6_ext_loess,16.9151651156498,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Madagascar,MDG,494.9850875214201,2021,hc6_ext_loess,16.863287925071397,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Mozambique,MOZ,587.4130430600209,2018,hc6_ext_loess,16.075079688024047,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Niger,NER,608.988502891053,2022,hc6_ext_loess,15.892196216108474,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Malawi,MWI,620.1391267509562,2019,hc6_ext_loess,15.797842939030705,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Democratic Republic of the Congo,COD,644.0889923802301,2022,hc6_ext_loess,15.595577005337505,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Sudan,SDN,736.3998743616515,2020,hc6_ext_loess,14.821097219088193,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Guinea-Bissau,GNB,799.0310882536863,2021,hc6_ext_loess,14.300115020179167,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Gambia,GMB,817.7587894534383,2019,hc6_ext_loess,14.14500850235632,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+South Sudan,SSD,827.4961247762102,2019,hc6_ext_loess,14.064477168788947,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Burkina Faso,BFA,838.1363452853268,2022,hc6_ext_loess,13.976563820131666,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Mali,MLI,842.1461472074532,2019,hc6_ext_loess,13.943455231536317,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Togo,TGO,865.0380106314924,2021,hc6_ext_loess,13.754652326586067,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Liberia,LBR,878.1154007290856,2020,hc6_ext_loess,13.646949158650898,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Ethiopia,ETH,885.1970120120711,2020,hc6_ext_loess,13.588670379331893,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Chad,TCD,887.6387422892386,2022,hc6_ext_loess,13.568583018676529,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Tajikistan,TJK,892.5459333837222,2019,hc6_ext_loess,13.528224060181897,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Uganda,UGA,997.9400393082342,2019,hc6_ext_loess,12.665433964795021,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+United Republic of Tanzania,TZA,1091.9346993210518,2019,hc6_ext_loess,11.90416743035744,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Myanmar,MMR,1113.7636390428363,2022,hc6_ext_loess,11.728686274794429,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Nepal,NPL,1265.892736888656,2021,hc6_ext_loess,10.522474775890352,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Timor-Leste,TLS,1310.0266354062414,2018,hc6_ext_loess,10.181101739617302,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Pakistan,PAK,1334.761673347452,2022,hc6_ext_loess,10.022742723257354,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Guinea,GIN,1370.876445847163,2021,hc6_ext_loess,9.792612720065206,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Comoros,COM,1489.4467208406688,2019,hc6_ext_loess,9.069777240791911,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Senegal,SEN,1545.7746938496416,2021,hc6_ext_loess,8.82860131162887,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Cameroon,CMR,1612.9486038552045,2019,hc6_ext_loess,8.52579423836452,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Kyrgyzstan,KGZ,1750.2338488189823,2019,hc6_ext_loess,7.873174085399132,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Haiti,HTI,1809.3439926150215,2019,hc6_ext_loess,7.5867728310887745,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Zimbabwe,ZWE,1918.64653891671,2020,hc6_ext_loess,7.057313646281079,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Mauritania,MRT,1952.163896572111,2021,hc6_ext_loess,6.8952827845156826,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Kenya,KEN,1969.0312544948133,2019,hc6_ext_loess,6.8145839731139315,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Lao People's Democratic Republic,LAO,2059.2126687405507,2019,hc6_ext_loess,6.390680300776356,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Nigeria,NGA,2105.4313815530245,2021,hc6_ext_loess,6.19260999339019,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Uzbekistan,UZB,2106.8839239108147,2019,hc6_ext_loess,6.186194636515619,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Ghana,GHA,2225.276143328211,2022,hc6_ext_loess,5.684623796931619,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+India,IND,2232.259355762569,2019,hc6_ext_loess,5.655224436888487,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Côte d'Ivoire,CIV,2269.762717427056,2021,hc6_ext_loess,5.499777110758952,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Bangladesh,BGD,2272.915897480655,2020,hc6_ext_loess,5.486888687241982,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Cambodia,KHM,2322.2126473482263,2019,hc6_ext_loess,5.2910941086394185,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Congo,COG,2355.146406337041,2020,hc6_ext_loess,5.160421818724663,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Sao Tome and Principe,STP,2461.703269830504,2021,hc6_ext_loess,4.753923593873865,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Egypt,EGY,3400.08189131473,2020,hc6_ext_loess,2.686373123568153,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Morocco,MAR,3560.8541798747706,2019,hc6_ext_loess,2.4263600628707422,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+"occupied Palestinian territory, including east Jerusalem",PSE,3602.4368222540993,2022,hc6_ext_loess,2.3668626690104215,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Eswatini,SWZ,3709.071678930837,2019,hc6_ext_loess,2.225328345415024,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Sri Lanka,LKA,3770.529300069591,2018,hc6_ext_loess,2.1543307834033136,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Tunisia,TUN,3971.3822905537263,2019,hc6_ext_loess,1.8010100385369336,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Iran (Islamic Republic of),IRN,4071.951895180976,2019,hc6_ext_loess,1.659710420402567,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Jordan,JOR,4341.824534601933,2019,hc6_ext_loess,1.4071793677382674,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Cabo Verde,CPV,4421.789762267305,2019,hc6_ext_loess,1.3679597697736259,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Namibia,NAM,4781.680621228851,2019,hc6_ext_loess,1.1331477451454792,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Mongolia,MNG,4888.164944596249,2021,hc6_ext_loess,1.0801348595396698,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Ukraine,UKR,4897.909985036439,2020,hc6_ext_loess,1.0755934644725291,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+El Salvador,SLV,5093.531077004209,2022,hc6_ext_loess,0.9330498741471251,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Georgia,GEO,5795.483822922803,2019,hc6_ext_loess,0.779732006556603,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Republic of Moldova,MDA,5932.25545531029,2021,hc6_ext_loess,0.7721048847469315,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Paraguay,PRY,6205.625973945806,2022,hc6_ext_loess,0.7384893030148948,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Guyana,GUY,6434.903207997396,2019,hc6_ext_loess,0.7293275304619901,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+North Macedonia,MKD,6723.298926609337,2020,hc6_ext_loess,0.706103112137265,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Armenia,ARM,6773.514379094577,2022,hc6_ext_loess,0.6988576405996122,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+South Africa,ZAF,6778.157243614212,2019,hc6_ext_loess,0.6981577894134521,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Thailand,THA,6951.30488158535,2018,hc6_ext_loess,0.6700484055678908,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Suriname,SUR,7118.231230613029,2019,hc6_ext_loess,0.6421683993715631,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Belarus,BLR,7944.179719965559,2022,hc6_ext_loess,0.5224921677379307,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Botswana,BWA,8080.04371202932,2019,hc6_ext_loess,0.5047081399769795,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Montenegro,MNE,8520.329706623219,2020,hc6_ext_loess,0.4502805422419809,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Gabon,GAB,9034.546789742915,2019,hc6_ext_loess,0.3916514837749233,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Dominican Republic,DOM,9490.46401076917,2019,hc6_ext_loess,0.3445031771146663,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Mauritius,MUS,10463.576358930426,2019,hc6_ext_loess,0.27373939061768476,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Mexico,MEX,10499.487017974525,2020,hc6_ext_loess,0.271684091065002,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Lebanon,LBN,10581.092711561296,2018,hc6_ext_loess,0.26704083040390875,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Kazakhstan,KAZ,10860.289445727456,2018,hc6_ext_loess,0.251189217788941,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Malaysia,MYS,10927.487333058716,2021,hc6_ext_loess,0.2473358631779754,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+China,CHN,10979.65965307673,2019,hc6_ext_loess,0.24432606692087155,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Costa Rica,CRI,13625.902500911285,2022,hc6_ext_loess,0.10248239378602449,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Chile,CHL,15266.09345901415,2021,hc6_ext_loess,0.07937689101410166,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Seychelles,SYC,16615.25630221964,2018,hc6_ext_loess,0.07412562310925469,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Trinidad and Tobago,TTO,22301.01850937032,2018,hc6_ext_loess,0.03467191996867998,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Slovenia,SVN,25843.30092496315,2020,hc6_ext_loess,-0.0022301639094172783,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Saudi Arabia,SAU,33407.0634061018,2019,hc6_ext_loess,0.03113018232955382,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+United Arab Emirates,ARE,48028.56282348628,2021,hc6_ext_loess,0.009690638429372624,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+Canada,CAN,54141.36212165505,2021,hc6_ext_loess,-0.0047471418033718515,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)
+United States of America,USA,69459.28968540588,2020,hc6_ext_loess,-0.038423212341682854,hc6_ext_loess,ext,0,,External expenditure on preventive care (loess smoothed)

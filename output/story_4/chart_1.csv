@@ -1,0 +1,529 @@
+country_name,iso3_code,gdp_usd2022_pc,year,indicator_code,value,connet,color,size,popup,indicator_name
+Burundi,BDI,295.6786373273473,2020,hc1_che,40.27343433792675,,hc1,1,True,Curative care
+Afghanistan,AFG,349.3199955888189,2022,hc1_che,20.30307730975032,,hc1,1,True,Curative care
+Central African Republic,CAF,484.4513318551329,2019,hc1_che,71.39832473132574,,hc1,1,True,Curative care
+Sierra Leone,SLE,488.933289989506,2021,hc1_che,70.88256257428576,,hc1,1,True,Curative care
+Madagascar,MDG,494.9850875214201,2021,hc1_che,28.933438410191428,,hc1,1,True,Curative care
+Mozambique,MOZ,587.4130430600209,2018,hc1_che,40.84339153525988,,hc1,1,True,Curative care
+Niger,NER,608.988502891053,2022,hc1_che,31.59178355607132,,hc1,1,True,Curative care
+Malawi,MWI,620.1391267509562,2019,hc1_che,37.29359066663661,,hc1,1,True,Curative care
+Democratic Republic of the Congo,COD,644.0889923802301,2022,hc1_che,51.16252678896505,,hc1,1,True,Curative care
+Sudan,SDN,736.3998743616515,2020,hc1_che,80.24643788423062,,hc1,1,True,Curative care
+Guinea-Bissau,GNB,799.0310882536863,2021,hc1_che,9.960747796827992,,hc1,1,True,Curative care
+Mali,MLI,806.9499343136081,2020,hc1_che,61.09039940370809,,hc1,1,True,Curative care
+Gambia,GMB,817.7587894534383,2019,hc1_che,47.86683177276381,,hc1,1,True,Curative care
+South Sudan,SSD,827.4961247762102,2019,hc1_che,54.95400116917719,,hc1,1,True,Curative care
+Burkina Faso,BFA,838.1363452853268,2022,hc1_che,48.54618474892028,,hc1,1,True,Curative care
+Togo,TGO,865.0380106314924,2021,hc1_che,25.611506339243014,,hc1,1,True,Curative care
+Liberia,LBR,878.1154007290856,2020,hc1_che,20.799135840920368,,hc1,1,True,Curative care
+Ethiopia,ETH,885.1970120120711,2020,hc1_che,55.139001744999234,,hc1,1,True,Curative care
+Chad,TCD,887.6387422892386,2022,hc1_che,42.34890469831922,,hc1,1,True,Curative care
+Tajikistan,TJK,892.5459333837222,2019,hc1_che,69.42142896130123,,hc1,1,True,Curative care
+Uganda,UGA,997.9400393082342,2019,hc1_che,55.54857891675003,,hc1,1,True,Curative care
+United Republic of Tanzania,TZA,1091.9346993210518,2019,hc1_che,61.246673717016186,,hc1,1,True,Curative care
+Myanmar,MMR,1113.7636390428363,2022,hc1_che,66.67662895742183,,hc1,1,True,Curative care
+Nepal,NPL,1265.892736888656,2021,hc1_che,33.112411957718706,,hc1,1,True,Curative care
+Timor-Leste,TLS,1310.0266354062414,2018,hc1_che,68.59608424219508,,hc1,1,True,Curative care
+Pakistan,PAK,1334.761673347452,2022,hc1_che,64.7473472481494,,hc1,1,True,Curative care
+Guinea,GIN,1370.876445847163,2021,hc1_che,20.931226747515968,,hc1,1,True,Curative care
+Comoros,COM,1489.4467208406688,2019,hc1_che,54.603482949447375,,hc1,1,True,Curative care
+Senegal,SEN,1545.7746938496416,2021,hc1_che,28.37828200317663,,hc1,1,True,Curative care
+Cameroon,CMR,1612.9486038552045,2019,hc1_che,40.32712532173341,,hc1,1,True,Curative care
+Kyrgyzstan,KGZ,1750.2338488189823,2019,hc1_che,58.83675030115892,,hc1,1,True,Curative care
+Haiti,HTI,1809.3439926150215,2019,hc1_che,34.757567510222614,,hc1,1,True,Curative care
+Zimbabwe,ZWE,1918.64653891671,2020,hc1_che,56.280988293835875,,hc1,1,True,Curative care
+Mauritania,MRT,1952.163896572111,2021,hc1_che,33.19439999471314,,hc1,1,True,Curative care
+Kenya,KEN,1969.0312544948133,2019,hc1_che,66.7245939159113,,hc1,1,True,Curative care
+Lao People's Democratic Republic,LAO,2059.2126687405507,2019,hc1_che,60.391723490392266,,hc1,1,True,Curative care
+Nigeria,NGA,2105.4313815530245,2021,hc1_che,46.209404766097045,,hc1,1,True,Curative care
+Uzbekistan,UZB,2106.8839239108147,2019,hc1_che,50.94612795143028,,hc1,1,True,Curative care
+Ghana,GHA,2225.276143328211,2022,hc1_che,56.7999348172694,,hc1,1,True,Curative care
+India,IND,2232.259355762569,2019,hc1_che,54.140714222419135,,hc1,1,True,Curative care
+Côte d'Ivoire,CIV,2269.762717427056,2021,hc1_che,28.911145452786116,,hc1,1,True,Curative care
+Bangladesh,BGD,2272.915897480655,2020,hc1_che,30.006398043734237,,hc1,1,True,Curative care
+Cambodia,KHM,2322.2126473482263,2019,hc1_che,76.11679894594769,,hc1,1,True,Curative care
+Congo,COG,2355.146406337041,2020,hc1_che,43.6325489254365,,hc1,1,True,Curative care
+Sao Tome and Principe,STP,2461.703269830504,2021,hc1_che,42.16952398439378,,hc1,1,True,Curative care
+Egypt,EGY,3400.08189131473,2020,hc1_che,45.34091013581236,,hc1,1,True,Curative care
+Philippines,PHL,3547.4634662094786,2022,hc1_che,38.16053961492712,,hc1,1,True,Curative care
+Morocco,MAR,3560.8541798747706,2019,hc1_che,53.369969701561345,,hc1,1,True,Curative care
+"occupied Palestinian territory, including east Jerusalem",PSE,3602.4368222540993,2022,hc1_che,72.7383173048494,,hc1,1,True,Curative care
+Eswatini,SWZ,3709.071678930837,2019,hc1_che,42.271828554121925,,hc1,1,True,Curative care
+Sri Lanka,LKA,3770.529300069591,2018,hc1_che,73.38628226175636,,hc1,1,True,Curative care
+Tunisia,TUN,3971.3822905537263,2019,hc1_che,48.06899723805218,,hc1,1,True,Curative care
+Iran (Islamic Republic of),IRN,4071.951895180976,2019,hc1_che,56.02414772398535,,hc1,1,True,Curative care
+Jordan,JOR,4341.824534601933,2019,hc1_che,78.42090916119777,,hc1,1,True,Curative care
+Cabo Verde,CPV,4421.789762267305,2019,hc1_che,61.92325273388507,,hc1,1,True,Curative care
+Indonesia,IDN,4730.745497588182,2022,hc1_che,62.89289226186904,,hc1,1,True,Curative care
+Namibia,NAM,4781.680621228851,2019,hc1_che,67.22885664542277,,hc1,1,True,Curative care
+Ukraine,UKR,4897.909985036439,2020,hc1_che,58.644129482630746,,hc1,1,True,Curative care
+Mongolia,MNG,5063.908918435843,2022,hc1_che,40.70823805784906,,hc1,1,True,Curative care
+El Salvador,SLV,5093.531077004209,2022,hc1_che,51.67540879896457,,hc1,1,True,Curative care
+Guatemala,GTM,5322.948798519375,2022,hc1_che,43.55268566620511,,hc1,1,True,Curative care
+Iraq,IRQ,5672.231197282033,2021,hc1_che,48.20914299393787,,hc1,1,True,Curative care
+Republic of Moldova,MDA,5716.381937582577,2022,hc1_che,57.97714726639557,,hc1,1,True,Curative care
+Georgia,GEO,5795.483822922803,2019,hc1_che,55.16515756376201,,hc1,1,True,Curative care
+Paraguay,PRY,6205.625973945806,2022,hc1_che,47.75459241499848,,hc1,1,True,Curative care
+South Africa,ZAF,6271.3749970615245,2020,hc1_che,59.33912046662093,,hc1,1,True,Curative care
+Guyana,GUY,6434.903207997396,2019,hc1_che,57.43122585922791,,hc1,1,True,Curative care
+Ecuador,ECU,6540.993812969184,2022,hc1_che,70.56719899037526,,hc1,1,True,Curative care
+Armenia,ARM,6773.514379094577,2022,hc1_che,60.14058133862812,,hc1,1,True,Curative care
+Lebanon,LBN,6873.4514383806745,2021,hc1_che,42.19117519385487,,hc1,1,True,Curative care
+Thailand,THA,6951.30488158535,2018,hc1_che,70.01291116377482,,hc1,1,True,Curative care
+Suriname,SUR,7118.231230613029,2019,hc1_che,69.5182271987069,,hc1,1,True,Curative care
+North Macedonia,MKD,7370.898449430148,2022,hc1_che,54.82004504914408,,hc1,1,True,Curative care
+Bosnia and Herzegovina,BIH,7655.605109161804,2022,hc1_che,57.89992292160146,,hc1,1,True,Curative care
+Maldives,MDV,7933.701187173196,2020,hc1_che,83.81008775429623,,hc1,1,True,Curative care
+Belarus,BLR,7944.179719965559,2022,hc1_che,62.53951709406194,,hc1,1,True,Curative care
+Botswana,BWA,8080.04371202932,2019,hc1_che,50.40008511492774,,hc1,1,True,Curative care
+Brazil,BRA,9013.485558400858,2019,hc1_che,50.24166240065504,,hc1,1,True,Curative care
+Gabon,GAB,9034.546789742915,2019,hc1_che,52.48007559654098,,hc1,1,True,Curative care
+Serbia,SRB,9351.540257728022,2022,hc1_che,47.79473079620039,,hc1,1,True,Curative care
+Dominican Republic,DOM,9490.46401076917,2019,hc1_che,53.38720301784071,,hc1,1,True,Curative care
+Montenegro,MNE,9695.562951277518,2021,hc1_che,43.22071161097181,,hc1,1,True,Curative care
+Mauritius,MUS,10463.576358930426,2019,hc1_che,59.180270586750005,,hc1,1,True,Curative care
+Malaysia,MYS,10927.487333058716,2021,hc1_che,66.72526780869518,,hc1,1,True,Curative care
+Kazakhstan,KAZ,11067.088157945012,2021,hc1_che,68.13287712206838,,hc1,1,True,Curative care
+Mexico,MEX,11377.718916906342,2022,hc1_che,61.26357008770635,,hc1,1,True,Curative care
+China,CHN,12149.46293869624,2021,hc1_che,74.3891804974294,,hc1,1,True,Curative care
+Bulgaria,BGR,13193.511591064866,2022,hc1_che,50.08483170011219,,hc1,1,True,Curative care
+Costa Rica,CRI,13625.902500911285,2022,hc1_che,73.31759278302783,,hc1,1,True,Curative care
+Russian Federation,RUS,15134.889692821238,2019,hc1_che,64.31232733637366,,hc1,1,True,Curative care
+Chile,CHL,15377.969531367024,2022,hc1_che,36.52975120597621,,hc1,1,True,Curative care
+Romania,ROU,15694.302586357226,2022,hc1_che,54.31534707950965,,hc1,1,True,Curative care
+Seychelles,SYC,17142.298062134178,2019,hc1_che,55.44246746874221,,hc1,1,True,Curative care
+Hungary,HUN,18302.947416550796,2022,hc1_che,55.250532332344854,,hc1,1,True,Curative care
+Croatia,HRV,18629.322873764548,2022,hc1_che,52.589410478730834,,hc1,1,True,Curative care
+Poland,POL,18653.55185383013,2022,hc1_che,60.06270672818691,,hc1,1,True,Curative care
+Uruguay,URY,20690.22598116782,2022,hc1_che,70.81729591086872,,hc1,1,True,Curative care
+Greece,GRC,20801.701981405982,2022,hc1_che,57.93810408092033,,hc1,1,True,Curative care
+Slovakia,SVK,21245.22544637435,2022,hc1_che,51.23928848462326,,hc1,1,True,Curative care
+Latvia,LVA,21549.97962195208,2022,hc1_che,53.13756075519649,,hc1,1,True,Curative care
+Trinidad and Tobago,TTO,22301.01850937032,2018,hc1_che,51.112834940081534,,hc1,1,True,Curative care
+Portugal,PRT,24651.81214027138,2022,hc1_che,59.842611708013266,,hc1,1,True,Curative care
+Lithuania,LTU,25259.901220968863,2022,hc1_che,51.65184260282201,,hc1,1,True,Curative care
+Czechia,CZE,27628.957475162228,2022,hc1_che,53.12367190618809,,hc1,1,True,Curative care
+Slovenia,SVN,28504.18886589615,2022,hc1_che,54.60064192914999,,hc1,1,True,Curative care
+Estonia,EST,28608.587992967907,2022,hc1_che,52.50439046680833,,hc1,1,True,Curative care
+Spain,ESP,29890.65199381552,2022,hc1_che,57.59854297143277,,hc1,1,True,Curative care
+Cyprus,CYP,32288.175184551517,2022,hc1_che,64.06723571705706,,hc1,1,True,Curative care
+Republic of Korea,KOR,32325.90460591352,2022,hc1_che,54.26802787112683,,hc1,1,True,Curative care
+Saudi Arabia,SAU,32921.03121334567,2021,hc1_che,64.02447459329795,,hc1,1,True,Curative care
+Japan,JPN,33546.03681525187,2021,hc1_che,54.82048714189065,,hc1,1,True,Curative care
+Italy,ITA,34723.564532779594,2022,hc1_che,53.37954347566285,,hc1,1,True,Curative care
+Malta,MLT,35204.290343042885,2022,hc1_che,49.00757790887339,,hc1,1,True,Curative care
+France,FRA,40946.11305212074,2022,hc1_che,46.32229983430109,,hc1,1,True,Curative care
+United Kingdom of Great Britain and Northern Ireland,GBR,45567.57685127468,2022,hc1_che,56.84741986474032,,hc1,1,True,Curative care
+United Arab Emirates,ARE,48028.56282348628,2021,hc1_che,54.01310161018979,,hc1,1,True,Curative care
+Germany,DEU,49046.24563446035,2022,hc1_che,43.43564358461724,,hc1,1,True,Curative care
+Belgium,BEL,50219.86372970345,2022,hc1_che,46.65508441731368,,hc1,1,True,Curative care
+Finland,FIN,50751.407769341466,2022,hc1_che,55.44019986414977,,hc1,1,True,Curative care
+Austria,AUT,52449.663466009086,2022,hc1_che,50.50615400509418,,hc1,1,True,Curative care
+Israel,ISR,55004.776177026775,2021,hc1_che,68.454269098599,,hc1,1,True,Curative care
+Canada,CAN,55677.8163457419,2022,hc1_che,43.98985833564145,,hc1,1,True,Curative care
+Sweden,SWE,56611.14594494117,2022,hc1_che,50.82545912334061,,hc1,1,True,Curative care
+Netherlands (Kingdom of the),NLD,57382.597813904846,2022,hc1_che,44.83577773187358,,hc1,1,True,Curative care
+Australia,AUS,66440.14823883772,2021,hc1_che,57.13443049301747,,hc1,1,True,Curative care
+Denmark,DNK,68131.88868761326,2022,hc1_che,57.66161790180192,,hc1,1,True,Curative care
+Iceland,ISL,73784.99526523233,2022,hc1_che,52.0275340589307,,hc1,1,True,Curative care
+United States of America,USA,75377.84399300831,2022,hc1_che,65.55679863956277,,hc1,1,True,Curative care
+Switzerland,CHE,93652.24419522531,2022,hc1_che,43.513874594690485,,hc1,1,True,Curative care
+Ireland,IRL,105363.52802391042,2022,hc1_che,56.75082967690576,,hc1,1,True,Curative care
+Norway,NOR,109367.63479149292,2022,hc1_che,46.96868107631231,,hc1,1,True,Curative care
+Luxembourg,LUX,126498.55305180688,2022,hc1_che,46.63105398102717,,hc1,1,True,Curative care
+Burundi,BDI,295.6786373273473,2020,hc6_che,40.67503635252519,,hc6,1,True,Preventive care
+Afghanistan,AFG,349.3199955888189,2022,hc6_che,6.075573071940753,,hc6,1,True,Preventive care
+Central African Republic,CAF,484.4513318551329,2019,hc6_che,20.54785662724195,,hc6,1,True,Preventive care
+Sierra Leone,SLE,488.933289989506,2021,hc6_che,14.645223805684688,,hc6,1,True,Preventive care
+Madagascar,MDG,494.9850875214201,2021,hc6_che,28.718559245722957,,hc6,1,True,Preventive care
+Mozambique,MOZ,587.4130430600209,2018,hc6_che,28.65400249657695,,hc6,1,True,Preventive care
+Niger,NER,608.988502891053,2022,hc6_che,20.085577337278096,,hc6,1,True,Preventive care
+Malawi,MWI,620.1391267509562,2019,hc6_che,7.221802036431208,,hc6,1,True,Preventive care
+Democratic Republic of the Congo,COD,644.0889923802301,2022,hc6_che,20.256069392003507,,hc6,1,True,Preventive care
+Sudan,SDN,736.3998743616515,2020,hc6_che,6.274622425163865,,hc6,1,True,Preventive care
+Guinea-Bissau,GNB,799.0310882536863,2021,hc6_che,21.116351352902313,,hc6,1,True,Preventive care
+Mali,MLI,806.9499343136081,2020,hc6_che,7.026987999201226,,hc6,1,True,Preventive care
+Gambia,GMB,817.7587894534383,2019,hc6_che,17.825561334294065,,hc6,1,True,Preventive care
+South Sudan,SSD,827.4961247762102,2019,hc6_che,23.412334115264255,,hc6,1,True,Preventive care
+Burkina Faso,BFA,838.1363452853268,2022,hc6_che,21.91497951869983,,hc6,1,True,Preventive care
+Togo,TGO,865.0380106314924,2021,hc6_che,17.060151323054424,,hc6,1,True,Preventive care
+Liberia,LBR,878.1154007290856,2020,hc6_che,13.556719672146643,,hc6,1,True,Preventive care
+Ethiopia,ETH,885.1970120120711,2020,hc6_che,19.536235850809113,,hc6,1,True,Preventive care
+Chad,TCD,887.6387422892386,2022,hc6_che,13.388188162870412,,hc6,1,True,Preventive care
+Tajikistan,TJK,892.5459333837222,2019,hc6_che,2.080126630642432,,hc6,1,True,Preventive care
+Uganda,UGA,997.9400393082342,2019,hc6_che,20.244327195159354,,hc6,1,True,Preventive care
+United Republic of Tanzania,TZA,1091.9346993210518,2019,hc6_che,13.362158482969283,,hc6,1,True,Preventive care
+Myanmar,MMR,1113.7636390428363,2022,hc6_che,15.461650655956351,,hc6,1,True,Preventive care
+Nepal,NPL,1265.892736888656,2021,hc6_che,14.697609847501528,,hc6,1,True,Preventive care
+Timor-Leste,TLS,1310.0266354062414,2018,hc6_che,7.852888959196487,,hc6,1,True,Preventive care
+Pakistan,PAK,1334.761673347452,2022,hc6_che,2.5956848122109513,,hc6,1,True,Preventive care
+Guinea,GIN,1370.876445847163,2021,hc6_che,15.81769128469052,,hc6,1,True,Preventive care
+Comoros,COM,1489.4467208406688,2019,hc6_che,12.989325069543543,,hc6,1,True,Preventive care
+Senegal,SEN,1545.7746938496416,2021,hc6_che,15.671485430404694,,hc6,1,True,Preventive care
+Cameroon,CMR,1612.9486038552045,2019,hc6_che,6.618463459808232,,hc6,1,True,Preventive care
+Kyrgyzstan,KGZ,1750.2338488189823,2019,hc6_che,3.3966270200648028,,hc6,1,True,Preventive care
+Haiti,HTI,1809.3439926150215,2019,hc6_che,6.067145322262799,,hc6,1,True,Preventive care
+Zimbabwe,ZWE,1918.64653891671,2020,hc6_che,26.447569220666253,,hc6,1,True,Preventive care
+Mauritania,MRT,1952.163896572111,2021,hc6_che,8.009874427138731,,hc6,1,True,Preventive care
+Kenya,KEN,1969.0312544948133,2019,hc6_che,16.14565343832552,,hc6,1,True,Preventive care
+Lao People's Democratic Republic,LAO,2059.2126687405507,2019,hc6_che,9.956360541431764,,hc6,1,True,Preventive care
+Nigeria,NGA,2105.4313815530245,2021,hc6_che,17.82016262728071,,hc6,1,True,Preventive care
+Uzbekistan,UZB,2106.8839239108147,2019,hc6_che,2.6211131868692705,,hc6,1,True,Preventive care
+Ghana,GHA,2225.276143328211,2022,hc6_che,16.71627537467752,,hc6,1,True,Preventive care
+India,IND,2232.259355762569,2019,hc6_che,10.14887213003862,,hc6,1,True,Preventive care
+Côte d'Ivoire,CIV,2269.762717427056,2021,hc6_che,26.350877040511204,,hc6,1,True,Preventive care
+Bangladesh,BGD,2272.915897480655,2020,hc6_che,8.103315888178098,,hc6,1,True,Preventive care
+Cambodia,KHM,2322.2126473482263,2019,hc6_che,7.966251331909099,,hc6,1,True,Preventive care
+Congo,COG,2355.146406337041,2020,hc6_che,31.49471095363922,,hc6,1,True,Preventive care
+Sao Tome and Principe,STP,2461.703269830504,2021,hc6_che,18.118457675223624,,hc6,1,True,Preventive care
+Egypt,EGY,3400.08189131473,2020,hc6_che,1.52324875948641,,hc6,1,True,Preventive care
+Philippines,PHL,3547.4634662094786,2022,hc6_che,9.14897013051669,,hc6,1,True,Preventive care
+Morocco,MAR,3560.8541798747706,2019,hc6_che,5.44014542233345,,hc6,1,True,Preventive care
+"occupied Palestinian territory, including east Jerusalem",PSE,3602.4368222540993,2022,hc6_che,1.5315310472360943,,hc6,1,True,Preventive care
+Eswatini,SWZ,3709.071678930837,2019,hc6_che,34.80926185045266,,hc6,1,True,Preventive care
+Sri Lanka,LKA,3770.529300069591,2018,hc6_che,2.186049700852045,,hc6,1,True,Preventive care
+Tunisia,TUN,3971.3822905537263,2019,hc6_che,0.9396572098091496,,hc6,1,True,Preventive care
+Iran (Islamic Republic of),IRN,4071.951895180976,2019,hc6_che,8.334513257028378,,hc6,1,True,Preventive care
+Jordan,JOR,4341.824534601933,2019,hc6_che,0.3657233501978139,,hc6,1,True,Preventive care
+Cabo Verde,CPV,4421.789762267305,2019,hc6_che,8.927808647613947,,hc6,1,True,Preventive care
+Indonesia,IDN,4730.745497588182,2022,hc6_che,21.57466417992052,,hc6,1,True,Preventive care
+Namibia,NAM,4781.680621228851,2019,hc6_che,6.73151533130198,,hc6,1,True,Preventive care
+Ukraine,UKR,4897.909985036439,2020,hc6_che,0.632696769699521,,hc6,1,True,Preventive care
+Mongolia,MNG,5063.908918435843,2022,hc6_che,0.3141111242979826,,hc6,1,True,Preventive care
+El Salvador,SLV,5093.531077004209,2022,hc6_che,12.977000994641534,,hc6,1,True,Preventive care
+Guatemala,GTM,5322.948798519375,2022,hc6_che,6.338534981048536,,hc6,1,True,Preventive care
+Iraq,IRQ,5672.231197282033,2021,hc6_che,16.646305728760975,,hc6,1,True,Preventive care
+Republic of Moldova,MDA,5716.381937582577,2022,hc6_che,4.865552986629835,,hc6,1,True,Preventive care
+Georgia,GEO,5795.483822922803,2019,hc6_che,2.3455393276588214,,hc6,1,True,Preventive care
+Paraguay,PRY,6205.625973945806,2022,hc6_che,4.934922023637913,,hc6,1,True,Preventive care
+South Africa,ZAF,6271.3749970615245,2020,hc6_che,12.386181615302558,,hc6,1,True,Preventive care
+Guyana,GUY,6434.903207997396,2019,hc6_che,14.366021046316224,,hc6,1,True,Preventive care
+Ecuador,ECU,6540.993812969184,2022,hc6_che,1.0551152095556433,,hc6,1,True,Preventive care
+Armenia,ARM,6773.514379094577,2022,hc6_che,1.9593050448048777,,hc6,1,True,Preventive care
+Lebanon,LBN,6873.4514383806745,2021,hc6_che,0.1988147343884914,,hc6,1,True,Preventive care
+Thailand,THA,6951.30488158535,2018,hc6_che,7.600803618688736,,hc6,1,True,Preventive care
+Suriname,SUR,7118.231230613029,2019,hc6_che,5.591526703550881,,hc6,1,True,Preventive care
+North Macedonia,MKD,7370.898449430148,2022,hc6_che,2.451262845930062,,hc6,1,True,Preventive care
+Bosnia and Herzegovina,BIH,7655.605109161804,2022,hc6_che,2.274430049781163,,hc6,1,True,Preventive care
+Maldives,MDV,7933.701187173196,2020,hc6_che,0.3673423341866299,,hc6,1,True,Preventive care
+Belarus,BLR,7944.179719965559,2022,hc6_che,2.852027238806482,,hc6,1,True,Preventive care
+Botswana,BWA,8080.04371202932,2019,hc6_che,21.48917986704503,,hc6,1,True,Preventive care
+Brazil,BRA,9013.485558400858,2019,hc6_che,4.344189596764982,,hc6,1,True,Preventive care
+Gabon,GAB,9034.546789742915,2019,hc6_che,7.8176923586953455,,hc6,1,True,Preventive care
+Serbia,SRB,9351.540257728022,2022,hc6_che,2.5317346513750603,,hc6,1,True,Preventive care
+Dominican Republic,DOM,9490.46401076917,2019,hc6_che,2.943971390661635,,hc6,1,True,Preventive care
+Montenegro,MNE,9695.562951277518,2021,hc6_che,3.4764526669513853,,hc6,1,True,Preventive care
+Mauritius,MUS,10463.576358930426,2019,hc6_che,4.322798497362332,,hc6,1,True,Preventive care
+Malaysia,MYS,10927.487333058716,2021,hc6_che,15.006099242288707,,hc6,1,True,Preventive care
+Kazakhstan,KAZ,11067.088157945012,2021,hc6_che,2.630073761980713,,hc6,1,True,Preventive care
+Mexico,MEX,11377.718916906342,2022,hc6_che,3.5583324178236095,,hc6,1,True,Preventive care
+China,CHN,12149.46293869624,2021,hc6_che,9.177082985897933,,hc6,1,True,Preventive care
+Bulgaria,BGR,13193.511591064866,2022,hc6_che,3.089749442639518,,hc6,1,True,Preventive care
+Costa Rica,CRI,13625.902500911285,2022,hc6_che,2.1516808669980123,,hc6,1,True,Preventive care
+Russian Federation,RUS,15134.889692821238,2019,hc6_che,3.525060812875638,,hc6,1,True,Preventive care
+Chile,CHL,15377.969531367024,2022,hc6_che,2.644185863716981,,hc6,1,True,Preventive care
+Romania,ROU,15694.302586357226,2022,hc6_che,2.8379101946894267,,hc6,1,True,Preventive care
+Seychelles,SYC,17142.298062134178,2019,hc6_che,19.51556048347689,,hc6,1,True,Preventive care
+Hungary,HUN,18302.947416550796,2022,hc6_che,2.8975301054238907,,hc6,1,True,Preventive care
+Croatia,HRV,18629.322873764548,2022,hc6_che,5.28830546270079,,hc6,1,True,Preventive care
+Poland,POL,18653.55185383013,2022,hc6_che,1.902543288604187,,hc6,1,True,Preventive care
+Uruguay,URY,20690.22598116782,2022,hc6_che,6.171945042946649,,hc6,1,True,Preventive care
+Greece,GRC,20801.701981405982,2022,hc6_che,4.506736553148313,,hc6,1,True,Preventive care
+Slovakia,SVK,21245.22544637435,2022,hc6_che,2.0448251148057373,,hc6,1,True,Preventive care
+Latvia,LVA,21549.97962195208,2022,hc6_che,2.8038553039559857,,hc6,1,True,Preventive care
+Trinidad and Tobago,TTO,22301.01850937032,2018,hc6_che,12.022446120888931,,hc6,1,True,Preventive care
+Portugal,PRT,24651.81214027138,2022,hc6_che,3.237378680728703,,hc6,1,True,Preventive care
+Lithuania,LTU,25259.901220968863,2022,hc6_che,4.688125238614853,,hc6,1,True,Preventive care
+Czechia,CZE,27628.957475162228,2022,hc6_che,5.205706056331298,,hc6,1,True,Preventive care
+Slovenia,SVN,28504.18886589615,2022,hc6_che,4.725620419568249,,hc6,1,True,Preventive care
+Estonia,EST,28608.587992967907,2022,hc6_che,5.660527639054628,,hc6,1,True,Preventive care
+Spain,ESP,29890.65199381552,2022,hc6_che,3.7944964377750177,,hc6,1,True,Preventive care
+Cyprus,CYP,32288.175184551517,2022,hc6_che,2.536578911910285,,hc6,1,True,Preventive care
+Republic of Korea,KOR,32325.90460591352,2022,hc6_che,8.653619135846146,,hc6,1,True,Preventive care
+Saudi Arabia,SAU,32921.03121334567,2021,hc6_che,13.380455457262746,,hc6,1,True,Preventive care
+Japan,JPN,33546.03681525187,2021,hc6_che,3.5786120635504064,,hc6,1,True,Preventive care
+Italy,ITA,34723.564532779594,2022,hc6_che,6.044309380317439,,hc6,1,True,Preventive care
+Malta,MLT,35204.290343042885,2022,hc6_che,1.1812888451940493,,hc6,1,True,Preventive care
+France,FRA,40946.11305212074,2022,hc6_che,4.036382105607447,,hc6,1,True,Preventive care
+United Kingdom of Great Britain and Northern Ireland,GBR,45567.57685127468,2022,hc6_che,7.785453843682888,,hc6,1,True,Preventive care
+United Arab Emirates,ARE,48028.56282348628,2021,hc6_che,9.990090906214398,,hc6,1,True,Preventive care
+Germany,DEU,49046.24563446035,2022,hc6_che,7.848742625497005,,hc6,1,True,Preventive care
+Belgium,BEL,50219.86372970345,2022,hc6_che,2.500028725663934,,hc6,1,True,Preventive care
+Finland,FIN,50751.407769341466,2022,hc6_che,6.378133436397447,,hc6,1,True,Preventive care
+Austria,AUT,52449.663466009086,2022,hc6_che,7.440705017267707,,hc6,1,True,Preventive care
+Israel,ISR,55004.776177026775,2021,hc6_che,0.2610362146444621,,hc6,1,True,Preventive care
+Canada,CAN,55677.8163457419,2022,hc6_che,7.057494696410648,,hc6,1,True,Preventive care
+Sweden,SWE,56611.14594494117,2022,hc6_che,3.6059823305751713,,hc6,1,True,Preventive care
+Netherlands (Kingdom of the),NLD,57382.597813904846,2022,hc6_che,5.695104317289816,,hc6,1,True,Preventive care
+Australia,AUS,66440.14823883772,2021,hc6_che,6.107961931521966,,hc6,1,True,Preventive care
+Denmark,DNK,68131.88868761326,2022,hc6_che,4.978332193389951,,hc6,1,True,Preventive care
+Iceland,ISL,73784.99526523233,2022,hc6_che,2.918337386420244,,hc6,1,True,Preventive care
+United States of America,USA,75377.84399300831,2022,hc6_che,5.100156825167329,,hc6,1,True,Preventive care
+Switzerland,CHE,93652.24419522531,2022,hc6_che,4.136653506457538,,hc6,1,True,Preventive care
+Ireland,IRL,105363.52802391042,2022,hc6_che,4.659736285633521,,hc6,1,True,Preventive care
+Norway,NOR,109367.63479149292,2022,hc6_che,3.0683722981914423,,hc6,1,True,Preventive care
+Luxembourg,LUX,126498.55305180688,2022,hc6_che,4.556021556874638,,hc6,1,True,Preventive care
+Burundi,BDI,295.6786373273473,2020,hc1_che_loess,45.90657338917619,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Afghanistan,AFG,349.3199955888189,2022,hc1_che_loess,46.02524361924581,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Central African Republic,CAF,484.4513318551329,2019,hc1_che_loess,46.32415407752464,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Sierra Leone,SLE,488.933289989506,2021,hc1_che_loess,46.33407230362523,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Madagascar,MDG,494.9850875214201,2021,hc1_che_loess,46.34746527280469,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Mozambique,MOZ,587.4130430600209,2018,hc1_che_loess,46.552150278574004,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Niger,NER,608.988502891053,2022,hc1_che_loess,46.599974541259655,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Malawi,MWI,620.1391267509562,2019,hc1_che_loess,46.624699073962304,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Democratic Republic of the Congo,COD,644.0889923802301,2022,hc1_che_loess,46.67782470015476,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Sudan,SDN,736.3998743616515,2020,hc1_che_loess,46.88294678157097,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Guinea-Bissau,GNB,799.0310882536863,2021,hc1_che_loess,47.02254937580216,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Mali,MLI,806.9499343136081,2020,hc1_che_loess,47.04023015289299,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Gambia,GMB,817.7587894534383,2019,hc1_che_loess,47.06437533449428,hc1_loess,hc1,0,,Curative care (loess smoothed)
+South Sudan,SSD,827.4961247762102,2019,hc1_che_loess,47.08613877823596,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Burkina Faso,BFA,838.1363452853268,2022,hc1_che_loess,47.10993333197576,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Togo,TGO,865.0380106314924,2021,hc1_che_loess,47.17015559609432,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Liberia,LBR,878.1154007290856,2020,hc1_che_loess,47.19946385641522,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Ethiopia,ETH,885.1970120120711,2020,hc1_che_loess,47.21534404847278,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Chad,TCD,887.6387422892386,2022,hc1_che_loess,47.22082106424515,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Tajikistan,TJK,892.5459333837222,2019,hc1_che_loess,47.231830753905406,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Uganda,UGA,997.9400393082342,2019,hc1_che_loess,47.4691296421232,hc1_loess,hc1,0,,Curative care (loess smoothed)
+United Republic of Tanzania,TZA,1091.9346993210518,2019,hc1_che_loess,47.682258245687365,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Myanmar,MMR,1113.7636390428363,2022,hc1_che_loess,47.73197338711784,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Nepal,NPL,1265.892736888656,2021,hc1_che_loess,48.08077547490807,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Timor-Leste,TLS,1310.0266354062414,2018,hc1_che_loess,48.18270695453245,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Pakistan,PAK,1334.761673347452,2022,hc1_che_loess,48.23997731468903,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Guinea,GIN,1370.876445847163,2021,hc1_che_loess,48.32377496350612,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Comoros,COM,1489.4467208406688,2019,hc1_che_loess,48.60027753616459,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Senegal,SEN,1545.7746938496416,2021,hc1_che_loess,48.732303466305865,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Cameroon,CMR,1612.9486038552045,2019,hc1_che_loess,48.89022960351541,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Kyrgyzstan,KGZ,1750.2338488189823,2019,hc1_che_loess,49.21433710806601,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Haiti,HTI,1809.3439926150215,2019,hc1_che_loess,49.354333744675515,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Zimbabwe,ZWE,1918.64653891671,2020,hc1_che_loess,49.6136445560128,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Mauritania,MRT,1952.163896572111,2021,hc1_che_loess,49.69322834822452,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Kenya,KEN,1969.0312544948133,2019,hc1_che_loess,49.733282520009475,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Lao People's Democratic Republic,LAO,2059.2126687405507,2019,hc1_che_loess,49.947394754753425,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Nigeria,NGA,2105.4313815530245,2021,hc1_che_loess,50.05702952433252,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Uzbekistan,UZB,2106.8839239108147,2019,hc1_che_loess,50.06047310345673,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Ghana,GHA,2225.276143328211,2022,hc1_che_loess,50.34048769013255,hc1_loess,hc1,0,,Curative care (loess smoothed)
+India,IND,2232.259355762569,2019,hc1_che_loess,50.356950348291264,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Côte d'Ivoire,CIV,2269.762717427056,2021,hc1_che_loess,50.44522529491175,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Bangladesh,BGD,2272.915897480655,2020,hc1_che_loess,50.45263565530204,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Cambodia,KHM,2322.2126473482263,2019,hc1_che_loess,50.568226005453155,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Congo,COG,2355.146406337041,2020,hc1_che_loess,50.64514764526793,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Sao Tome and Principe,STP,2461.703269830504,2021,hc1_che_loess,50.892009722828604,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Egypt,EGY,3400.08189131473,2020,hc1_che_loess,52.72224580662585,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Philippines,PHL,3547.4634662094786,2022,hc1_che_loess,52.88420291752597,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Morocco,MAR,3560.8541798747706,2019,hc1_che_loess,52.891900214640515,hc1_loess,hc1,0,,Curative care (loess smoothed)
+"occupied Palestinian territory, including east Jerusalem",PSE,3602.4368222540993,2022,hc1_che_loess,52.91676883333964,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Eswatini,SWZ,3709.071678930837,2019,hc1_che_loess,52.999515770228285,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Sri Lanka,LKA,3770.529300069591,2018,hc1_che_loess,53.08572879641201,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Tunisia,TUN,3971.3822905537263,2019,hc1_che_loess,53.312313774160344,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Iran (Islamic Republic of),IRN,4071.951895180976,2019,hc1_che_loess,53.46376399001916,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Jordan,JOR,4341.824534601933,2019,hc1_che_loess,53.95275522018779,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Cabo Verde,CPV,4421.789762267305,2019,hc1_che_loess,54.11158132107894,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Indonesia,IDN,4730.745497588182,2022,hc1_che_loess,54.747551453359314,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Namibia,NAM,4781.680621228851,2019,hc1_che_loess,54.852758885475765,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Ukraine,UKR,4897.909985036439,2020,hc1_che_loess,55.0905062163493,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Mongolia,MNG,5063.908918435843,2022,hc1_che_loess,55.41881681763759,hc1_loess,hc1,0,,Curative care (loess smoothed)
+El Salvador,SLV,5093.531077004209,2022,hc1_che_loess,55.474431800513926,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Guatemala,GTM,5322.948798519375,2022,hc1_che_loess,55.83948280300072,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Iraq,IRQ,5672.231197282033,2021,hc1_che_loess,56.06014535956431,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Republic of Moldova,MDA,5716.381937582577,2022,hc1_che_loess,56.06860409789866,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Georgia,GEO,5795.483822922803,2019,hc1_che_loess,56.06987092461565,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Paraguay,PRY,6205.625973945806,2022,hc1_che_loess,56.08274169177714,hc1_loess,hc1,0,,Curative care (loess smoothed)
+South Africa,ZAF,6271.3749970615245,2020,hc1_che_loess,56.074176204045905,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Guyana,GUY,6434.903207997396,2019,hc1_che_loess,56.077129835019036,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Ecuador,ECU,6540.993812969184,2022,hc1_che_loess,56.09904391360643,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Armenia,ARM,6773.514379094577,2022,hc1_che_loess,56.21072240953052,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Lebanon,LBN,6873.4514383806745,2021,hc1_che_loess,56.2705698318526,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Thailand,THA,6951.30488158535,2018,hc1_che_loess,56.32670045487486,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Suriname,SUR,7118.231230613029,2019,hc1_che_loess,56.47078834648643,hc1_loess,hc1,0,,Curative care (loess smoothed)
+North Macedonia,MKD,7370.898449430148,2022,hc1_che_loess,56.72434374217545,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Bosnia and Herzegovina,BIH,7655.605109161804,2022,hc1_che_loess,57.00304866639294,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Maldives,MDV,7933.701187173196,2020,hc1_che_loess,57.302992470550095,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Belarus,BLR,7944.179719965559,2022,hc1_che_loess,57.31435849340365,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Botswana,BWA,8080.04371202932,2019,hc1_che_loess,57.46160930973848,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Brazil,BRA,9013.485558400858,2019,hc1_che_loess,58.27622712972034,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Gabon,GAB,9034.546789742915,2019,hc1_che_loess,58.28488339044743,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Serbia,SRB,9351.540257728022,2022,hc1_che_loess,58.38793321066947,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Dominican Republic,DOM,9490.46401076917,2019,hc1_che_loess,58.39926241009068,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Montenegro,MNE,9695.562951277518,2021,hc1_che_loess,58.391025905849645,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Mauritius,MUS,10463.576358930426,2019,hc1_che_loess,58.275152152428134,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Malaysia,MYS,10927.487333058716,2021,hc1_che_loess,58.06958317770827,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Kazakhstan,KAZ,11067.088157945012,2021,hc1_che_loess,58.00668835537995,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Mexico,MEX,11377.718916906342,2022,hc1_che_loess,57.91679761801014,hc1_loess,hc1,0,,Curative care (loess smoothed)
+China,CHN,12149.46293869624,2021,hc1_che_loess,57.73241688684941,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Bulgaria,BGR,13193.511591064866,2022,hc1_che_loess,57.5699658152207,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Costa Rica,CRI,13625.902500911285,2022,hc1_che_loess,57.49941000625599,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Russian Federation,RUS,15134.889692821238,2019,hc1_che_loess,57.26240108130314,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Chile,CHL,15377.969531367024,2022,hc1_che_loess,57.220234904464064,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Romania,ROU,15694.302586357226,2022,hc1_che_loess,57.16409734193437,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Seychelles,SYC,17142.298062134178,2019,hc1_che_loess,56.83072104330079,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Hungary,HUN,18302.947416550796,2022,hc1_che_loess,56.6318249608463,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Croatia,HRV,18629.322873764548,2022,hc1_che_loess,56.58826774307839,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Poland,POL,18653.55185383013,2022,hc1_che_loess,56.584857186377675,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Uruguay,URY,20690.22598116782,2022,hc1_che_loess,56.512170858466426,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Greece,GRC,20801.701981405982,2022,hc1_che_loess,56.509345994461,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Slovakia,SVK,21245.22544637435,2022,hc1_che_loess,56.49239649894865,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Latvia,LVA,21549.97962195208,2022,hc1_che_loess,56.47570606732229,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Trinidad and Tobago,TTO,22301.01850937032,2018,hc1_che_loess,56.420039165117835,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Portugal,PRT,24651.81214027138,2022,hc1_che_loess,56.09701595698885,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Lithuania,LTU,25259.901220968863,2022,hc1_che_loess,55.979542888234825,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Czechia,CZE,27628.957475162228,2022,hc1_che_loess,55.53231029683455,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Slovenia,SVN,28504.18886589615,2022,hc1_che_loess,55.35279656273063,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Estonia,EST,28608.587992967907,2022,hc1_che_loess,55.330098135497366,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Spain,ESP,29890.65199381552,2022,hc1_che_loess,55.04748278789971,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Cyprus,CYP,32288.175184551517,2022,hc1_che_loess,54.58011257587202,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Republic of Korea,KOR,32325.90460591352,2022,hc1_che_loess,54.57378204644219,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Saudi Arabia,SAU,32921.03121334567,2021,hc1_che_loess,54.47516454663432,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Japan,JPN,33546.03681525187,2021,hc1_che_loess,54.37261919591398,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Italy,ITA,34723.564532779594,2022,hc1_che_loess,54.178338916815584,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Malta,MLT,35204.290343042885,2022,hc1_che_loess,54.09815434424214,hc1_loess,hc1,0,,Curative care (loess smoothed)
+France,FRA,40946.11305212074,2022,hc1_che_loess,53.3616397507933,hc1_loess,hc1,0,,Curative care (loess smoothed)
+United Kingdom of Great Britain and Northern Ireland,GBR,45567.57685127468,2022,hc1_che_loess,53.35470119063502,hc1_loess,hc1,0,,Curative care (loess smoothed)
+United Arab Emirates,ARE,48028.56282348628,2021,hc1_che_loess,53.43841983908259,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Germany,DEU,49046.24563446035,2022,hc1_che_loess,53.46962324030329,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Belgium,BEL,50219.86372970345,2022,hc1_che_loess,53.49805580945142,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Finland,FIN,50751.407769341466,2022,hc1_che_loess,53.50930108231573,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Austria,AUT,52449.663466009086,2022,hc1_che_loess,53.518632024752954,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Israel,ISR,55004.776177026775,2021,hc1_che_loess,53.443107938602864,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Canada,CAN,55677.8163457419,2022,hc1_che_loess,53.41099142306043,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Sweden,SWE,56611.14594494117,2022,hc1_che_loess,53.35966601717291,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Netherlands (Kingdom of the),NLD,57382.597813904846,2022,hc1_che_loess,53.31082531542829,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Australia,AUS,66440.14823883772,2021,hc1_che_loess,52.768334641381074,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Denmark,DNK,68131.88868761326,2022,hc1_che_loess,52.67521687181542,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Iceland,ISL,73784.99526523233,2022,hc1_che_loess,52.318442264463556,hc1_loess,hc1,0,,Curative care (loess smoothed)
+United States of America,USA,75377.84399300831,2022,hc1_che_loess,52.209922812526735,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Switzerland,CHE,93652.24419522531,2022,hc1_che_loess,51.018154716465446,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Ireland,IRL,105363.52802391042,2022,hc1_che_loess,50.276306945020906,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Norway,NOR,109367.63479149292,2022,hc1_che_loess,50.02080317744757,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Luxembourg,LUX,126498.55305180688,2022,hc1_che_loess,48.880471947324246,hc1_loess,hc1,0,,Curative care (loess smoothed)
+Burundi,BDI,295.6786373273473,2020,hc6_che_loess,18.354374538276748,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Afghanistan,AFG,349.3199955888189,2022,hc6_che_loess,18.14262630280677,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Central African Republic,CAF,484.4513318551329,2019,hc6_che_loess,17.611610052614093,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Sierra Leone,SLE,488.933289989506,2021,hc6_che_loess,17.594059052110353,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Madagascar,MDG,494.9850875214201,2021,hc6_che_loess,17.570367118036312,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Mozambique,MOZ,587.4130430600209,2018,hc6_che_loess,17.20945824540902,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Niger,NER,608.988502891053,2022,hc6_che_loess,17.125467952841255,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Malawi,MWI,620.1391267509562,2019,hc6_che_loess,17.082098798371682,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Democratic Republic of the Congo,COD,644.0889923802301,2022,hc6_che_loess,16.989037923487547,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Sudan,SDN,736.3998743616515,2020,hc6_che_loess,16.631505756731308,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Guinea-Bissau,GNB,799.0310882536863,2021,hc6_che_loess,16.389986081208153,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Mali,MLI,806.9499343136081,2020,hc6_che_loess,16.35951125813004,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Gambia,GMB,817.7587894534383,2019,hc6_che_loess,16.31793719373005,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+South Sudan,SSD,827.4961247762102,2019,hc6_che_loess,16.280506962014048,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Burkina Faso,BFA,838.1363452853268,2022,hc6_che_loess,16.239630441877978,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Togo,TGO,865.0380106314924,2021,hc6_che_loess,16.136396003239387,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Liberia,LBR,878.1154007290856,2020,hc6_che_loess,16.086270578872938,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Ethiopia,ETH,885.1970120120711,2020,hc6_che_loess,16.05914287385165,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Chad,TCD,887.6387422892386,2022,hc6_che_loess,16.049791880247934,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Tajikistan,TJK,892.5459333837222,2019,hc6_che_loess,16.031003048310268,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Uganda,UGA,997.9400393082342,2019,hc6_che_loess,15.628763286284558,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+United Republic of Tanzania,TZA,1091.9346993210518,2019,hc6_che_loess,15.272103789248613,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Myanmar,MMR,1113.7636390428363,2022,hc6_che_loess,15.18954979616573,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Nepal,NPL,1265.892736888656,2021,hc6_che_loess,14.61703590461674,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Timor-Leste,TLS,1310.0266354062414,2018,hc6_che_loess,14.45184988689273,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Pakistan,PAK,1334.761673347452,2022,hc6_che_loess,14.35944507174157,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Guinea,GIN,1370.876445847163,2021,hc6_che_loess,14.224751959366802,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Comoros,COM,1489.4467208406688,2019,hc6_che_loess,13.784398284238875,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Senegal,SEN,1545.7746938496416,2021,hc6_che_loess,13.57620031279472,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Cameroon,CMR,1612.9486038552045,2019,hc6_che_loess,13.328748216202342,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Kyrgyzstan,KGZ,1750.2338488189823,2019,hc6_che_loess,12.82583177064903,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Haiti,HTI,1809.3439926150215,2019,hc6_che_loess,12.610463621363857,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Zimbabwe,ZWE,1918.64653891671,2020,hc6_che_loess,12.214135183400934,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Mauritania,MRT,1952.163896572111,2021,hc6_che_loess,12.09312116780462,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Kenya,KEN,1969.0312544948133,2019,hc6_che_loess,12.03231737567383,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Lao People's Democratic Republic,LAO,2059.2126687405507,2019,hc6_che_loess,11.708357163131533,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Nigeria,NGA,2105.4313815530245,2021,hc6_che_loess,11.54309205309516,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Uzbekistan,UZB,2106.8839239108147,2019,hc6_che_loess,11.53790694244246,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Ghana,GHA,2225.276143328211,2022,hc6_che_loess,11.117180671953562,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+India,IND,2232.259355762569,2019,hc6_che_loess,11.09248670019717,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Côte d'Ivoire,CIV,2269.762717427056,2021,hc6_che_loess,10.96011257860317,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Bangladesh,BGD,2272.915897480655,2020,hc6_che_loess,10.949002003675856,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Cambodia,KHM,2322.2126473482263,2019,hc6_che_loess,10.775695487368266,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Congo,COG,2355.146406337041,2020,hc6_che_loess,10.66034187956321,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Sao Tome and Principe,STP,2461.703269830504,2021,hc6_che_loess,10.289647852155564,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Egypt,EGY,3400.08189131473,2020,hc6_che_loess,7.398401931934303,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Philippines,PHL,3547.4634662094786,2022,hc6_che_loess,7.111471542467199,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Morocco,MAR,3560.8541798747706,2019,hc6_che_loess,7.097244650931564,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+"occupied Palestinian territory, including east Jerusalem",PSE,3602.4368222540993,2022,hc6_che_loess,7.0552131225247,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Eswatini,SWZ,3709.071678930837,2019,hc6_che_loess,6.948517385814881,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Sri Lanka,LKA,3770.529300069591,2018,hc6_che_loess,6.816362094488975,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Tunisia,TUN,3971.3822905537263,2019,hc6_che_loess,6.6377785876695095,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Iran (Islamic Republic of),IRN,4071.951895180976,2019,hc6_che_loess,6.550861984864597,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Jordan,JOR,4341.824534601933,2019,hc6_che_loess,6.244269877558851,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Cabo Verde,CPV,4421.789762267305,2019,hc6_che_loess,6.137068404723157,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Indonesia,IDN,4730.745497588182,2022,hc6_che_loess,5.835319573807753,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Namibia,NAM,4781.680621228851,2019,hc6_che_loess,5.78249557713475,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Ukraine,UKR,4897.909985036439,2020,hc6_che_loess,5.659836525004358,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Mongolia,MNG,5063.908918435843,2022,hc6_che_loess,5.477810265260929,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+El Salvador,SLV,5093.531077004209,2022,hc6_che_loess,5.445121941535911,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Guatemala,GTM,5322.948798519375,2022,hc6_che_loess,5.221824608875152,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Iraq,IRQ,5672.231197282033,2021,hc6_che_loess,4.983210411608628,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Republic of Moldova,MDA,5716.381937582577,2022,hc6_che_loess,4.956149891324734,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Georgia,GEO,5795.483822922803,2019,hc6_che_loess,4.9122448758964685,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Paraguay,PRY,6205.625973945806,2022,hc6_che_loess,4.684212213156774,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+South Africa,ZAF,6271.3749970615245,2020,hc6_che_loess,4.659301850286243,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Guyana,GUY,6434.903207997396,2019,hc6_che_loess,4.604004632378187,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Ecuador,ECU,6540.993812969184,2022,hc6_che_loess,4.572178496038928,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Armenia,ARM,6773.514379094577,2022,hc6_che_loess,4.489565976415845,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Lebanon,LBN,6873.4514383806745,2021,hc6_che_loess,4.468614494036325,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Thailand,THA,6951.30488158535,2018,hc6_che_loess,4.454379509127705,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Suriname,SUR,7118.231230613029,2019,hc6_che_loess,4.429276882308687,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+North Macedonia,MKD,7370.898449430148,2022,hc6_che_loess,4.3976080439616645,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Bosnia and Herzegovina,BIH,7655.605109161804,2022,hc6_che_loess,4.355413189941666,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Maldives,MDV,7933.701187173196,2020,hc6_che_loess,4.338991604634095,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Belarus,BLR,7944.179719965559,2022,hc6_che_loess,4.338253128788684,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Botswana,BWA,8080.04371202932,2019,hc6_che_loess,4.327666678368483,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Brazil,BRA,9013.485558400858,2019,hc6_che_loess,4.21310289279011,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Gabon,GAB,9034.546789742915,2019,hc6_che_loess,4.2098733819125265,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Serbia,SRB,9351.540257728022,2022,hc6_che_loess,4.15986127483421,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Dominican Republic,DOM,9490.46401076917,2019,hc6_che_loess,4.136191013916438,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Montenegro,MNE,9695.562951277518,2021,hc6_che_loess,4.100455174139924,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Mauritius,MUS,10463.576358930426,2019,hc6_che_loess,3.972404971850009,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Malaysia,MYS,10927.487333058716,2021,hc6_che_loess,3.907081040963395,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Kazakhstan,KAZ,11067.088157945012,2021,hc6_che_loess,3.8903609292562686,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Mexico,MEX,11377.718916906342,2022,hc6_che_loess,3.854750065228172,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+China,CHN,12149.46293869624,2021,hc6_che_loess,3.811504015477454,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Bulgaria,BGR,13193.511591064866,2022,hc6_che_loess,3.8516356584239704,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Costa Rica,CRI,13625.902500911285,2022,hc6_che_loess,3.8818222635923787,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Russian Federation,RUS,15134.889692821238,2019,hc6_che_loess,3.9764801862717785,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Chile,CHL,15377.969531367024,2022,hc6_che_loess,3.989028460740105,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Romania,ROU,15694.302586357226,2022,hc6_che_loess,4.004301057889681,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Seychelles,SYC,17142.298062134178,2019,hc6_che_loess,4.097227085768829,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Hungary,HUN,18302.947416550796,2022,hc6_che_loess,4.1460145730689035,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Croatia,HRV,18629.322873764548,2022,hc6_che_loess,4.158454165738395,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Poland,POL,18653.55185383013,2022,hc6_che_loess,4.160298956803994,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Uruguay,URY,20690.22598116782,2022,hc6_che_loess,4.340171668289208,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Greece,GRC,20801.701981405982,2022,hc6_che_loess,4.349163079906988,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Slovakia,SVK,21245.22544637435,2022,hc6_che_loess,4.3826628115611665,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Latvia,LVA,21549.97962195208,2022,hc6_che_loess,4.4039257820642534,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Trinidad and Tobago,TTO,22301.01850937032,2018,hc6_che_loess,4.451685518482817,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Portugal,PRT,24651.81214027138,2022,hc6_che_loess,4.573111950636036,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Lithuania,LTU,25259.901220968863,2022,hc6_che_loess,4.599264685851205,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Czechia,CZE,27628.957475162228,2022,hc6_che_loess,4.740331669675324,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Slovenia,SVN,28504.18886589615,2022,hc6_che_loess,4.821894633355915,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Estonia,EST,28608.587992967907,2022,hc6_che_loess,4.8322125192388405,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Spain,ESP,29890.65199381552,2022,hc6_che_loess,4.955996134312022,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Cyprus,CYP,32288.175184551517,2022,hc6_che_loess,5.1321434274372555,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Republic of Korea,KOR,32325.90460591352,2022,hc6_che_loess,5.133667320561937,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Saudi Arabia,SAU,32921.03121334567,2021,hc6_che_loess,5.153717895116823,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Japan,JPN,33546.03681525187,2021,hc6_che_loess,5.169165443618561,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Italy,ITA,34723.564532779594,2022,hc6_che_loess,5.192035542686623,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Malta,MLT,35204.290343042885,2022,hc6_che_loess,5.200918128325619,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+France,FRA,40946.11305212074,2022,hc6_che_loess,5.315273948066978,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+United Kingdom of Great Britain and Northern Ireland,GBR,45567.57685127468,2022,hc6_che_loess,5.316615341489824,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+United Arab Emirates,ARE,48028.56282348628,2021,hc6_che_loess,5.305141707460619,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Germany,DEU,49046.24563446035,2022,hc6_che_loess,5.301798490348992,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Belgium,BEL,50219.86372970345,2022,hc6_che_loess,5.299612085851256,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Finland,FIN,50751.407769341466,2022,hc6_che_loess,5.298189015941901,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Austria,AUT,52449.663466009086,2022,hc6_che_loess,5.290600329011534,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Israel,ISR,55004.776177026775,2021,hc6_che_loess,5.269094864657224,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Canada,CAN,55677.8163457419,2022,hc6_che_loess,5.262699740226557,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Sweden,SWE,56611.14594494117,2022,hc6_che_loess,5.252302902974562,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Netherlands (Kingdom of the),NLD,57382.597813904846,2022,hc6_che_loess,5.24202040348853,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Australia,AUS,66440.14823883772,2021,hc6_che_loess,5.029006260723031,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Denmark,DNK,68131.88868761326,2022,hc6_che_loess,4.983227571903363,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Iceland,ISL,73784.99526523233,2022,hc6_che_loess,4.849325233829476,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+United States of America,USA,75377.84399300831,2022,hc6_che_loess,4.817106016024697,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Switzerland,CHE,93652.24419522531,2022,hc6_che_loess,4.4942941062876125,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Ireland,IRL,105363.52802391042,2022,hc6_che_loess,4.280098977814308,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Norway,NOR,109367.63479149292,2022,hc6_che_loess,4.204401847542059,hc6_loess,hc6,0,,Preventive care (loess smoothed)
+Luxembourg,LUX,126498.55305180688,2022,hc6_che_loess,3.8759123198659093,hc6_loess,hc6,0,,Preventive care (loess smoothed)

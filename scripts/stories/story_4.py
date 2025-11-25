@@ -1,9 +1,7 @@
 """Curative vs preventative care"""
 
-
 import pandas as pd
 import numpy as np
-from bblocks import places
 import statsmodels.api as sm
 
 from scripts.common import read_ghed_data
@@ -121,7 +119,7 @@ chart_2_indicators = {"gghed": "hc6_gghed_che",
 
 
 def prepare_chart2_data():
-    """ """
+    """Prepare chart 2 data"""
 
     return (GHED_DATA
 
@@ -149,7 +147,7 @@ def prepare_chart2_data():
 
 
 def chart2():
-    """ """
+    """Generate chart 2 - scatter plot of government and external spending on prevention"""
 
     df = prepare_chart2_data()
 

@@ -1,0 +1,193 @@
+country_name,iso3_code,year,value,income_level
+Algeria,DZA,2023,10773780896.24031,Lower middle income
+Angola,AGO,2023,2795608829.400667,Lower middle income
+Benin,BEN,2023,656561357.6042372,Lower middle income
+Botswana,BWA,2023,1214319651.6326816,Upper middle income
+Burkina Faso,BFA,2023,1651743677.8197455,Low income
+Burundi,BDI,2023,385225064.12939143,Low income
+Cabo Verde,CPV,2023,151541761.91816407,Lower middle income
+Cameroon,CMR,2023,2244278583.985556,Lower middle income
+Central African Republic,CAF,2023,277258793.11961406,Low income
+Chad,TCD,2023,916475701.8367618,Low income
+Comoros,COM,2023,86935929.19559933,Lower middle income
+Congo,COG,2023,467137486.9429057,Lower middle income
+Côte d’Ivoire,CIV,2023,2732637507.121731,Lower middle income
+DR Congo,COD,2023,2478810895.574108,Low income
+Equatorial Guinea,GNQ,2023,431742263.44390535,Upper middle income
+Eritrea,ERI,2023,98204485.385738,Low income
+Eswatini,SWZ,2023,364285913.03849685,Lower middle income
+Ethiopia,ETH,2023,4478273887.964744,Low income
+Gabon,GAB,2023,628607890.754751,Upper middle income
+Gambia,GMB,2023,69453545.3199043,Low income
+Ghana,GHA,2023,2373847924.154004,Lower middle income
+Guinea,GIN,2023,854677852.227041,Low income
+Guinea-Bissau,GNB,2023,176865441.3320692,Low income
+Kenya,KEN,2023,4701545866.415617,Lower middle income
+Lesotho,LSO,2023,283478527.2137249,Lower middle income
+Liberia,LBR,2023,570952404.572009,Low income
+Madagascar,MDG,2023,544058167.4845806,Low income
+Malawi,MWI,2023,870911231.7030134,Low income
+Mali,MLI,2023,807680866.2362313,Low income
+Mauritania,MRT,2023,462639399.9224756,Lower middle income
+Mauritius,MUS,2023,784794317.2460871,Upper middle income
+Mozambique,MOZ,2023,1781374122.877079,Low income
+Namibia,NAM,2023,1176617332.068091,Upper middle income
+Niger,NER,2023,680497018.0829419,Low income
+Nigeria,NGA,2023,15227159530.901424,Lower middle income
+Rwanda,RWA,2023,734790931.3449346,Low income
+Sao Tome and Principe,STP,2023,39490956.00171242,Lower middle income
+Senegal,SEN,2023,1323761199.3920908,Lower middle income
+Seychelles,SYC,2023,98046905.35437135,High income
+Sierra Leone,SLE,2023,302565232.9205322,Low income
+South Africa,ZAF,2023,33919036186.97798,Upper middle income
+South Sudan,SSD,2023,835482428.9798279,Low income
+Togo,TGO,2023,554585385.5318707,Low income
+Uganda,UGA,2023,2199919845.593454,Low income
+Tanzania,TZA,2023,2415301207.412647,Lower middle income
+Zambia,ZMB,2023,1648723039.2128088,Lower middle income
+Zimbabwe,ZWE,2023,1028319091.7999998,Lower middle income
+Antigua and Barbuda,ATG,2023,78501553.00740743,High income
+Argentina,ARG,2023,66348815003.29066,Upper middle income
+Bahamas,BHS,2023,903667968.75,High income
+Barbados,BRB,2023,363218719.48,High income
+Belize,BLZ,2023,127199478.15,Lower middle income
+Bolivia,BOL,2023,3122763092.438495,Lower middle income
+Brazil,BRA,2023,213217441638.8393,Upper middle income
+Canada,CAN,2023,243129893130.9405,High income
+Chile,CHL,2023,34137970069.289383,High income
+Colombia,COL,2023,29883485534.455,Upper middle income
+Costa Rica,CRI,2023,5939269111.195675,Upper middle income
+Cuba,CUB,2023,,Upper middle income
+Dominica,DMA,2023,32753259.16296296,Upper middle income
+Dominican Republic,DOM,2023,5539546851.183099,Upper middle income
+Ecuador,ECU,2023,9160747070.31,Upper middle income
+El Salvador,SLV,2023,3159197021.4800005,Lower middle income
+Grenada,GRD,2023,61630486.38148148,Upper middle income
+Guatemala,GTM,2023,7105158016.947342,Upper middle income
+Guyana,GUY,2023,417335056.9544364,Upper middle income
+Haiti,HTI,2023,633245350.2638978,Lower middle income
+Honduras,HND,2023,2652196689.408453,Lower middle income
+Jamaica,JAM,2023,1477134594.9794135,Upper middle income
+Mexico,MEX,2023,98730452569.6755,Upper middle income
+Nicaragua,NIC,2023,1477669652.1319387,Lower middle income
+Panama,PAN,2023,6945912109.379998,Upper middle income
+Paraguay,PRY,2023,3603510640.102795,Upper middle income
+Peru,PER,2023,15079125427.673096,Upper middle income
+St. Kitts and Nevis,KNA,2023,60546179.877777785,High income
+St. Lucia,LCA,2023,114934805.41111112,Upper middle income
+St. Vincent and the Grenadines,VCT,2023,47541238.28888889,Upper middle income
+Suriname,SUR,2023,186808007.81927508,Upper middle income
+Trinidad and Tobago,TTO,2023,1918250811.6166,High income
+United States,USA,2023,4627736500000.0,High income
+Uruguay,URY,2023,7033974439.550021,High income
+Afghanistan,AFG,2023,2448637747.111764,Low income
+Bahrain,BHR,2023,1845638193.9893613,High income
+Djibouti,DJI,2023,89434834.61262316,Lower middle income
+Egypt,EGY,2023,16196630908.502356,Lower middle income
+Iran,IRN,2023,24197873638.027008,Lower middle income
+Iraq,IRQ,2023,15022892190.47619,Upper middle income
+Jordan,JOR,2023,3913399881.71831,Upper middle income
+Kuwait,KWT,2023,8124911424.877522,High income
+Lebanon,LBN,2023,1505795994.0365548,Upper middle income
+Libya,LBY,2023,3436607351.6226287,Upper middle income
+Morocco,MAR,2023,8758635543.914196,Lower middle income
+Palestine,PSE,2023,1869850952.1499996,Lower middle income
+Oman,OMN,2023,3696271601.196359,High income
+Pakistan,PAK,2023,7545442785.158365,Lower middle income
+Qatar,QAT,2023,5375319260.818681,High income
+Saudi Arabia,SAU,2023,60715800000.0,High income
+Somalia,SOM,2023,410694238.6831276,Low income
+Sudan,SDN,2023,1055056249.5931236,Low income
+Syria,SYR,2023,786648990.0137521,Low income
+Tunisia,TUN,2023,3876197106.258307,Lower middle income
+United Arab Emirates,ARE,2023,25557171119.80939,High income
+Yemen,YEM,2023,1882135579.04221,Low income
+Albania,ALB,2023,1660642139.4505436,Upper middle income
+Andorra,AND,2023,291501879.8853683,High income
+Armenia,ARM,2023,2257460991.912123,Upper middle income
+Austria,AUT,2023,57068090993.62347,High income
+Azerbaijan,AZE,2023,3093507869.9470587,Upper middle income
+Belarus,BLR,2023,5088613776.122232,Upper middle income
+Belgium,BEL,2023,69646694524.8917,High income
+Bosnia and Herzegovina,BIH,2023,2461697203.1327834,Upper middle income
+Bulgaria,BGR,2023,8110419330.594416,Upper middle income
+Croatia,HRV,2023,6032367568.673206,High income
+Cyprus,CYP,2023,2751741010.1762733,High income
+Czechia,CZE,2023,28921240611.151337,High income
+Denmark,DNK,2023,38726085361.76626,High income
+Estonia,EST,2023,3084793873.9390774,High income
+Finland,FIN,2023,30892804503.929462,High income
+France,FRA,2023,351563085827.70264,High income
+Georgia,GEO,2023,2110587342.1461189,Upper middle income
+Germany,DEU,2023,531511413807.0827,High income
+Greece,GRC,2023,20438438832.01761,High income
+Hungary,HUN,2023,13630433963.470736,High income
+Iceland,ISL,2023,2737948058.5709114,High income
+Ireland,IRL,2023,36256323215.57209,High income
+Israel,ISR,2023,36356009878.44415,High income
+Italy,ITA,2023,193715676021.2256,High income
+Kazakhstan,KAZ,2023,9955947957.427689,Upper middle income
+Kyrgyzstan,KGZ,2023,683661087.5625027,Lower middle income
+Latvia,LVA,2023,3098330052.3440824,High income
+Liechtenstein,LIE,2023,455177375.9975069,High income
+Lithuania,LTU,2023,5840803203.9147835,High income
+Luxembourg,LUX,2023,4963332289.736569,High income
+Malta,MLT,2023,1964100621.397235,High income
+Monaco,MCO,2023,311814403.67883915,High income
+Montenegro,MNE,2023,727126264.9832377,Upper middle income
+Netherlands,NLD,2023,113490985905.37776,High income
+North Macedonia,MKD,2023,1171284851.170504,Upper middle income
+Norway,NOR,2023,45538564394.1139,High income
+Poland,POL,2023,57996723478.69711,High income
+Portugal,PRT,2023,29049671020.38205,High income
+Moldova,MDA,2023,1125711361.2027152,Upper middle income
+Romania,ROU,2023,20026283626.098557,Upper middle income
+Russia,RUS,2023,145925057941.85513,Upper middle income
+San Marino,SMR,2023,132350252.23377696,High income
+Serbia,SRB,2023,6532903972.125141,Upper middle income
+Slovakia,SVK,2023,9844930633.307297,High income
+Slovenia,SVN,2023,6430862362.804237,High income
+Spain,ESP,2023,149382955545.27124,High income
+Sweden,SWE,2023,65299198673.88099,High income
+Switzerland,CHE,2023,104527765593.6744,High income
+Tajikistan,TJK,2023,884660444.9545854,Lower middle income
+Türkiye,TUR,2023,47808049010.73247,Upper middle income
+Turkmenistan,TKM,2023,4281553292.411427,Upper middle income
+Ukraine,UKR,2023,,Lower middle income
+United Kingdom,GBR,2023,370391179100.3002,High income
+Uzbekistan,UZB,2023,6849474568.189363,Lower middle income
+Bangladesh,BGD,2023,9167367040.835136,Lower middle income
+Bhutan,BTN,2023,127549129.64264835,Lower middle income
+India,IND,2023,121785364622.28296,Lower middle income
+Maldives,MDV,2023,609641901.8110813,Upper middle income
+Myanmar,MMR,2023,3041729335.3091135,Lower middle income
+Nepal,NPL,2023,2493165588.081933,Lower middle income
+Sri Lanka,LKA,2023,3083630469.0825872,Lower middle income
+Thailand,THA,2023,23411191098.717964,Upper middle income
+Timor-Leste,TLS,2023,199634140.00999993,Lower middle income
+Australia,AUS,2023,184639029557.82413,High income
+Brunei Darussalam,BRN,2023,336411750.1226285,High income
+Cambodia,KHM,2023,1996131273.1040463,Lower middle income
+China,CHN,2023,1085969539219.632,Upper middle income
+Fiji,FJI,2023,196738541.1077163,Upper middle income
+Indonesia,IDN,2023,37054470157.2899,Lower middle income
+Japan,JPN,2023,452485503574.496,High income
+Kiribati,KIR,2023,31559057.077052686,Lower middle income
+Laos,LAO,2023,210156739.53995153,Lower middle income
+Malaysia,MYS,2023,15818725467.539864,Upper middle income
+Marshall Islands,MHL,2023,34719699.86000001,Upper middle income
+Micronesia,FSM,2023,57191089.62999999,Lower middle income
+Mongolia,MNG,2023,1234156565.3503902,Lower middle income
+Nauru,NRU,2023,27221931.917254873,High income
+New Zealand,NZL,2023,25849920469.401695,High income
+Palau,PLW,2023,29850376.13,High income
+Papua New Guinea,PNG,2023,884679599.1667929,Lower middle income
+Philippines,PHL,2023,22295194174.718166,Lower middle income
+South Korea,KOR,2023,157516604670.02792,High income
+Samoa,WSM,2023,63441275.76792259,Lower middle income
+Singapore,SGP,2023,22702507146.5916,High income
+Solomon Islands,SLB,2023,89084873.19156738,Lower middle income
+Tonga,TON,2023,37398224.85082934,Upper middle income
+Tuvalu,TUV,2023,16917655.49074112,Upper middle income
+Vanuatu,VUT,2023,45958603.34247034,Lower middle income
+Vietnam,VNM,2023,19788659861.24052,Lower middle income

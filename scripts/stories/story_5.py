@@ -3,7 +3,7 @@
 import pandas as pd
 from bblocks import places
 
-from scripts.common import read_ghed_data, add_income_fy22
+from scripts.common import read_ghed_data, add_income_fy23
 from scripts.logger import logger
 from scripts.config import Paths
 
@@ -18,7 +18,7 @@ def prepare_base_data():
             lambda d: d.indicator_code == "che_usd2023",
             ["country_name", "iso3_code", "year", "value"],
         ]
-        .pipe(add_income_fy22)
+        .pipe(add_income_fy23)
         .loc[lambda d: d.year == 2023]
         .dropna(subset=["income_level"])
         .assign(

@@ -12,7 +12,7 @@ GHED_DATA = read_ghed_data()
 
 
 
-def prepare_chat_base_data():
+def prepare_base_data():
     """Prepare data for Voronoi total health spending chart."""
 
     return (GHED_DATA
@@ -24,7 +24,7 @@ def prepare_chat_base_data():
             )
 
 
-def transform(value, threshold = 2e9, exp=0.75) -> float:
+def power_compress(value: float, threshold: int, exp: float =0.75) -> float:
     """Apply a power compression to values below the threshold.
 
     Values at or above the threshold are returned unchanged. Values below
@@ -46,18 +46,21 @@ def transform(value, threshold = 2e9, exp=0.75) -> float:
         return threshold * (value / threshold) ** exp
 
 
-def format_values(value_series: pd.Series) -> pd.Series:
+def format_values(value_series: pd.Series, decimals: int = 1) -> pd.Series:
     """Format values based on appropriate scale - e.g., billions, millions, etc."""
+
+    def _fmt(num):
+        return f"{num:.{decimals}f}".rstrip("0").rstrip(".")
 
     def format_value(value):
         if value >= 1e12:
-            return f"${value / 1e12:.1f} trillion"
+            return f"${_fmt(value / 1e12)} trillion"
         if value >= 1e9:
-            return f"${value / 1e9:.1f} billion"
+            return f"${_fmt(value / 1e9)} billion"
         elif value >= 1e6:
-            return f"${value / 1e6:.1f} million"
+            return f"${_fmt(value / 1e6)} million"
         else:
-            return f"${value}"
+            return f"${_fmt(value)}"
 
     return value_series.apply(format_value)
 
@@ -69,12 +72,12 @@ def chart_1():
     (countries with spending >= $500M) used for the Voronoi layout.
     """
 
-    df = prepare_chat_base_data()
+    df = prepare_base_data()
     df.to_csv(Paths.output / "story_5" / "chart_1_data.csv", index=False)
 
     (df
      .loc[lambda d: d.value >= 500_000_000]
-     .assign(weight=lambda d: d['value'].apply(lambda x: transform(x, threshold=10_000_000_000, exp=0.75)))
+     .assign(weight=lambda d: d['value'].apply(lambda x: power_compress(x, threshold=10_000_000_000, exp=0.75)))
      .assign(value_annotation=lambda d: format_values(d.value))
      .to_csv(Paths.output / "story_5" / "chart_1_voronoi_data.csv", index=False)
      )

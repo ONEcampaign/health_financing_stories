@@ -15,9 +15,7 @@ def setup_logger(name: str, level: int = logging.INFO) -> logging.Logger:
     logger_.setLevel(level)
 
     if not logger_.handlers:
-        formatter = logging.Formatter(
-            "%(levelname)s - %(message)s"
-        )
+        formatter = logging.Formatter("%(levelname)s - %(message)s")
 
         console_handler = logging.StreamHandler()
         console_handler.setLevel(level)

@@ -10,21 +10,26 @@ from scripts.config import Paths
 GHED_DATA = read_ghed_data()
 
 
-
-
 def prepare_base_data():
     """Prepare data for Voronoi total health spending chart."""
 
-    return (GHED_DATA
-            .loc[lambda d: d.indicator_code == "che_usd2023", ["country_name", "iso3_code", "year", "value"]]
-            .pipe(add_income_fy22)
-            .loc[lambda d: d.year == 2023]
-            .dropna(subset=["income_level"])
-            .assign(country_name = lambda d: places.resolve_places(d.iso3_code, to_type="name_short", from_type="iso3_code"))
+    return (
+        GHED_DATA.loc[
+            lambda d: d.indicator_code == "che_usd2023",
+            ["country_name", "iso3_code", "year", "value"],
+        ]
+        .pipe(add_income_fy22)
+        .loc[lambda d: d.year == 2023]
+        .dropna(subset=["income_level"])
+        .assign(
+            country_name=lambda d: places.resolve_places(
+                d.iso3_code, to_type="name_short", from_type="iso3_code"
             )
+        )
+    )
 
 
-def power_compress(value: float, threshold: int, exp: float =0.75) -> float:
+def power_compress(value: float, threshold: int, exp: float = 0.75) -> float:
     """Apply a power compression to values below the threshold.
 
     Values at or above the threshold are returned unchanged. Values below
@@ -75,14 +80,19 @@ def chart_1():
     df = prepare_base_data()
     df.to_csv(Paths.output / "story_5" / "chart_1_data.csv", index=False)
 
-    (df
-     .loc[lambda d: d.value >= 500_000_000]
-     .assign(weight=lambda d: d['value'].apply(lambda x: power_compress(x, threshold=10_000_000_000, exp=0.75)))
-     .assign(value_annotation=lambda d: format_values(d.value))
-     .to_csv(Paths.output / "story_5" / "chart_1_voronoi_data.csv", index=False)
-     )
+    (
+        df.loc[lambda d: d.value >= 500_000_000]
+        .assign(
+            weight=lambda d: d["value"].apply(
+                lambda x: power_compress(x, threshold=10_000_000_000, exp=0.75)
+            )
+        )
+        .assign(value_annotation=lambda d: format_values(d.value))
+        .to_csv(Paths.output / "story_5" / "chart_1_voronoi_data.csv", index=False)
+    )
 
     logger.info("Story 5 chart generated successfully.")
+
 
 if __name__ == "__main__":
     chart_1()

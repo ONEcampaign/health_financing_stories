@@ -44,13 +44,13 @@ South Sudan,SSD,2023,835482428.9798279,Low income
 Togo,TGO,2023,554585385.5318707,Low income
 Uganda,UGA,2023,2199919845.593454,Low income
 Tanzania,TZA,2023,2415301207.412647,Lower middle income
-Zambia,ZMB,2023,1648723039.2128088,Lower middle income
+Zambia,ZMB,2023,1648723039.2128088,Low income
 Zimbabwe,ZWE,2023,1028319091.7999998,Lower middle income
 Antigua and Barbuda,ATG,2023,78501553.00740743,High income
 Argentina,ARG,2023,66348815003.29066,Upper middle income
 Bahamas,BHS,2023,903667968.75,High income
 Barbados,BRB,2023,363218719.48,High income
-Belize,BLZ,2023,127199478.15,Lower middle income
+Belize,BLZ,2023,127199478.15,Upper middle income
 Bolivia,BOL,2023,3122763092.438495,Lower middle income
 Brazil,BRA,2023,213217441638.8393,Upper middle income
 Canada,CAN,2023,243129893130.9405,High income
@@ -70,7 +70,7 @@ Honduras,HND,2023,2652196689.408453,Lower middle income
 Jamaica,JAM,2023,1477134594.9794135,Upper middle income
 Mexico,MEX,2023,98730452569.6755,Upper middle income
 Nicaragua,NIC,2023,1477669652.1319387,Lower middle income
-Panama,PAN,2023,6945912109.379998,Upper middle income
+Panama,PAN,2023,6945912109.379998,High income
 Paraguay,PRY,2023,3603510640.102795,Upper middle income
 Peru,PER,2023,15079125427.673096,Upper middle income
 St. Kitts and Nevis,KNA,2023,60546179.877777785,High income
@@ -88,7 +88,7 @@ Iran,IRN,2023,24197873638.027008,Lower middle income
 Iraq,IRQ,2023,15022892190.47619,Upper middle income
 Jordan,JOR,2023,3913399881.71831,Upper middle income
 Kuwait,KWT,2023,8124911424.877522,High income
-Lebanon,LBN,2023,1505795994.0365548,Upper middle income
+Lebanon,LBN,2023,1505795994.0365548,Lower middle income
 Libya,LBY,2023,3436607351.6226287,Upper middle income
 Morocco,MAR,2023,8758635543.914196,Lower middle income
 Palestine,PSE,2023,1869850952.1499996,Lower middle income
@@ -141,7 +141,7 @@ Norway,NOR,2023,45538564394.1139,High income
 Poland,POL,2023,57996723478.69711,High income
 Portugal,PRT,2023,29049671020.38205,High income
 Moldova,MDA,2023,1125711361.2027152,Upper middle income
-Romania,ROU,2023,20026283626.098557,Upper middle income
+Romania,ROU,2023,20026283626.098557,High income
 Russia,RUS,2023,145925057941.85513,Upper middle income
 San Marino,SMR,2023,132350252.23377696,High income
 Serbia,SRB,2023,6532903972.125141,Upper middle income
@@ -180,7 +180,7 @@ Micronesia,FSM,2023,57191089.62999999,Lower middle income
 Mongolia,MNG,2023,1234156565.3503902,Lower middle income
 Nauru,NRU,2023,27221931.917254873,High income
 New Zealand,NZL,2023,25849920469.401695,High income
-Palau,PLW,2023,29850376.13,High income
+Palau,PLW,2023,29850376.13,Upper middle income
 Papua New Guinea,PNG,2023,884679599.1667929,Lower middle income
 Philippines,PHL,2023,22295194174.718166,Lower middle income
 South Korea,KOR,2023,157516604670.02792,High income

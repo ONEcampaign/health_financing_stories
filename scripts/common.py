@@ -248,3 +248,26 @@ def add_income_fy22(
     """Add FY22 income level to a dataframe based on ISO3 codes"""
 
     return df.assign(**{income_level_col: df[iso3_col].map(FY22_INCOME_DICT)})
+
+
+FY23_INCOME_DICT = {
+    **FY22_INCOME_DICT,
+    # Upgrades
+    "BLZ": "Upper middle income",   # was Lower middle income
+    "PAN": "High income",           # was Upper middle income
+    "ROU": "High income",           # was Upper middle income
+    # Downgrades
+    "LBN": "Lower middle income",   # was Upper middle income
+    "PLW": "Upper middle income",   # was High income
+    "ZMB": "Low income",            # was Lower middle income
+}
+
+
+def add_income_fy23(
+    df: pd.DataFrame,
+    iso3_col: str = "iso3_code",
+    income_level_col: str = "income_level",
+) -> pd.DataFrame:
+    """Add FY23 income level to a dataframe based on ISO3 codes"""
+
+    return df.assign(**{income_level_col: df[iso3_col].map(FY23_INCOME_DICT)})
